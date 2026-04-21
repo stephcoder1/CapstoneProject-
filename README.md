@@ -1,75 +1,87 @@
-#  Smart Scheduling Optimizer with Break-Aware Planning
+# 📦 Inventory Demand Forecasting & Restocking System
 
-# Overview
+## 🧠 Project Overview
 
-This project is a machine learning scheduling system designed to optimize daily operations for a hair braiding business while maintaining realistic working conditions.
+This project focuses on building a machine learning system that helps predict future product demand and recommends when and how much inventory to restock. The goal is to simulate a real-world business problem where companies need to balance having enough stock without over-ordering.
 
-Unlike traditional scheduling systems that aim for maximum utilization, this system introduces **break-aware optimization**, ensuring that appointments are efficiently scheduled while incorporating intentional rest periods to prevent fatigue and maintain service quality.
+Instead of just creating a prediction model, this project goes a step further by turning predictions into actionable decisions.
 
-#  Problem Statement
+---
 
-Hair braiding businesses often face:
+## 🎯 Objective
 
-* Unpredictable service durations
-* Inefficient scheduling with random gaps
-* Overbooking leading to fatigue and burnout
-* Lack of structured breaks during long workdays
+The main objective of this project is to:
 
-Most scheduling approaches either:
+* Predict how many units of a product will be sold in the near future
+* Account for uncertainty in predictions
+* Provide restocking recommendations based on predicted demand and current inventory
 
-* Leave too many gaps (lost revenue), or
-* Overfill schedules (unrealistic and exhausting)
+---
 
-# Solution
+## 📊 Dataset
 
-This project builds a Scheduling System that:
+A synthetic dataset was created to simulate real-world sales data. Each row represents a product's daily performance.
 
-1. Predicts service duration
-2. Accounts for client reliability (no-show risk)
-3. Generates an optimized daily schedule
-4. Incorporates intentional 45–60 minute breaks
-5. Balances efficiency with realistic working conditions
+### Features include:
 
-# Key Concept: Controlled vs Uncontrolled Time
+* Product and store identifiers
+* Historical sales (lag features like previous day and previous week)
+* Rolling averages to capture trends
+* Pricing and discount information
+* Promotion indicators
+* Time-based features (day of week, month, weekend)
+* Current stock levels
 
-* *Idle Time (Bad):** Random gaps between appointments → lost revenue
-* *Break Time (Good):** Planned 45–60 minute rest periods → improved performance
+These features were chosen to reflect factors that typically influence demand in real business settings.
 
-The system minimizes idle time while **intentionally inserting structured breaks**.
+---
 
+## 🤖 Model
 
-# Dataset
+A machine learning regression model (Random Forest) was used to predict daily product demand. The model learns patterns from historical data, including seasonality, pricing effects, and recent sales trends.
 
-A synthetic dataset will be generated to simulate real-world braiding operations, including:
+### Evaluation Metric:
 
-* `client_id`
-* `style` (knotless, box braids, cornrows, twists)
-* `hair_length` (short, medium, long)
-* `thickness` (thin, normal, thick)
-* `duration` (calculated with realistic variability)
-* `price`
-* `no_show_risk`
+* Mean Absolute Error (MAE) was used to measure how far predictions are from actual sales on average.
 
-The dataset reflects:
+---
 
-* Service complexity
-* Time variability
-* Client behavior patterns
+## 🔮 Uncertainty Estimation
 
-#  Tech Stack
+To make predictions more realistic, a confidence range is added to each prediction. This helps account for variability in demand and allows for better decision-making.
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
+Example:
 
+* Predicted demand: 50 units
+* Estimated range: 45–60 units
 
-# Example Output
+---
 
-Generated daily schedule:
+## 📦 Restock Recommendation System
 
-* 9:00 AM → Knotless Braids (5 hrs)
-* 2:00 PM → Box Braids (4 hrs)
-* 6:00 PM → Break (1 hour)
-* 7:00 PM → Cornrows
+A simple decision engine was built on top of the model to recommend restocking actions.
 
+### Logic:
+
+* Uses predicted demand and upper confidence bound
+* Compares against current stock levels
+* Outputs how many units to restock and priority level (Low, Medium, High)
+
+This transforms the project from just a model into a basic decision-support system.
+
+---
+
+## 🚀 Key Takeaways
+
+Through this project, I practiced:
+
+* Working with structured, numerical data
+* Feature engineering for time-based patterns
+* Training and evaluating regression models
+* Thinking beyond predictions to real-world application
+
+---
+
+## 💡 Summary
+
+This project demonstrates how machine learning can be used not only to predict outcomes but also to support real business decisions like inventory management and restocking.
