@@ -1,87 +1,92 @@
 # 📦 Inventory Demand Forecasting & Restocking System
 
-## 🧠 Project Overview
+# Inventory Management ML System
 
-This project focuses on building a machine learning system that helps predict future product demand and recommends when and how much inventory to restock. The goal is to simulate a real-world business problem where companies need to balance having enough stock without over-ordering.
+## 📌 Overview
 
-Instead of just creating a prediction model, this project goes a step further by turning predictions into actionable decisions.
+This project is a machine learning-based inventory management system that predicts when a product should be restocked. The goal is to simulate real-world inventory behavior and help businesses avoid running out of stock.
 
----
-
-## 🎯 Objective
-
-The main objective of this project is to:
-
-* Predict how many units of a product will be sold in the near future
-* Account for uncertainty in predictions
-* Provide restocking recommendations based on predicted demand and current inventory
+Since real data was not available, a synthetic dataset was generated to mimic realistic inventory patterns such as demand, stock levels, and supplier delays.
 
 ---
 
-## 📊 Dataset
+## 🎯 Objectives
 
-A synthetic dataset was created to simulate real-world sales data. Each row represents a product's daily performance.
-
-### Features include:
-
-* Product and store identifiers
-* Historical sales (lag features like previous day and previous week)
-* Rolling averages to capture trends
-* Pricing and discount information
-* Promotion indicators
-* Time-based features (day of week, month, weekend)
-* Current stock levels
-
-These features were chosen to reflect factors that typically influence demand in real business settings.
+* Generate realistic inventory data
+* Train a machine learning model to predict restocking needs
+* Automate the workflow using a structured pipeline
+* Build a project that reflects real-world business logic
 
 ---
 
-## 🤖 Model
+## 🧠 How It Works
 
-A machine learning regression model (Random Forest) was used to predict daily product demand. The model learns patterns from historical data, including seasonality, pricing effects, and recent sales trends.
+The project follows a simple ML pipeline:
 
-### Evaluation Metric:
+1. **Data Generation**
 
-* Mean Absolute Error (MAE) was used to measure how far predictions are from actual sales on average.
+   * Creates synthetic inventory data with realistic relationships
+   * Includes features like stock level, demand, and lead time
 
----
+2. **Model Training**
 
-## 🔮 Uncertainty Estimation
+   * Uses a Random Forest classifier
+   * Learns patterns such as when stock is too low and needs restocking
 
-To make predictions more realistic, a confidence range is added to each prediction. This helps account for variability in demand and allows for better decision-making.
+3. **Prediction**
 
-Example:
-
-* Predicted demand: 50 units
-* Estimated range: 45–60 units
-
----
-
-## 📦 Restock Recommendation System
-
-A simple decision engine was built on top of the model to recommend restocking actions.
-
-### Logic:
-
-* Uses predicted demand and upper confidence bound
-* Compares against current stock levels
-* Outputs how many units to restock and priority level (Low, Medium, High)
-
-This transforms the project from just a model into a basic decision-support system.
+   * Tests the trained model on sample data
+   * Outputs whether restocking is needed
 
 ---
 
-## 🚀 Key Takeaways
+## 📁 Project Structure
 
-Through this project, I practiced:
+```
+CapstoneProject/
+│
+├── data/
+│   └── inventory_data.csv
+│
+├── src/
+│   ├── data_generation.py
+│   ├── train_model.py
+│   └── predict.py
+│
+├── models/
+│   └── inventory_model.pkl
+│
+├── main.py
+├── requirements.txt
+└── README.md
+```
 
-* Working with structured, numerical data
-* Feature engineering for time-based patterns
-* Training and evaluating regression models
-* Thinking beyond predictions to real-world application
+## 🧪 Example Output
+
+```
+--- Generating Dataset ---
+--- Training Model ---
+--- Running Sample Prediction ---
+Restock Needed
+```
 
 ---
 
-## 💡 Summary
+## 🤖 Model Details
 
-This project demonstrates how machine learning can be used not only to predict outcomes but also to support real business decisions like inventory management and restocking.
+* Model: Random Forest Classifier
+* Task: Binary Classification (Restock vs No Restock)
+* Key Features:
+
+  * Stock Level
+  * Daily Demand
+  * Supplier Lead Time
+  * Units Sold
+
+---
+
+## 💡 Key Insights
+
+* Lower stock levels increase restocking probability
+* Higher demand leads to faster inventory depletion
+* Lead time impacts when restocking should occur
