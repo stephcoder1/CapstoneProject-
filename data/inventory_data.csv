@@ -1,0 +1,501 @@
+product_id,product_name,category,price,stock_level,daily_demand,supplier_lead_time,reorder_point,is_weekend,units_sold,restocked
+0,Hair Gel,Styling,17.77,146,5,7,35,0,3,0
+1,Shampoo,Care,46.13,168,6,5,30,0,8,0
+2,Shampoo,Care,9.63,177,5,5,25,0,8,0
+3,Hair Oil,Care,20.78,24,6,4,24,1,4,0
+4,Hair Oil,Care,16.8,108,6,2,12,1,7,0
+5,Hair Gel,Styling,34.14,96,10,5,50,1,10,0
+6,Hair Oil,Care,11.81,78,7,6,42,1,7,0
+7,Braiding Hair,Hair,41.61,140,15,7,105,1,16,0
+8,Hair Gel,Styling,36.29,28,10,2,20,1,11,0
+9,Edge Control,Styling,47.5,42,6,3,18,0,8,0
+10,Shampoo,Care,18.36,27,5,7,35,0,4,1
+11,Shampoo,Care,10.5,172,7,5,35,1,6,0
+12,Conditioner,Care,49.07,85,3,7,21,0,4,0
+13,Shampoo,Care,43.36,62,4,2,8,0,2,0
+14,Braiding Hair,Hair,24.11,28,11,5,55,0,12,1
+15,Conditioner,Care,16.89,148,4,7,28,0,7,0
+16,Braiding Hair,Hair,29.62,152,15,4,60,0,16,0
+17,Braiding Hair,Hair,11.45,175,11,4,44,1,9,0
+18,Edge Control,Styling,26.68,161,10,7,70,1,9,0
+19,Braiding Hair,Hair,6.97,42,11,5,55,1,9,1
+20,Shampoo,Care,30.78,171,9,6,54,1,8,0
+21,Hair Gel,Styling,14.83,143,4,4,16,1,5,0
+22,Hair Oil,Care,25.36,33,5,7,35,1,8,1
+23,Conditioner,Care,8.5,157,5,6,30,0,4,0
+24,Hair Oil,Care,6.63,42,5,6,30,0,8,0
+25,Braiding Hair,Hair,17.96,51,15,4,60,1,15,1
+26,Edge Control,Styling,26.05,157,8,3,24,1,11,0
+27,Conditioner,Care,24.2,137,7,7,49,1,7,0
+28,Shampoo,Care,27.65,80,6,7,42,1,5,0
+29,Hair Oil,Care,35.98,21,6,7,42,1,6,1
+30,Conditioner,Care,13.83,169,3,6,18,1,3,0
+31,Braiding Hair,Hair,18.82,39,16,2,32,1,16,0
+32,Edge Control,Styling,12.36,155,9,7,63,0,9,0
+33,Edge Control,Styling,42.35,127,11,7,77,1,11,0
+34,Hair Gel,Styling,27.63,102,6,3,18,1,5,0
+35,Shampoo,Care,37.0,91,4,5,20,0,5,0
+36,Conditioner,Care,45.26,112,6,6,36,0,5,0
+37,Braiding Hair,Hair,20.29,117,14,2,28,1,14,0
+38,Braiding Hair,Hair,35.09,116,11,7,77,0,14,0
+39,Shampoo,Care,35.11,143,8,4,32,1,9,0
+40,Edge Control,Styling,11.92,159,9,5,45,0,10,0
+41,Shampoo,Care,25.27,99,5,7,35,0,8,0
+42,Shampoo,Care,6.24,51,10,3,30,1,13,0
+43,Hair Gel,Styling,10.05,165,4,4,16,0,2,0
+44,Shampoo,Care,21.48,146,8,2,16,1,10,0
+45,Braiding Hair,Hair,24.15,156,13,4,52,0,13,0
+46,Hair Oil,Care,36.95,185,5,3,15,0,6,0
+47,Hair Gel,Styling,33.69,87,5,5,25,1,8,0
+48,Edge Control,Styling,17.64,177,13,6,78,1,15,0
+49,Hair Gel,Styling,42.66,21,5,7,35,0,8,1
+50,Hair Gel,Styling,42.39,124,6,3,18,0,9,0
+51,Braiding Hair,Hair,44.17,97,15,5,75,1,14,0
+52,Shampoo,Care,39.99,40,2,3,6,0,0,0
+53,Conditioner,Care,41.4,182,6,6,36,1,6,0
+54,Braiding Hair,Hair,11.89,180,8,6,48,1,11,0
+55,Edge Control,Styling,28.54,126,11,6,66,1,9,0
+56,Hair Oil,Care,9.81,122,4,5,20,1,5,0
+57,Hair Oil,Care,9.44,152,7,5,35,1,5,0
+58,Hair Gel,Styling,36.0,82,9,3,27,1,12,0
+59,Hair Oil,Care,28.63,89,5,5,25,0,4,0
+60,Edge Control,Styling,23.03,150,6,5,30,0,6,0
+61,Hair Gel,Styling,42.36,132,11,3,33,1,13,0
+62,Hair Oil,Care,8.55,13,6,4,24,1,6,1
+63,Conditioner,Care,37.75,148,4,6,24,1,6,0
+64,Braiding Hair,Hair,46.74,92,18,6,108,1,16,1
+65,Edge Control,Styling,30.72,152,6,2,12,0,9,0
+66,Hair Gel,Styling,49.77,13,12,5,60,1,12,1
+67,Shampoo,Care,14.67,83,6,4,24,1,9,0
+68,Hair Gel,Styling,49.33,113,7,2,14,1,6,0
+69,Braiding Hair,Hair,38.51,96,16,2,32,1,14,0
+70,Edge Control,Styling,42.31,186,4,3,12,0,5,0
+71,Hair Gel,Styling,16.94,137,9,6,54,1,8,0
+72,Shampoo,Care,44.29,84,6,3,18,0,8,0
+73,Edge Control,Styling,20.22,113,5,3,15,0,4,0
+74,Shampoo,Care,16.53,99,6,3,18,1,5,0
+75,Edge Control,Styling,15.2,91,11,2,22,1,10,0
+76,Braiding Hair,Hair,42.57,181,14,6,84,1,16,0
+77,Shampoo,Care,20.11,93,5,6,30,0,7,0
+78,Hair Oil,Care,47.36,174,3,5,15,0,1,0
+79,Braiding Hair,Hair,39.32,167,11,7,77,1,10,0
+80,Shampoo,Care,8.03,191,8,5,40,1,6,0
+81,Braiding Hair,Hair,49.81,102,10,5,50,0,9,0
+82,Braiding Hair,Hair,44.16,18,12,7,84,0,12,1
+83,Hair Oil,Care,44.47,48,5,2,10,1,3,0
+84,Hair Oil,Care,10.73,104,10,6,60,1,11,0
+85,Shampoo,Care,43.31,133,2,5,10,0,4,0
+86,Braiding Hair,Hair,23.14,157,16,7,112,1,16,0
+87,Hair Oil,Care,20.46,102,9,6,54,1,11,0
+88,Conditioner,Care,49.32,185,6,6,36,1,4,0
+89,Hair Oil,Care,21.4,48,3,2,6,0,2,0
+90,Shampoo,Care,45.09,178,6,2,12,0,6,0
+91,Braiding Hair,Hair,48.87,127,19,3,57,1,18,0
+92,Shampoo,Care,47.02,49,3,2,6,0,2,0
+93,Edge Control,Styling,5.68,132,8,5,40,1,7,0
+94,Hair Oil,Care,6.59,198,4,2,8,1,7,0
+95,Conditioner,Care,27.58,164,6,4,24,0,5,0
+96,Hair Oil,Care,11.04,149,6,4,24,1,9,0
+97,Shampoo,Care,16.11,134,6,5,30,0,9,0
+98,Shampoo,Care,45.53,194,3,2,6,0,3,0
+99,Braiding Hair,Hair,39.71,169,5,6,30,0,4,0
+100,Conditioner,Care,12.02,84,3,6,18,1,4,0
+101,Shampoo,Care,10.69,68,4,6,24,0,6,0
+102,Shampoo,Care,7.11,182,9,2,18,1,7,0
+103,Hair Gel,Styling,41.86,173,5,6,30,0,3,0
+104,Shampoo,Care,10.61,97,6,6,36,1,8,0
+105,Hair Oil,Care,12.57,62,6,3,18,1,4,0
+106,Conditioner,Care,48.82,63,5,2,10,0,3,0
+107,Braiding Hair,Hair,23.77,13,18,3,54,1,13,1
+108,Conditioner,Care,20.87,184,7,4,28,1,5,0
+109,Braiding Hair,Hair,36.0,192,13,5,65,1,12,0
+110,Edge Control,Styling,30.67,52,11,6,66,1,14,1
+111,Braiding Hair,Hair,6.13,106,7,5,35,1,8,0
+112,Hair Oil,Care,20.56,86,7,7,49,1,7,0
+113,Hair Gel,Styling,9.03,173,9,2,18,1,10,0
+114,Shampoo,Care,49.44,49,3,7,21,0,5,0
+115,Hair Oil,Care,22.78,40,4,4,16,0,6,0
+116,Edge Control,Styling,26.32,103,5,5,25,0,4,0
+117,Shampoo,Care,10.71,86,3,6,18,0,5,0
+118,Hair Oil,Care,15.4,72,2,4,8,0,5,0
+119,Hair Gel,Styling,24.49,90,6,2,12,0,4,0
+120,Edge Control,Styling,44.67,74,13,3,39,1,13,0
+121,Shampoo,Care,21.17,36,5,7,35,1,5,0
+122,Conditioner,Care,26.69,137,7,4,28,1,5,0
+123,Hair Oil,Care,48.52,173,2,2,4,0,4,0
+124,Hair Oil,Care,26.24,130,5,2,10,0,5,0
+125,Shampoo,Care,37.0,164,3,6,18,0,6,0
+126,Hair Gel,Styling,12.48,35,8,7,56,1,6,1
+127,Braiding Hair,Hair,8.77,174,15,6,90,0,15,0
+128,Hair Oil,Care,41.72,41,3,3,9,0,2,0
+129,Hair Oil,Care,39.22,108,4,7,28,0,7,0
+130,Hair Gel,Styling,31.34,123,10,6,60,1,10,0
+131,Braiding Hair,Hair,45.89,59,19,4,76,1,21,1
+132,Shampoo,Care,12.23,43,4,7,28,0,2,0
+133,Hair Oil,Care,13.25,160,8,2,16,1,7,0
+134,Hair Gel,Styling,25.06,124,7,6,42,1,10,0
+135,Shampoo,Care,6.23,108,3,7,21,0,2,0
+136,Hair Gel,Styling,28.23,199,3,2,6,0,2,0
+137,Hair Gel,Styling,33.24,96,10,4,40,1,9,0
+138,Braiding Hair,Hair,32.03,164,7,5,35,1,8,0
+139,Braiding Hair,Hair,49.93,140,9,6,54,1,12,0
+140,Shampoo,Care,42.72,14,2,5,10,0,2,0
+141,Hair Gel,Styling,45.61,133,8,2,16,1,11,0
+142,Braiding Hair,Hair,48.92,143,12,7,84,1,13,0
+143,Conditioner,Care,19.54,78,5,4,20,1,8,0
+144,Edge Control,Styling,38.49,50,8,7,56,0,11,1
+145,Braiding Hair,Hair,23.47,27,15,6,90,0,15,1
+146,Hair Gel,Styling,13.25,21,3,6,18,0,4,0
+147,Shampoo,Care,6.87,151,3,7,21,1,1,0
+148,Edge Control,Styling,7.19,20,5,5,25,0,6,1
+149,Conditioner,Care,36.67,197,5,5,25,0,5,0
+150,Hair Oil,Care,27.89,25,7,2,14,1,10,0
+151,Shampoo,Care,37.74,17,5,7,35,0,6,1
+152,Shampoo,Care,44.96,109,9,2,18,1,8,0
+153,Braiding Hair,Hair,49.23,151,18,2,36,1,16,0
+154,Edge Control,Styling,20.26,105,10,5,50,0,10,0
+155,Braiding Hair,Hair,18.02,194,5,4,20,0,6,0
+156,Shampoo,Care,9.93,103,9,3,27,1,11,0
+157,Shampoo,Care,47.04,195,6,4,24,1,4,0
+158,Braiding Hair,Hair,34.57,59,10,4,40,1,10,0
+159,Edge Control,Styling,36.7,199,6,4,24,0,4,0
+160,Edge Control,Styling,16.01,189,8,6,48,0,10,0
+161,Edge Control,Styling,37.33,52,5,3,15,0,7,0
+162,Hair Gel,Styling,30.39,45,3,6,18,0,2,0
+163,Conditioner,Care,44.18,99,2,5,10,0,1,0
+164,Braiding Hair,Hair,21.63,43,15,7,105,1,14,1
+165,Edge Control,Styling,42.42,59,8,5,40,1,6,0
+166,Hair Oil,Care,35.99,186,5,5,25,1,5,0
+167,Hair Gel,Styling,25.43,52,7,4,28,1,5,0
+168,Conditioner,Care,45.66,160,2,7,14,0,2,0
+169,Braiding Hair,Hair,13.97,92,12,6,72,1,12,0
+170,Shampoo,Care,19.4,152,8,5,40,1,8,0
+171,Hair Gel,Styling,28.85,79,5,4,20,0,4,0
+172,Hair Oil,Care,26.35,191,6,7,42,1,5,0
+173,Conditioner,Care,7.95,98,9,5,45,1,7,0
+174,Hair Oil,Care,35.21,62,3,7,21,1,2,0
+175,Conditioner,Care,47.53,145,6,5,30,0,6,0
+176,Hair Oil,Care,29.34,11,3,3,9,0,6,0
+177,Hair Gel,Styling,33.78,107,10,3,30,1,13,0
+178,Conditioner,Care,44.88,47,8,5,40,1,9,0
+179,Conditioner,Care,10.07,91,8,3,24,1,8,0
+180,Shampoo,Care,16.36,108,4,4,16,1,4,0
+181,Braiding Hair,Hair,12.9,124,7,5,35,0,7,0
+182,Conditioner,Care,48.2,164,5,7,35,0,8,0
+183,Hair Oil,Care,16.13,51,6,4,24,1,9,0
+184,Hair Gel,Styling,44.59,107,6,3,18,1,8,0
+185,Conditioner,Care,38.8,174,5,3,15,1,6,0
+186,Braiding Hair,Hair,30.09,126,13,7,91,1,15,0
+187,Conditioner,Care,17.38,64,7,2,14,1,8,0
+188,Braiding Hair,Hair,9.88,195,11,2,22,0,11,0
+189,Braiding Hair,Hair,14.86,16,9,3,27,1,8,1
+190,Braiding Hair,Hair,24.11,38,13,6,78,1,12,1
+191,Braiding Hair,Hair,8.94,95,6,5,30,0,9,0
+192,Shampoo,Care,21.02,43,2,3,6,0,0,0
+193,Shampoo,Care,48.1,186,6,4,24,0,7,0
+194,Shampoo,Care,35.95,110,6,4,24,0,9,0
+195,Conditioner,Care,19.92,76,6,7,42,0,6,0
+196,Hair Oil,Care,9.96,118,1,7,7,0,1,0
+197,Hair Oil,Care,42.77,164,4,4,16,1,4,0
+198,Edge Control,Styling,10.01,157,3,5,15,0,6,0
+199,Edge Control,Styling,47.98,94,7,2,14,0,8,0
+200,Edge Control,Styling,11.95,148,11,5,55,1,13,0
+201,Edge Control,Styling,45.72,83,11,6,66,1,9,0
+202,Conditioner,Care,9.94,71,2,3,6,0,1,0
+203,Braiding Hair,Hair,7.04,114,5,2,10,0,3,0
+204,Conditioner,Care,43.61,90,2,6,12,0,3,0
+205,Shampoo,Care,46.51,120,11,3,33,1,10,0
+206,Braiding Hair,Hair,49.57,144,10,3,30,1,12,0
+207,Braiding Hair,Hair,7.35,73,16,6,96,1,17,1
+208,Braiding Hair,Hair,23.13,125,13,4,52,0,13,0
+209,Hair Oil,Care,37.25,78,3,4,12,0,5,0
+210,Shampoo,Care,18.09,46,6,7,42,0,4,0
+211,Shampoo,Care,45.8,102,3,7,21,0,1,0
+212,Edge Control,Styling,42.29,60,7,3,21,0,9,0
+213,Braiding Hair,Hair,12.36,127,10,3,30,0,11,0
+214,Conditioner,Care,38.11,41,7,3,21,1,9,0
+215,Conditioner,Care,34.66,101,7,4,28,1,6,0
+216,Hair Oil,Care,36.72,58,4,6,24,1,4,0
+217,Shampoo,Care,11.81,190,4,6,24,0,3,0
+218,Braiding Hair,Hair,40.98,151,14,3,42,0,12,0
+219,Edge Control,Styling,33.33,86,3,2,6,0,2,0
+220,Edge Control,Styling,12.52,14,4,7,28,0,3,1
+221,Shampoo,Care,16.45,167,5,7,35,0,7,0
+222,Shampoo,Care,28.22,78,11,5,55,1,13,0
+223,Hair Gel,Styling,10.63,99,7,2,14,1,7,0
+224,Conditioner,Care,37.57,55,4,5,20,0,6,0
+225,Edge Control,Styling,48.15,150,10,5,50,1,12,0
+226,Hair Oil,Care,24.86,193,3,7,21,0,1,0
+227,Conditioner,Care,37.67,12,6,2,12,1,5,0
+228,Conditioner,Care,29.06,195,6,6,36,1,7,0
+229,Hair Oil,Care,23.92,129,5,6,30,0,8,0
+230,Hair Oil,Care,42.31,83,6,2,12,1,9,0
+231,Shampoo,Care,36.19,93,3,4,12,0,1,0
+232,Shampoo,Care,27.76,142,5,2,10,1,7,0
+233,Hair Gel,Styling,48.22,74,6,2,12,1,8,0
+234,Braiding Hair,Hair,37.38,33,15,2,30,1,17,0
+235,Hair Gel,Styling,26.41,165,5,5,25,0,8,0
+236,Hair Oil,Care,28.8,191,7,4,28,1,8,0
+237,Conditioner,Care,11.9,108,5,4,20,0,7,0
+238,Shampoo,Care,38.37,125,9,4,36,1,7,0
+239,Edge Control,Styling,24.34,100,5,4,20,0,7,0
+240,Conditioner,Care,40.73,90,6,2,12,1,8,0
+241,Braiding Hair,Hair,18.6,53,5,7,35,0,4,0
+242,Hair Oil,Care,21.95,106,7,2,14,1,9,0
+243,Braiding Hair,Hair,28.23,169,13,3,39,0,15,0
+244,Edge Control,Styling,49.23,179,10,4,40,0,11,0
+245,Edge Control,Styling,41.61,152,8,2,16,0,10,0
+246,Hair Gel,Styling,31.4,97,8,2,16,0,9,0
+247,Edge Control,Styling,41.68,192,3,5,15,0,1,0
+248,Edge Control,Styling,14.68,43,5,5,25,0,5,0
+249,Hair Oil,Care,28.08,195,7,3,21,1,9,0
+250,Edge Control,Styling,42.17,78,11,5,55,1,13,0
+251,Shampoo,Care,19.58,51,3,6,18,0,5,0
+252,Braiding Hair,Hair,26.18,25,15,7,105,0,14,1
+253,Braiding Hair,Hair,17.98,86,10,3,30,0,10,0
+254,Conditioner,Care,29.65,190,2,5,10,0,4,0
+255,Hair Gel,Styling,29.89,81,11,4,44,1,13,0
+256,Shampoo,Care,45.88,131,4,6,24,0,5,0
+257,Shampoo,Care,27.95,152,5,6,30,1,5,0
+258,Hair Gel,Styling,35.68,26,8,5,40,0,7,1
+259,Edge Control,Styling,37.5,121,7,7,49,0,10,0
+260,Edge Control,Styling,32.37,179,5,3,15,1,6,0
+261,Shampoo,Care,45.0,31,7,2,14,1,5,0
+262,Edge Control,Styling,31.96,128,8,6,48,0,11,0
+263,Shampoo,Care,24.85,48,6,2,12,0,9,0
+264,Shampoo,Care,41.73,80,6,5,30,0,7,0
+265,Edge Control,Styling,41.53,157,6,3,18,1,4,0
+266,Braiding Hair,Hair,40.68,148,18,7,126,1,20,0
+267,Edge Control,Styling,38.47,85,7,3,21,0,5,0
+268,Shampoo,Care,44.29,107,5,2,10,0,5,0
+269,Hair Gel,Styling,34.5,138,7,5,35,1,6,0
+270,Conditioner,Care,18.08,142,7,5,35,1,7,0
+271,Hair Gel,Styling,30.11,114,4,6,24,0,3,0
+272,Conditioner,Care,12.46,78,4,6,24,0,3,0
+273,Shampoo,Care,12.58,163,6,6,36,0,7,0
+274,Braiding Hair,Hair,10.86,45,14,2,28,1,17,0
+275,Braiding Hair,Hair,45.86,179,11,7,77,0,9,0
+276,Braiding Hair,Hair,33.22,86,15,3,45,0,13,0
+277,Shampoo,Care,24.61,22,2,2,4,0,3,0
+278,Braiding Hair,Hair,7.89,64,12,3,36,1,13,0
+279,Hair Oil,Care,29.31,24,5,3,15,1,5,0
+280,Conditioner,Care,7.7,49,6,7,42,1,6,0
+281,Hair Gel,Styling,15.2,128,8,2,16,1,7,0
+282,Conditioner,Care,13.74,184,5,7,35,0,6,0
+283,Shampoo,Care,45.97,23,5,5,25,0,4,1
+284,Braiding Hair,Hair,25.1,112,13,6,78,1,14,0
+285,Braiding Hair,Hair,25.81,144,5,4,20,0,7,0
+286,Shampoo,Care,40.73,142,3,5,15,0,1,0
+287,Hair Oil,Care,7.12,181,5,6,30,1,5,0
+288,Hair Oil,Care,22.84,122,2,5,10,0,1,0
+289,Hair Oil,Care,41.25,174,5,4,20,0,8,0
+290,Edge Control,Styling,18.37,50,8,2,16,1,11,0
+291,Hair Oil,Care,9.44,77,5,2,10,0,8,0
+292,Hair Gel,Styling,38.31,58,12,4,48,1,12,0
+293,Braiding Hair,Hair,11.84,124,14,7,98,0,16,0
+294,Hair Gel,Styling,21.43,95,5,7,35,0,7,0
+295,Conditioner,Care,21.97,61,2,3,6,0,4,0
+296,Edge Control,Styling,45.37,77,7,6,42,0,6,0
+297,Hair Oil,Care,32.73,112,4,6,24,1,4,0
+298,Conditioner,Care,41.02,117,5,2,10,0,5,0
+299,Braiding Hair,Hair,27.33,70,14,5,70,1,12,0
+300,Hair Gel,Styling,6.54,98,9,7,63,1,12,0
+301,Hair Gel,Styling,12.48,138,9,4,36,1,7,0
+302,Hair Oil,Care,34.06,162,1,5,5,0,3,0
+303,Hair Oil,Care,40.36,160,2,6,12,1,3,0
+304,Edge Control,Styling,6.66,122,6,2,12,1,9,0
+305,Conditioner,Care,39.27,187,8,6,48,1,8,0
+306,Edge Control,Styling,46.73,85,4,5,20,0,4,0
+307,Hair Oil,Care,46.28,98,3,4,12,1,5,0
+308,Braiding Hair,Hair,24.35,44,13,2,26,0,12,0
+309,Hair Oil,Care,36.89,53,8,5,40,1,9,0
+310,Edge Control,Styling,29.92,147,4,2,8,0,6,0
+311,Hair Gel,Styling,12.37,55,3,3,9,0,6,0
+312,Edge Control,Styling,43.23,100,5,4,20,1,5,0
+313,Hair Oil,Care,26.09,183,5,7,35,0,4,0
+314,Shampoo,Care,33.74,29,4,2,8,0,4,0
+315,Hair Oil,Care,6.49,190,5,3,15,1,3,0
+316,Hair Oil,Care,37.11,134,3,7,21,1,1,0
+317,Conditioner,Care,23.5,34,3,4,12,1,2,0
+318,Hair Oil,Care,5.34,167,8,4,32,1,7,0
+319,Braiding Hair,Hair,30.47,19,5,7,35,0,6,1
+320,Hair Oil,Care,7.24,30,4,4,16,1,5,0
+321,Edge Control,Styling,37.75,148,9,3,27,0,12,0
+322,Shampoo,Care,12.45,161,6,7,42,1,5,0
+323,Hair Oil,Care,42.21,172,2,6,12,0,0,0
+324,Edge Control,Styling,10.33,43,10,2,20,0,10,0
+325,Conditioner,Care,31.57,154,6,7,42,1,8,0
+326,Shampoo,Care,11.84,153,7,7,49,1,10,0
+327,Hair Oil,Care,27.01,133,6,4,24,1,5,0
+328,Hair Gel,Styling,45.72,189,13,4,52,1,12,0
+329,Hair Gel,Styling,25.31,171,5,7,35,0,7,0
+330,Hair Oil,Care,38.23,64,5,2,10,0,6,0
+331,Hair Oil,Care,21.98,163,1,5,5,0,4,0
+332,Hair Oil,Care,45.72,43,2,7,14,0,3,0
+333,Braiding Hair,Hair,47.69,170,12,4,48,1,11,0
+334,Shampoo,Care,45.8,104,4,5,20,1,6,0
+335,Hair Gel,Styling,12.86,47,6,2,12,0,5,0
+336,Hair Oil,Care,18.07,71,8,3,24,1,10,0
+337,Hair Oil,Care,26.55,118,5,4,20,0,4,0
+338,Braiding Hair,Hair,42.17,181,11,4,44,0,12,0
+339,Hair Oil,Care,46.23,120,5,7,35,1,5,0
+340,Shampoo,Care,25.05,89,3,6,18,0,6,0
+341,Hair Gel,Styling,47.01,47,10,6,60,1,8,1
+342,Conditioner,Care,27.35,158,3,2,6,0,2,0
+343,Shampoo,Care,13.33,78,3,5,15,0,1,0
+344,Conditioner,Care,46.44,178,10,3,30,1,11,0
+345,Hair Oil,Care,27.49,53,8,3,24,1,10,0
+346,Conditioner,Care,13.14,176,11,4,44,1,9,0
+347,Hair Gel,Styling,30.39,108,6,5,30,0,5,0
+348,Hair Gel,Styling,28.63,61,4,7,28,0,5,0
+349,Conditioner,Care,12.15,33,5,6,30,0,8,0
+350,Edge Control,Styling,27.22,67,13,4,52,1,16,0
+351,Hair Gel,Styling,12.2,145,12,2,24,1,11,0
+352,Hair Gel,Styling,21.08,182,8,4,32,0,10,0
+353,Shampoo,Care,37.76,144,4,5,20,1,4,0
+354,Hair Gel,Styling,48.85,34,8,6,48,0,9,1
+355,Hair Gel,Styling,46.77,74,5,7,35,1,8,0
+356,Edge Control,Styling,5.98,106,12,4,48,1,13,0
+357,Braiding Hair,Hair,44.26,151,9,7,63,0,7,0
+358,Edge Control,Styling,23.61,184,6,7,42,1,6,0
+359,Hair Gel,Styling,10.09,139,8,6,48,0,9,0
+360,Conditioner,Care,17.5,129,9,3,27,1,9,0
+361,Hair Oil,Care,49.76,152,4,3,12,0,6,0
+362,Braiding Hair,Hair,39.89,14,8,4,32,0,9,1
+363,Braiding Hair,Hair,27.63,21,18,4,72,1,18,1
+364,Shampoo,Care,46.42,27,2,7,14,0,1,0
+365,Hair Oil,Care,34.89,39,6,5,30,1,7,0
+366,Hair Oil,Care,17.49,61,5,3,15,0,8,0
+367,Braiding Hair,Hair,40.52,61,11,4,44,1,11,0
+368,Shampoo,Care,30.85,56,3,4,12,0,1,0
+369,Edge Control,Styling,6.68,112,7,5,35,0,9,0
+370,Edge Control,Styling,23.76,12,10,3,30,1,8,1
+371,Hair Gel,Styling,22.73,121,5,7,35,0,4,0
+372,Edge Control,Styling,20.5,21,10,2,20,1,10,0
+373,Conditioner,Care,23.16,41,8,2,16,1,10,0
+374,Braiding Hair,Hair,24.95,161,13,2,26,0,11,0
+375,Braiding Hair,Hair,46.26,93,9,2,18,0,11,0
+376,Hair Oil,Care,19.37,85,2,4,8,0,0,0
+377,Braiding Hair,Hair,24.3,20,9,4,36,0,8,1
+378,Braiding Hair,Hair,13.47,29,13,7,91,1,15,1
+379,Braiding Hair,Hair,23.99,23,14,3,42,1,17,1
+380,Hair Oil,Care,16.49,79,5,7,35,1,5,0
+381,Edge Control,Styling,23.23,119,7,6,42,0,8,0
+382,Shampoo,Care,25.38,159,7,4,28,1,10,0
+383,Edge Control,Styling,43.3,13,6,4,24,0,8,1
+384,Shampoo,Care,33.65,80,3,7,21,0,2,0
+385,Braiding Hair,Hair,37.44,117,11,4,44,0,10,0
+386,Hair Oil,Care,16.85,46,4,4,16,0,4,0
+387,Conditioner,Care,42.38,12,2,7,14,0,4,1
+388,Edge Control,Styling,11.92,12,4,6,24,1,4,1
+389,Shampoo,Care,12.65,143,7,2,14,1,9,0
+390,Conditioner,Care,33.56,32,6,6,36,1,9,1
+391,Conditioner,Care,27.94,26,4,7,28,0,6,1
+392,Edge Control,Styling,35.38,77,10,4,40,1,13,0
+393,Hair Gel,Styling,13.17,113,12,6,72,1,10,0
+394,Hair Gel,Styling,8.25,184,11,7,77,1,9,0
+395,Conditioner,Care,40.65,18,3,7,21,1,2,1
+396,Shampoo,Care,5.62,102,2,6,12,0,4,0
+397,Shampoo,Care,17.49,193,11,5,55,1,13,0
+398,Hair Oil,Care,14.7,153,5,3,15,0,5,0
+399,Edge Control,Styling,26.29,65,8,6,48,0,9,0
+400,Braiding Hair,Hair,43.04,80,8,4,32,0,7,0
+401,Edge Control,Styling,40.81,103,5,5,25,1,8,0
+402,Hair Oil,Care,30.16,91,4,4,16,1,4,0
+403,Hair Gel,Styling,38.15,137,7,3,21,1,7,0
+404,Hair Gel,Styling,10.4,158,10,5,50,1,10,0
+405,Edge Control,Styling,34.42,164,10,4,40,1,11,0
+406,Hair Gel,Styling,5.24,164,6,2,12,1,6,0
+407,Conditioner,Care,22.81,132,5,6,30,1,8,0
+408,Hair Gel,Styling,34.04,185,7,4,28,1,7,0
+409,Edge Control,Styling,38.2,57,7,6,42,1,10,0
+410,Edge Control,Styling,20.41,47,8,7,56,0,6,1
+411,Conditioner,Care,33.28,147,4,7,28,0,3,0
+412,Braiding Hair,Hair,45.36,189,9,3,27,1,9,0
+413,Edge Control,Styling,36.52,173,9,2,18,1,9,0
+414,Hair Gel,Styling,38.62,133,3,7,21,0,2,0
+415,Braiding Hair,Hair,41.47,183,13,3,39,1,14,0
+416,Shampoo,Care,20.53,113,6,3,18,0,4,0
+417,Braiding Hair,Hair,22.71,72,13,4,52,0,13,0
+418,Hair Oil,Care,33.12,49,4,3,12,0,7,0
+419,Braiding Hair,Hair,9.65,50,7,2,14,1,10,0
+420,Braiding Hair,Hair,14.62,50,14,5,70,0,15,1
+421,Edge Control,Styling,23.68,94,8,7,56,1,9,0
+422,Hair Oil,Care,35.15,22,9,4,36,1,12,1
+423,Conditioner,Care,27.42,143,4,7,28,0,2,0
+424,Conditioner,Care,5.66,53,9,3,27,1,8,0
+425,Conditioner,Care,24.02,91,4,2,8,0,2,0
+426,Edge Control,Styling,8.71,141,7,7,49,1,10,0
+427,Braiding Hair,Hair,11.6,189,12,4,48,1,15,0
+428,Shampoo,Care,10.44,189,6,4,24,0,6,0
+429,Shampoo,Care,42.06,13,10,3,30,1,10,1
+430,Hair Gel,Styling,41.3,14,6,3,18,1,8,1
+431,Conditioner,Care,37.69,50,7,4,28,1,10,0
+432,Braiding Hair,Hair,38.94,105,20,2,40,1,22,0
+433,Hair Oil,Care,45.54,162,5,7,35,0,7,0
+434,Hair Oil,Care,49.53,106,2,7,14,0,2,0
+435,Conditioner,Care,44.32,119,4,5,20,0,4,0
+436,Braiding Hair,Hair,24.85,134,9,2,18,0,12,0
+437,Hair Oil,Care,36.25,75,7,3,21,1,9,0
+438,Braiding Hair,Hair,34.15,71,10,2,20,1,9,0
+439,Hair Gel,Styling,43.09,146,7,4,28,0,6,0
+440,Edge Control,Styling,39.21,154,11,5,55,1,14,0
+441,Hair Gel,Styling,17.78,81,7,2,14,0,6,0
+442,Braiding Hair,Hair,21.19,165,17,7,119,1,19,0
+443,Hair Oil,Care,45.16,91,3,7,21,0,4,0
+444,Hair Gel,Styling,28.79,114,6,7,42,0,6,0
+445,Braiding Hair,Hair,45.12,90,5,6,30,0,3,0
+446,Conditioner,Care,17.41,198,7,4,28,1,9,0
+447,Hair Oil,Care,27.72,12,4,3,12,0,3,0
+448,Braiding Hair,Hair,14.98,67,12,7,84,0,13,1
+449,Hair Gel,Styling,19.48,132,7,2,14,0,9,0
+450,Conditioner,Care,35.34,144,2,6,12,0,1,0
+451,Braiding Hair,Hair,18.84,80,15,6,90,0,15,1
+452,Hair Oil,Care,19.95,159,2,3,6,0,2,0
+453,Edge Control,Styling,23.72,91,11,4,44,1,9,0
+454,Edge Control,Styling,11.68,15,10,6,60,1,11,1
+455,Conditioner,Care,26.38,172,2,2,4,0,0,0
+456,Hair Oil,Care,48.71,46,3,5,15,0,1,0
+457,Shampoo,Care,17.9,127,6,5,30,0,4,0
+458,Hair Gel,Styling,19.06,143,5,4,20,1,7,0
+459,Shampoo,Care,40.79,16,2,2,4,0,5,0
+460,Hair Gel,Styling,41.15,181,8,3,24,1,9,0
+461,Conditioner,Care,13.63,131,6,4,24,1,5,0
+462,Conditioner,Care,18.19,16,8,5,40,1,6,1
+463,Braiding Hair,Hair,16.86,117,13,3,39,0,12,0
+464,Hair Oil,Care,44.95,127,9,6,54,1,10,0
+465,Edge Control,Styling,19.58,161,4,5,20,0,4,0
+466,Edge Control,Styling,18.58,119,4,5,20,1,3,0
+467,Braiding Hair,Hair,48.61,118,7,3,21,1,7,0
+468,Hair Oil,Care,41.63,96,2,3,6,0,1,0
+469,Hair Oil,Care,19.45,16,1,6,6,0,1,0
+470,Conditioner,Care,13.23,36,4,7,28,0,3,0
+471,Shampoo,Care,29.6,185,8,3,24,1,6,0
+472,Braiding Hair,Hair,12.98,72,10,5,50,0,9,0
+473,Conditioner,Care,35.34,30,6,3,18,0,9,0
+474,Shampoo,Care,10.4,142,4,6,24,0,4,0
+475,Shampoo,Care,19.09,40,6,2,12,0,9,0
+476,Shampoo,Care,34.58,90,5,6,30,0,8,0
+477,Conditioner,Care,49.27,150,5,3,15,0,6,0
+478,Hair Oil,Care,39.08,75,10,2,20,1,9,0
+479,Conditioner,Care,34.09,53,4,6,24,0,4,0
+480,Edge Control,Styling,6.87,74,6,2,12,0,5,0
+481,Edge Control,Styling,13.92,156,4,6,24,0,2,0
+482,Edge Control,Styling,22.47,64,9,7,63,1,11,0
+483,Conditioner,Care,19.7,157,6,6,36,1,8,0
+484,Shampoo,Care,8.94,59,9,6,54,1,10,0
+485,Shampoo,Care,6.42,28,5,7,35,0,8,1
+486,Hair Gel,Styling,7.53,90,8,2,16,1,6,0
+487,Hair Oil,Care,37.85,187,5,7,35,0,5,0
+488,Hair Gel,Styling,31.76,166,9,2,18,1,11,0
+489,Conditioner,Care,41.68,117,6,7,42,1,4,0
+490,Braiding Hair,Hair,23.89,192,7,7,49,0,5,0
+491,Edge Control,Styling,26.35,56,11,5,55,1,12,0
+492,Shampoo,Care,47.27,198,3,4,12,1,4,0
+493,Braiding Hair,Hair,38.57,114,11,5,55,0,10,0
+494,Braiding Hair,Hair,34.13,115,11,2,22,1,11,0
+495,Edge Control,Styling,45.2,132,11,5,55,1,10,0
+496,Braiding Hair,Hair,9.06,43,12,3,36,0,14,0
+497,Hair Gel,Styling,45.28,126,5,2,10,0,6,0
+498,Conditioner,Care,20.99,129,9,6,54,1,10,0
+499,Shampoo,Care,43.86,133,5,4,20,0,6,0
