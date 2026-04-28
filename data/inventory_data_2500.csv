@@ -1,0 +1,2501 @@
+product_id,product_name,category,price,stock_level,daily_demand,supplier_lead_time,reorder_point,is_weekend,units_sold,restocked
+0,Comb,Tools,4.99,28.0,4.0,5.0,20,0,3,0
+1,Hair Gel,Styling,7.99,8.0,6.0,2.0,12,0,4,1
+2,Comb,Tools,4.99,166.0,,9.0,18,1,4,0
+3,Comb,Tools,4.99,108.0,1.0,7.0,7,0,1,0
+4,Hair Gel,Styling,7.99,24.0,4.0,6.0,24,1,2,0
+5,Hair Spray,Styling,10.99,75.0,6.0,7.0,42,0,8,0
+6,Hair Mousse,Styling,9.99,20.0,7.0,8.0,56,1,7,1
+7,Conditioner,Hair Care,11.99,171.0,3.0,6.0,18,0,6,0
+8,Conditioner,Hair Care,11.99,118.0,2.0,10.0,20,1,1,0
+9,Shampoo,Hair Care,12.99,206.0,12.0,7.0,84,1,13,0
+10,Comb,Tools,4.99,80.0,3.0,9.0,27,1,2,0
+11,Comb,Tools,4.99,149.0,5.0,8.0,40,1,7,0
+12,Hair Gel,Styling,7.99,23.0,6.0,4.0,24,0,9,1
+13,Hair Gel,Styling,7.99,152.0,2.0,,18,1,4,0
+14,Comb,Tools,4.99,29.0,1.0,6.0,6,1,4,0
+15,Comb,Tools,4.99,224.0,0.0,6.0,0,0,2,0
+16,Comb,Tools,4.99,129.0,2.0,4.0,8,0,4,0
+17,Hair Mousse,Styling,9.99,224.0,4.0,6.0,24,0,3,0
+18,Comb,Tools,4.99,124.0,5.0,10.0,50,0,4,0
+19,Hair Spray,Styling,10.99,223.0,0.0,8.0,0,0,0,0
+20,Hair Mousse,Styling,9.99,112.0,6.0,5.0,30,0,5,0
+21,Conditioner,Hair Care,11.99,1.0,5.0,3.0,15,0,1,1
+22,Shampoo,Hair Care,12.99,131.0,8.0,5.0,40,0,10,0
+23,Conditioner,Hair Care,11.99,200.0,9.0,9.0,81,0,10,0
+24,Hair Gel,Styling,7.99,119.0,6.0,3.0,18,1,4,0
+25,Conditioner,Hair Care,11.99,48.0,6.0,10.0,60,0,7,1
+26,Shampoo,Hair Care,12.99,113.0,9.0,3.0,27,0,7,0
+27,Conditioner,Hair Care,11.99,104.0,3.0,9.0,27,0,4,0
+28,Shampoo,Hair Care,12.99,99.0,7.0,9.0,63,1,7,0
+29,Comb,Tools,4.99,183.0,6.0,9.0,54,0,5,0
+30,Hair Spray,Styling,10.99,15.0,4.0,9.0,36,0,6,1
+31,Shampoo,Hair Care,12.99,152.0,7.0,3.0,21,0,10,0
+32,Hair Spray,Styling,10.99,152.0,5.0,10.0,50,1,5,0
+33,Hair Gel,Styling,7.99,33.0,6.0,,36,1,7,1
+34,Hair Spray,Styling,10.99,144.0,5.0,5.0,25,1,7,0
+35,Conditioner,Hair Care,11.99,94.0,6.0,6.0,36,1,5,0
+36,Comb,Tools,4.99,135.0,6.0,6.0,36,0,9,0
+37,Shampoo,Hair Care,12.99,190.0,8.0,10.0,80,1,7,0
+38,Comb,Tools,4.99,162.0,4.0,6.0,24,0,2,0
+39,Hair Mousse,Styling,9.99,197.0,3.0,4.0,12,1,6,0
+40,Hair Spray,Styling,10.99,2.0,8.0,4.0,32,0,2,1
+41,Conditioner,Hair Care,11.99,10.0,10.0,6.0,60,0,10,1
+42,Shampoo,Hair Care,12.99,90.0,8.0,8.0,64,0,10,0
+43,Conditioner,Hair Care,11.99,225.0,2.0,8.0,16,0,0,0
+44,Comb,Tools,4.99,221.0,2.0,4.0,8,0,5,0
+45,Conditioner,Hair Care,11.99,209.0,5.0,9.0,45,1,5,0
+46,Comb,Tools,4.99,49.0,1.0,3.0,3,1,1,0
+47,Hair Spray,Styling,10.99,84.0,5.0,2.0,10,1,3,0
+48,Shampoo,Hair Care,12.99,152.0,5.0,7.0,35,0,6,0
+49,Comb,Tools,4.99,111.0,4.0,2.0,8,0,6,0
+50,Hair Mousse,Styling,9.99,159.0,3.0,6.0,18,1,5,0
+51,Hair Spray,Styling,10.99,32.0,8.0,5.0,40,1,9,1
+52,Hair Mousse,Styling,9.99,103.0,4.0,6.0,24,1,3,0
+53,Hair Gel,Styling,7.99,113.0,5.0,5.0,25,1,7,0
+54,Comb,Tools,4.99,21.0,2.0,7.0,14,0,0,0
+55,Shampoo,Hair Care,12.99,11.0,10.0,5.0,50,0,11,1
+56,Comb,Tools,4.99,178.0,1.0,4.0,4,0,4,0
+57,Hair Gel,Styling,7.99,56.0,7.0,4.0,28,1,10,0
+58,Hair Gel,Styling,7.99,34.0,6.0,10.0,60,1,8,1
+59,Comb,Tools,4.99,228.0,0.0,10.0,0,1,1,0
+60,Hair Mousse,Styling,9.99,192.0,5.0,10.0,50,0,6,0
+61,Hair Mousse,Styling,9.99,85.0,7.0,7.0,49,0,9,0
+62,Comb,Tools,4.99,54.0,4.0,10.0,40,1,5,0
+63,Hair Spray,Styling,10.99,242.0,5.0,2.0,10,1,7,0
+64,Hair Gel,Styling,7.99,218.0,8.0,10.0,80,0,11,0
+65,Hair Gel,Styling,7.99,86.0,3.0,8.0,24,0,6,0
+66,Hair Spray,Styling,10.99,6.0,7.0,2.0,14,1,5,1
+67,Hair Gel,Styling,7.99,83.0,4.0,5.0,20,1,5,0
+68,Hair Gel,Styling,7.99,64.0,7.0,10.0,70,1,5,1
+69,Shampoo,Hair Care,12.99,193.0,6.0,2.0,12,0,5,0
+70,Hair Gel,Styling,7.99,171.0,9.0,9.0,81,1,12,0
+71,Comb,Tools,4.99,183.0,,3.0,18,1,5,0
+72,Comb,Tools,4.99,232.0,4.0,5.0,20,0,2,0
+73,Hair Spray,Styling,10.99,206.0,4.0,3.0,12,0,6,0
+74,Hair Spray,Styling,10.99,165.0,2.0,9.0,18,1,0,0
+75,Comb,Tools,4.99,39.0,6.0,8.0,48,1,5,1
+76,Hair Gel,Styling,7.99,111.0,7.0,7.0,49,0,6,0
+77,Hair Spray,Styling,10.99,156.0,2.0,8.0,16,0,2,0
+78,Hair Mousse,Styling,9.99,204.0,4.0,6.0,24,0,6,0
+79,Hair Gel,Styling,7.99,125.0,7.0,10.0,70,1,6,0
+80,Shampoo,Hair Care,12.99,75.0,8.0,6.0,48,1,11,0
+81,Comb,Tools,4.99,140.0,6.0,7.0,42,1,6,0
+82,Conditioner,Hair Care,11.99,80.0,8.0,4.0,32,0,7,0
+83,Hair Spray,Styling,10.99,152.0,6.0,6.0,36,0,4,0
+84,Comb,Tools,4.99,136.0,3.0,2.0,6,1,5,0
+85,Hair Gel,Styling,7.99,26.0,6.0,2.0,12,1,8,0
+86,Shampoo,Hair Care,12.99,64.0,10.0,3.0,30,1,11,0
+87,Conditioner,Hair Care,11.99,207.0,6.0,6.0,36,0,4,0
+88,Hair Spray,Styling,10.99,57.0,5.0,9.0,45,1,5,0
+89,Comb,Tools,4.99,25.0,1.0,5.0,5,0,4,0
+90,Hair Spray,Styling,10.99,19.0,6.0,9.0,54,0,6,1
+91,Hair Gel,Styling,7.99,18.0,7.0,5.0,35,0,7,1
+92,Hair Mousse,Styling,9.99,211.0,5.0,6.0,30,1,7,0
+93,Hair Gel,Styling,7.99,241.0,6.0,6.0,36,1,8,0
+94,Comb,Tools,4.99,82.0,2.0,5.0,10,0,5,0
+95,Shampoo,Hair Care,12.99,195.0,7.0,4.0,28,1,8,0
+96,Comb,Tools,4.99,208.0,2.0,7.0,14,1,3,0
+97,Hair Gel,Styling,7.99,177.0,6.0,9.0,54,1,6,0
+98,Hair Mousse,Styling,9.99,64.0,2.0,8.0,16,0,4,0
+99,Conditioner,Hair Care,11.99,132.0,11.0,7.0,77,1,13,0
+100,Hair Spray,Styling,10.99,33.0,6.0,9.0,54,0,4,1
+101,Conditioner,Hair Care,11.99,79.0,6.0,10.0,60,1,4,0
+102,Hair Gel,Styling,7.99,242.0,8.0,9.0,72,1,11,0
+103,Hair Gel,Styling,7.99,62.0,8.0,9.0,72,0,10,1
+104,Conditioner,Hair Care,11.99,221.0,10.0,8.0,80,1,10,0
+105,Hair Spray,Styling,10.99,148.0,6.0,9.0,54,1,5,0
+106,Hair Spray,Styling,10.99,96.0,3.0,5.0,15,0,6,0
+107,Shampoo,Hair Care,12.99,81.0,8.0,9.0,72,1,11,0
+108,Conditioner,Hair Care,11.99,126.0,8.0,,56,1,6,0
+109,Conditioner,Hair Care,11.99,104.0,6.0,4.0,24,1,4,0
+110,Hair Gel,Styling,7.99,166.0,7.0,10.0,70,1,8,0
+111,Hair Spray,Styling,10.99,9.0,5.0,3.0,15,1,4,1
+112,Shampoo,Hair Care,12.99,194.0,5.0,9.0,45,1,4,0
+113,Hair Mousse,Styling,9.99,91.0,1.0,7.0,7,0,2,0
+114,Conditioner,Hair Care,11.99,43.0,8.0,8.0,64,0,10,1
+115,Comb,Tools,4.99,65.0,5.0,9.0,45,0,5,0
+116,Hair Spray,Styling,10.99,40.0,9.0,6.0,54,1,12,1
+117,Hair Gel,Styling,7.99,218.0,8.0,9.0,72,0,6,0
+118,Comb,Tools,4.99,75.0,6.0,8.0,48,0,6,0
+119,Shampoo,Hair Care,12.99,233.0,8.0,9.0,72,0,8,0
+120,Hair Spray,Styling,10.99,64.0,3.0,4.0,12,0,6,0
+121,Hair Gel,Styling,7.99,8.0,3.0,7.0,21,0,6,1
+122,Conditioner,Hair Care,11.99,51.0,8.0,7.0,56,1,10,1
+123,Hair Gel,Styling,7.99,247.0,7.0,6.0,42,1,10,0
+124,Conditioner,Hair Care,11.99,220.0,5.0,8.0,40,1,7,0
+125,Shampoo,Hair Care,12.99,116.0,5.0,7.0,35,1,8,0
+126,Shampoo,Hair Care,12.99,172.0,8.0,10.0,80,0,8,0
+127,Comb,Tools,4.99,,3.0,8.0,24,0,1,0
+128,Shampoo,Hair Care,12.99,24.0,8.0,8.0,64,1,9,1
+129,Hair Gel,Styling,7.99,150.0,8.0,4.0,32,0,9,0
+130,Hair Mousse,Styling,9.99,8.0,4.0,9.0,36,1,3,1
+131,Comb,Tools,4.99,91.0,1.0,2.0,2,1,2,0
+132,Hair Gel,Styling,7.99,23.0,4.0,2.0,8,1,2,0
+133,Shampoo,Hair Care,12.99,212.0,5.0,10.0,50,0,4,0
+134,Hair Spray,Styling,10.99,0.0,4.0,4.0,16,1,0,1
+135,Conditioner,Hair Care,11.99,,12.0,7.0,84,1,3,1
+136,Hair Gel,Styling,7.99,134.0,6.0,9.0,54,0,6,0
+137,Comb,Tools,4.99,200.0,3.0,10.0,30,1,3,0
+138,Hair Gel,Styling,7.99,109.0,5.0,9.0,45,0,3,0
+139,Hair Spray,Styling,10.99,162.0,2.0,10.0,20,1,5,0
+140,Hair Spray,Styling,10.99,154.0,1.0,3.0,3,0,4,0
+141,Hair Gel,Styling,7.99,102.0,7.0,8.0,56,0,10,0
+142,Conditioner,Hair Care,11.99,175.0,7.0,3.0,21,1,5,0
+143,Hair Spray,Styling,10.99,15.0,4.0,10.0,40,1,6,1
+144,Hair Gel,Styling,7.99,222.0,6.0,6.0,36,1,8,0
+145,Comb,Tools,4.99,123.0,2.0,5.0,10,1,0,0
+146,Hair Spray,Styling,10.99,,6.0,10.0,60,1,4,1
+147,Hair Mousse,Styling,9.99,89.0,1.0,2.0,2,0,0,0
+148,Comb,Tools,4.99,248.0,6.0,5.0,30,1,7,0
+149,Hair Mousse,Styling,9.99,198.0,5.0,3.0,15,0,3,0
+150,Hair Mousse,Styling,9.99,113.0,3.0,9.0,27,1,4,0
+151,Shampoo,Hair Care,12.99,,6.0,9.0,54,1,8,0
+152,Shampoo,Hair Care,12.99,52.0,,4.0,28,1,7,0
+153,Conditioner,Hair Care,11.99,33.0,8.0,8.0,64,0,10,1
+154,Shampoo,Hair Care,12.99,101.0,8.0,2.0,16,0,9,0
+155,Comb,Tools,4.99,163.0,2.0,8.0,16,0,2,0
+156,Hair Spray,Styling,10.99,117.0,7.0,3.0,21,0,8,0
+157,Hair Gel,Styling,7.99,222.0,2.0,6.0,12,1,5,0
+158,Comb,Tools,4.99,29.0,1.0,7.0,7,0,1,0
+159,Hair Spray,Styling,10.99,39.0,4.0,3.0,12,1,3,0
+160,Comb,Tools,4.99,236.0,5.0,7.0,35,1,8,0
+161,Hair Mousse,Styling,9.99,203.0,3.0,6.0,18,0,5,0
+162,Shampoo,Hair Care,12.99,14.0,6.0,3.0,18,1,8,1
+163,Shampoo,Hair Care,12.99,115.0,9.0,5.0,45,1,9,0
+164,Hair Mousse,Styling,9.99,182.0,7.0,2.0,14,1,6,0
+165,Hair Mousse,Styling,9.99,95.0,6.0,6.0,36,1,7,0
+166,Comb,Tools,4.99,165.0,2.0,10.0,20,1,5,0
+167,Hair Spray,Styling,10.99,223.0,6.0,4.0,24,0,6,0
+168,Comb,Tools,4.99,178.0,2.0,3.0,6,1,2,0
+169,Comb,Tools,4.99,212.0,,10.0,20,1,0,0
+170,Conditioner,Hair Care,11.99,87.0,9.0,5.0,45,0,8,0
+171,Hair Spray,Styling,10.99,213.0,4.0,10.0,40,1,2,0
+172,Conditioner,Hair Care,11.99,,8.0,4.0,32,1,11,0
+173,Hair Gel,Styling,7.99,156.0,8.0,6.0,48,1,11,0
+174,Hair Gel,Styling,7.99,231.0,6.0,9.0,54,1,7,0
+175,Conditioner,Hair Care,11.99,209.0,5.0,5.0,25,0,7,0
+176,Hair Mousse,Styling,9.99,141.0,7.0,10.0,70,1,5,0
+177,Hair Spray,Styling,10.99,37.0,3.0,8.0,24,0,1,0
+178,Hair Gel,Styling,7.99,13.0,4.0,8.0,32,1,2,1
+179,Comb,Tools,4.99,,4.0,7.0,28,0,3,0
+180,Conditioner,Hair Care,11.99,194.0,6.0,2.0,12,0,4,0
+181,Comb,Tools,4.99,155.0,0.0,10.0,0,0,1,0
+182,Conditioner,Hair Care,11.99,107.0,,3.0,15,1,3,0
+183,Conditioner,Hair Care,11.99,,4.0,4.0,16,1,4,0
+184,Conditioner,Hair Care,11.99,170.0,5.0,7.0,35,0,3,0
+185,Hair Mousse,Styling,9.99,64.0,2.0,2.0,4,0,2,0
+186,Hair Spray,Styling,10.99,188.0,5.0,7.0,35,1,7,0
+187,Hair Gel,Styling,7.99,178.0,4.0,9.0,36,0,7,0
+188,Hair Gel,Styling,7.99,9.0,5.0,5.0,25,1,3,1
+189,Hair Spray,Styling,10.99,121.0,5.0,6.0,30,0,3,0
+190,Comb,Tools,4.99,84.0,2.0,8.0,16,1,3,0
+191,Hair Gel,Styling,7.99,177.0,9.0,9.0,81,1,9,0
+192,Hair Spray,Styling,10.99,210.0,5.0,3.0,15,1,3,0
+193,Hair Gel,Styling,7.99,,7.0,9.0,63,1,7,1
+194,Hair Gel,Styling,7.99,70.0,3.0,2.0,6,1,1,0
+195,Shampoo,Hair Care,12.99,36.0,5.0,9.0,45,0,3,1
+196,Hair Gel,Styling,7.99,243.0,3.0,9.0,27,1,3,0
+197,Hair Mousse,Styling,9.99,101.0,3.0,7.0,21,1,6,0
+198,Hair Gel,Styling,7.99,132.0,4.0,6.0,24,1,4,0
+199,Hair Gel,Styling,7.99,51.0,7.0,3.0,21,0,6,0
+200,Shampoo,Hair Care,12.99,207.0,6.0,7.0,42,1,9,0
+201,Hair Mousse,Styling,9.99,217.0,1.0,4.0,4,0,4,0
+202,Conditioner,Hair Care,11.99,202.0,9.0,2.0,18,1,9,0
+203,Shampoo,Hair Care,12.99,16.0,10.0,6.0,60,1,11,1
+204,Shampoo,Hair Care,12.99,32.0,10.0,9.0,90,1,11,1
+205,Hair Spray,Styling,10.99,46.0,4.0,4.0,16,0,5,0
+206,Conditioner,Hair Care,11.99,82.0,8.0,10.0,80,0,8,0
+207,Conditioner,Hair Care,11.99,160.0,6.0,6.0,36,0,8,0
+208,Conditioner,Hair Care,11.99,43.0,,7.0,35,0,7,0
+209,Comb,Tools,4.99,197.0,0.0,6.0,0,0,3,0
+210,Hair Gel,Styling,7.99,227.0,4.0,6.0,24,0,5,0
+211,Shampoo,Hair Care,12.99,176.0,6.0,2.0,12,1,5,0
+212,Conditioner,Hair Care,11.99,80.0,8.0,7.0,56,0,9,0
+213,Conditioner,Hair Care,11.99,119.0,5.0,3.0,15,1,5,0
+214,Hair Gel,Styling,7.99,221.0,4.0,4.0,16,1,4,0
+215,Hair Gel,Styling,7.99,127.0,4.0,6.0,24,0,5,0
+216,Conditioner,Hair Care,11.99,55.0,,6.0,36,1,7,0
+217,Conditioner,Hair Care,11.99,225.0,6.0,6.0,36,1,9,0
+218,Hair Spray,Styling,10.99,143.0,5.0,3.0,15,1,6,0
+219,Comb,Tools,4.99,156.0,5.0,3.0,15,0,4,0
+220,Hair Mousse,Styling,9.99,,6.0,8.0,48,0,8,0
+221,Hair Gel,Styling,7.99,132.0,8.0,9.0,72,0,7,0
+222,Hair Spray,Styling,10.99,189.0,6.0,10.0,60,1,8,0
+223,Hair Mousse,Styling,9.99,84.0,2.0,3.0,6,1,3,0
+224,Shampoo,Hair Care,12.99,152.0,2.0,5.0,10,0,5,0
+225,Hair Spray,Styling,10.99,,5.0,8.0,40,0,4,0
+226,Shampoo,Hair Care,12.99,112.0,7.0,5.0,35,1,8,0
+227,Conditioner,Hair Care,11.99,132.0,8.0,5.0,40,1,10,0
+228,Conditioner,Hair Care,11.99,117.0,8.0,7.0,56,1,11,0
+229,Hair Spray,Styling,10.99,76.0,4.0,5.0,20,1,4,0
+230,Hair Gel,Styling,7.99,89.0,1.0,6.0,6,0,1,0
+231,Hair Gel,Styling,7.99,,4.0,7.0,28,1,3,0
+232,Hair Gel,Styling,7.99,167.0,5.0,5.0,25,1,7,0
+233,Hair Spray,Styling,10.99,189.0,7.0,5.0,35,0,6,0
+234,Shampoo,Hair Care,12.99,,5.0,3.0,15,0,8,0
+235,Hair Gel,Styling,7.99,167.0,7.0,9.0,63,0,8,0
+236,Shampoo,Hair Care,12.99,232.0,8.0,5.0,40,0,10,0
+237,Conditioner,Hair Care,11.99,239.0,4.0,2.0,8,1,5,0
+238,Hair Mousse,Styling,9.99,224.0,6.0,3.0,18,1,6,0
+239,Conditioner,Hair Care,11.99,217.0,7.0,10.0,70,1,8,0
+240,Hair Gel,Styling,7.99,165.0,5.0,7.0,35,0,5,0
+241,Hair Gel,Styling,7.99,131.0,7.0,7.0,49,1,5,0
+242,Hair Mousse,Styling,9.99,239.0,5.0,5.0,25,1,6,0
+243,Shampoo,Hair Care,12.99,66.0,9.0,7.0,63,0,12,0
+244,Hair Gel,Styling,7.99,175.0,1.0,6.0,6,0,4,0
+245,Conditioner,Hair Care,11.99,56.0,6.0,4.0,24,0,7,0
+246,Comb,Tools,4.99,140.0,5.0,5.0,25,0,4,0
+247,Hair Spray,Styling,10.99,28.0,3.0,2.0,6,0,5,0
+248,Hair Spray,Styling,10.99,113.0,6.0,9.0,54,1,4,0
+249,Hair Gel,Styling,7.99,144.0,6.0,,12,1,8,0
+250,Hair Mousse,Styling,9.99,209.0,6.0,3.0,18,1,4,0
+251,Shampoo,Hair Care,12.99,239.0,8.0,9.0,72,1,6,0
+252,Comb,Tools,4.99,165.0,4.0,8.0,32,1,5,0
+253,Hair Spray,Styling,10.99,34.0,4.0,7.0,28,0,2,0
+254,Conditioner,Hair Care,11.99,213.0,7.0,6.0,42,1,8,0
+255,Hair Mousse,Styling,9.99,,5.0,6.0,30,0,4,0
+256,Shampoo,Hair Care,12.99,61.0,8.0,2.0,16,0,9,0
+257,Hair Spray,Styling,10.99,55.0,5.0,2.0,10,1,4,0
+258,Hair Spray,Styling,10.99,153.0,5.0,5.0,25,0,5,0
+259,Hair Mousse,Styling,9.99,15.0,1.0,10.0,10,0,3,0
+260,Hair Mousse,Styling,9.99,241.0,3.0,10.0,30,1,3,0
+261,Hair Spray,Styling,10.99,121.0,3.0,5.0,15,1,2,0
+262,Shampoo,Hair Care,12.99,143.0,6.0,10.0,60,1,5,0
+263,Hair Gel,Styling,7.99,216.0,7.0,7.0,49,0,5,0
+264,Shampoo,Hair Care,12.99,223.0,11.0,10.0,110,1,10,0
+265,Shampoo,Hair Care,12.99,54.0,9.0,5.0,45,0,12,0
+266,Comb,Tools,4.99,154.0,2.0,5.0,10,1,4,0
+267,Hair Mousse,Styling,9.99,78.0,3.0,6.0,18,1,3,0
+268,Hair Mousse,Styling,9.99,234.0,,2.0,10,0,7,0
+269,Hair Spray,Styling,10.99,148.0,6.0,8.0,48,0,6,0
+270,Conditioner,Hair Care,11.99,127.0,2.0,7.0,14,1,2,0
+271,Conditioner,Hair Care,11.99,187.0,5.0,7.0,35,0,4,0
+272,Hair Spray,Styling,10.99,164.0,7.0,3.0,21,0,10,0
+273,Conditioner,Hair Care,11.99,17.0,6.0,4.0,24,0,4,1
+274,Comb,Tools,4.99,239.0,1.0,,9,0,0,0
+275,Comb,Tools,4.99,70.0,1.0,10.0,10,0,1,0
+276,Conditioner,Hair Care,11.99,27.0,9.0,5.0,45,1,8,1
+277,Hair Mousse,Styling,9.99,245.0,3.0,8.0,24,0,4,0
+278,Shampoo,Hair Care,12.99,167.0,10.0,2.0,20,1,8,0
+279,Shampoo,Hair Care,12.99,179.0,7.0,4.0,28,1,5,0
+280,Shampoo,Hair Care,12.99,229.0,7.0,5.0,35,1,10,0
+281,Hair Mousse,Styling,9.99,230.0,4.0,,40,0,6,0
+282,Conditioner,Hair Care,11.99,150.0,9.0,8.0,72,1,7,0
+283,Hair Gel,Styling,7.99,173.0,8.0,10.0,80,1,8,0
+284,Comb,Tools,4.99,20.0,0.0,2.0,0,1,0,0
+285,Hair Spray,Styling,10.99,244.0,4.0,8.0,32,0,4,0
+286,Conditioner,Hair Care,11.99,91.0,5.0,4.0,20,1,8,0
+287,Comb,Tools,4.99,18.0,2.0,3.0,6,0,2,0
+288,Hair Gel,Styling,7.99,81.0,5.0,6.0,30,1,6,0
+289,Hair Gel,Styling,7.99,114.0,6.0,10.0,60,1,8,0
+290,Hair Spray,Styling,10.99,153.0,5.0,2.0,10,1,5,0
+291,Conditioner,Hair Care,11.99,146.0,3.0,10.0,30,1,2,0
+292,Conditioner,Hair Care,11.99,16.0,7.0,6.0,42,0,8,1
+293,Hair Gel,Styling,7.99,152.0,,5.0,35,0,8,0
+294,Hair Spray,Styling,10.99,97.0,5.0,7.0,35,0,6,0
+295,Hair Gel,Styling,7.99,80.0,4.0,4.0,16,1,5,0
+296,Hair Spray,Styling,10.99,200.0,5.0,8.0,40,0,5,0
+297,Conditioner,Hair Care,11.99,174.0,8.0,10.0,80,1,6,0
+298,Comb,Tools,4.99,17.0,4.0,8.0,32,1,7,1
+299,Conditioner,Hair Care,11.99,183.0,3.0,8.0,24,0,4,0
+300,Hair Spray,Styling,10.99,129.0,8.0,8.0,64,0,10,0
+301,Hair Spray,Styling,10.99,152.0,3.0,3.0,9,0,1,0
+302,Shampoo,Hair Care,12.99,144.0,10.0,8.0,80,1,10,0
+303,Comb,Tools,4.99,132.0,2.0,10.0,20,0,4,0
+304,Hair Spray,Styling,10.99,176.0,3.0,2.0,6,0,4,0
+305,Comb,Tools,4.99,36.0,2.0,7.0,14,1,2,0
+306,Hair Gel,Styling,7.99,,3.0,,21,1,1,0
+307,Hair Mousse,Styling,9.99,165.0,6.0,3.0,18,0,9,0
+308,Hair Spray,Styling,10.99,40.0,3.0,9.0,27,1,2,0
+309,Hair Gel,Styling,7.99,7.0,7.0,5.0,35,1,7,1
+310,Comb,Tools,4.99,207.0,3.0,10.0,30,1,2,0
+311,Hair Gel,Styling,7.99,135.0,3.0,7.0,21,1,5,0
+312,Hair Gel,Styling,7.99,158.0,7.0,6.0,42,0,9,0
+313,Shampoo,Hair Care,12.99,46.0,10.0,7.0,70,0,13,1
+314,Hair Gel,Styling,7.99,108.0,7.0,4.0,28,0,9,0
+315,Hair Gel,Styling,7.99,158.0,8.0,2.0,16,0,8,0
+316,Hair Spray,Styling,10.99,129.0,3.0,9.0,27,1,4,0
+317,Conditioner,Hair Care,11.99,74.0,5.0,2.0,10,0,5,0
+318,Comb,Tools,4.99,197.0,3.0,3.0,9,0,5,0
+319,Hair Spray,Styling,10.99,210.0,2.0,2.0,4,1,5,0
+320,Comb,Tools,4.99,192.0,3.0,2.0,6,1,4,0
+321,Shampoo,Hair Care,12.99,198.0,12.0,5.0,60,1,11,0
+322,Hair Spray,Styling,10.99,35.0,5.0,2.0,10,1,7,0
+323,Comb,Tools,4.99,74.0,0.0,6.0,0,1,2,0
+324,Shampoo,Hair Care,12.99,34.0,11.0,2.0,22,0,11,0
+325,Hair Mousse,Styling,9.99,212.0,4.0,5.0,20,1,7,0
+326,Hair Gel,Styling,7.99,96.0,3.0,3.0,9,1,4,0
+327,Hair Gel,Styling,7.99,83.0,6.0,2.0,12,0,9,0
+328,Hair Mousse,Styling,9.99,217.0,7.0,5.0,35,0,8,0
+329,Hair Spray,Styling,10.99,147.0,5.0,4.0,20,1,7,0
+330,Shampoo,Hair Care,12.99,25.0,,2.0,10,0,3,0
+331,Conditioner,Hair Care,11.99,176.0,4.0,4.0,16,1,7,0
+332,Comb,Tools,4.99,92.0,2.0,4.0,8,1,0,0
+333,Hair Gel,Styling,7.99,,7.0,3.0,21,0,10,0
+334,Conditioner,Hair Care,11.99,132.0,6.0,7.0,42,1,4,0
+335,Shampoo,Hair Care,12.99,187.0,7.0,3.0,21,1,5,0
+336,Conditioner,Hair Care,11.99,164.0,8.0,10.0,80,0,10,0
+337,Conditioner,Hair Care,11.99,160.0,6.0,4.0,24,1,7,0
+338,Shampoo,Hair Care,12.99,150.0,7.0,8.0,56,0,7,0
+339,Hair Spray,Styling,10.99,153.0,3.0,6.0,18,0,6,0
+340,Hair Spray,Styling,10.99,155.0,1.0,6.0,6,0,4,0
+341,Hair Gel,Styling,7.99,28.0,5.0,5.0,25,0,6,0
+342,Hair Mousse,Styling,9.99,33.0,2.0,8.0,16,0,2,0
+343,Shampoo,Hair Care,12.99,150.0,10.0,3.0,30,1,8,0
+344,Hair Gel,Styling,7.99,129.0,5.0,8.0,40,1,6,0
+345,Hair Mousse,Styling,9.99,21.0,8.0,6.0,48,0,6,1
+346,Hair Spray,Styling,10.99,162.0,5.0,3.0,15,1,5,0
+347,Shampoo,Hair Care,12.99,236.0,5.0,8.0,40,1,3,0
+348,Comb,Tools,4.99,189.0,3.0,4.0,12,0,6,0
+349,Comb,Tools,4.99,66.0,3.0,4.0,12,0,3,0
+350,Shampoo,Hair Care,12.99,197.0,9.0,8.0,72,0,9,0
+351,Hair Gel,Styling,7.99,116.0,4.0,10.0,40,0,4,0
+352,Hair Mousse,Styling,9.99,,7.0,3.0,21,0,6,0
+353,Hair Gel,Styling,7.99,93.0,7.0,8.0,56,0,6,0
+354,Comb,Tools,4.99,189.0,2.0,5.0,10,1,3,0
+355,Hair Spray,Styling,10.99,172.0,3.0,2.0,6,0,2,0
+356,Shampoo,Hair Care,12.99,224.0,,6.0,36,0,6,0
+357,Hair Spray,Styling,10.99,200.0,5.0,6.0,30,0,8,0
+358,Conditioner,Hair Care,11.99,187.0,,5.0,45,0,8,0
+359,Comb,Tools,4.99,214.0,1.0,2.0,2,0,1,0
+360,Hair Mousse,Styling,9.99,26.0,6.0,8.0,48,0,7,1
+361,Shampoo,Hair Care,12.99,235.0,13.0,5.0,65,1,15,0
+362,Shampoo,Hair Care,12.99,148.0,8.0,8.0,64,0,6,0
+363,Hair Mousse,Styling,9.99,217.0,5.0,7.0,35,1,6,0
+364,Conditioner,Hair Care,11.99,34.0,7.0,4.0,28,0,5,0
+365,Hair Mousse,Styling,9.99,246.0,2.0,5.0,10,1,3,0
+366,Comb,Tools,4.99,77.0,4.0,2.0,8,1,3,0
+367,Hair Gel,Styling,7.99,131.0,3.0,2.0,6,1,6,0
+368,Hair Gel,Styling,7.99,218.0,2.0,5.0,10,1,0,0
+369,Shampoo,Hair Care,12.99,212.0,8.0,5.0,40,0,7,0
+370,Comb,Tools,4.99,21.0,1.0,3.0,3,0,0,0
+371,Shampoo,Hair Care,12.99,231.0,7.0,7.0,49,0,5,0
+372,Hair Gel,Styling,7.99,210.0,5.0,8.0,40,1,8,0
+373,Hair Mousse,Styling,9.99,114.0,2.0,4.0,8,0,0,0
+374,Hair Gel,Styling,7.99,15.0,7.0,8.0,56,0,6,1
+375,Hair Gel,Styling,7.99,200.0,7.0,7.0,49,1,8,0
+376,Hair Mousse,Styling,9.99,46.0,7.0,2.0,14,0,7,0
+377,Hair Spray,Styling,10.99,59.0,5.0,4.0,20,0,3,0
+378,Comb,Tools,4.99,14.0,3.0,8.0,24,0,3,1
+379,Comb,Tools,4.99,91.0,0.0,2.0,0,1,3,0
+380,Conditioner,Hair Care,11.99,214.0,11.0,9.0,99,1,13,0
+381,Hair Spray,Styling,10.99,,4.0,2.0,8,1,6,0
+382,Conditioner,Hair Care,11.99,87.0,6.0,7.0,42,0,4,0
+383,Shampoo,Hair Care,12.99,216.0,3.0,10.0,30,0,3,0
+384,Shampoo,Hair Care,12.99,86.0,7.0,4.0,28,1,10,0
+385,Conditioner,Hair Care,11.99,181.0,8.0,10.0,80,1,11,0
+386,Hair Mousse,Styling,9.99,187.0,4.0,2.0,8,1,7,0
+387,Conditioner,Hair Care,11.99,154.0,6.0,7.0,42,0,8,0
+388,Hair Mousse,Styling,9.99,190.0,6.0,7.0,42,0,5,0
+389,Hair Mousse,Styling,9.99,114.0,5.0,2.0,10,0,5,0
+390,Shampoo,Hair Care,12.99,184.0,9.0,8.0,72,1,8,0
+391,Shampoo,Hair Care,12.99,212.0,8.0,9.0,72,0,10,0
+392,Hair Mousse,Styling,9.99,5.0,2.0,3.0,6,0,2,1
+393,Shampoo,Hair Care,12.99,86.0,12.0,9.0,108,0,15,1
+394,Hair Gel,Styling,7.99,40.0,7.0,5.0,35,1,8,0
+395,Hair Gel,Styling,7.99,146.0,,10.0,60,0,7,0
+396,Comb,Tools,4.99,160.0,1.0,2.0,2,0,0,0
+397,Shampoo,Hair Care,12.99,78.0,7.0,8.0,56,1,8,0
+398,Hair Gel,Styling,7.99,47.0,4.0,4.0,16,0,5,0
+399,Hair Mousse,Styling,9.99,144.0,6.0,2.0,12,0,5,0
+400,Hair Spray,Styling,10.99,58.0,1.0,10.0,10,1,2,0
+401,Hair Gel,Styling,7.99,231.0,4.0,2.0,8,0,6,0
+402,Conditioner,Hair Care,11.99,248.0,7.0,2.0,14,0,8,0
+403,Comb,Tools,4.99,37.0,4.0,6.0,24,0,4,0
+404,Hair Mousse,Styling,9.99,133.0,1.0,10.0,10,0,2,0
+405,Shampoo,Hair Care,12.99,236.0,9.0,3.0,27,0,11,0
+406,Hair Gel,Styling,7.99,67.0,4.0,9.0,36,0,2,0
+407,Comb,Tools,4.99,102.0,4.0,2.0,8,1,5,0
+408,Hair Mousse,Styling,9.99,229.0,3.0,6.0,18,1,3,0
+409,Conditioner,Hair Care,11.99,34.0,8.0,6.0,48,1,11,1
+410,Hair Spray,Styling,10.99,165.0,6.0,8.0,48,1,9,0
+411,Hair Spray,Styling,10.99,202.0,6.0,4.0,24,1,4,0
+412,Hair Spray,Styling,10.99,,3.0,5.0,15,0,1,0
+413,Conditioner,Hair Care,11.99,70.0,6.0,7.0,42,1,7,0
+414,Hair Mousse,Styling,9.99,125.0,3.0,9.0,27,1,5,0
+415,Comb,Tools,4.99,,2.0,6.0,12,1,0,0
+416,Conditioner,Hair Care,11.99,219.0,7.0,5.0,35,1,7,0
+417,Comb,Tools,4.99,2.0,,9.0,36,0,2,1
+418,Hair Mousse,Styling,9.99,182.0,7.0,8.0,56,1,8,0
+419,Hair Spray,Styling,10.99,,4.0,8.0,32,0,6,0
+420,Hair Mousse,Styling,9.99,143.0,3.0,6.0,18,0,6,0
+421,Hair Mousse,Styling,9.99,220.0,2.0,6.0,12,1,2,0
+422,Shampoo,Hair Care,12.99,206.0,10.0,8.0,80,1,13,0
+423,Hair Mousse,Styling,9.99,66.0,2.0,8.0,16,1,3,0
+424,Conditioner,Hair Care,11.99,87.0,6.0,10.0,60,1,9,0
+425,Conditioner,Hair Care,11.99,215.0,5.0,10.0,50,1,4,0
+426,Hair Spray,Styling,10.99,195.0,9.0,7.0,63,0,12,0
+427,Hair Gel,Styling,7.99,201.0,3.0,7.0,21,1,3,0
+428,Shampoo,Hair Care,12.99,221.0,6.0,3.0,18,0,7,0
+429,Hair Mousse,Styling,9.99,105.0,3.0,2.0,6,0,2,0
+430,Hair Gel,Styling,7.99,36.0,4.0,3.0,12,1,5,0
+431,Shampoo,Hair Care,12.99,115.0,10.0,6.0,60,0,9,0
+432,Shampoo,Hair Care,12.99,33.0,5.0,8.0,40,1,6,1
+433,Hair Mousse,Styling,9.99,,,2.0,6,0,3,0
+434,Conditioner,Hair Care,11.99,177.0,8.0,3.0,24,1,9,0
+435,Hair Mousse,Styling,9.99,116.0,3.0,10.0,30,1,5,0
+436,Hair Gel,Styling,7.99,91.0,6.0,8.0,48,0,4,0
+437,Shampoo,Hair Care,12.99,150.0,6.0,10.0,60,0,5,0
+438,Comb,Tools,4.99,65.0,,2.0,6,0,6,0
+439,Hair Gel,Styling,7.99,113.0,3.0,8.0,24,1,1,0
+440,Comb,Tools,4.99,2.0,2.0,10.0,20,0,2,1
+441,Hair Spray,Styling,10.99,30.0,7.0,6.0,42,0,5,1
+442,Hair Spray,Styling,10.99,249.0,5.0,6.0,30,0,4,0
+443,Hair Gel,Styling,7.99,84.0,8.0,5.0,40,0,6,0
+444,Comb,Tools,4.99,126.0,3.0,10.0,30,0,1,0
+445,Hair Mousse,Styling,9.99,67.0,5.0,9.0,45,0,3,0
+446,Hair Mousse,Styling,9.99,,4.0,3.0,12,0,2,0
+447,Hair Mousse,Styling,9.99,91.0,3.0,9.0,27,1,5,0
+448,Conditioner,Hair Care,11.99,29.0,2.0,6.0,12,1,3,0
+449,Shampoo,Hair Care,12.99,33.0,10.0,2.0,20,0,9,0
+450,Comb,Tools,4.99,112.0,3.0,7.0,21,0,5,0
+451,Conditioner,Hair Care,11.99,123.0,8.0,9.0,72,1,6,0
+452,Shampoo,Hair Care,12.99,180.0,9.0,5.0,45,1,12,0
+453,Hair Gel,Styling,7.99,169.0,4.0,5.0,20,1,5,0
+454,Hair Spray,Styling,10.99,228.0,5.0,4.0,20,1,7,0
+455,Hair Gel,Styling,7.99,82.0,5.0,5.0,25,1,5,0
+456,Hair Gel,Styling,7.99,209.0,6.0,9.0,54,1,4,0
+457,Comb,Tools,4.99,,5.0,3.0,15,1,4,1
+458,Hair Spray,Styling,10.99,246.0,3.0,10.0,30,0,5,0
+459,Shampoo,Hair Care,12.99,209.0,6.0,5.0,30,1,7,0
+460,Comb,Tools,4.99,93.0,2.0,5.0,10,1,0,0
+461,Hair Spray,Styling,10.99,,4.0,7.0,28,0,7,0
+462,Comb,Tools,4.99,190.0,2.0,5.0,10,0,1,0
+463,Conditioner,Hair Care,11.99,,6.0,7.0,42,1,4,0
+464,Shampoo,Hair Care,12.99,,9.0,10.0,90,1,8,0
+465,Hair Gel,Styling,7.99,214.0,4.0,9.0,36,0,6,0
+466,Shampoo,Hair Care,12.99,99.0,6.0,7.0,42,1,8,0
+467,Conditioner,Hair Care,11.99,70.0,4.0,8.0,32,1,4,0
+468,Comb,Tools,4.99,226.0,2.0,10.0,20,0,2,0
+469,Hair Mousse,Styling,9.99,235.0,3.0,4.0,12,0,6,0
+470,Shampoo,Hair Care,12.99,194.0,6.0,,48,1,9,0
+471,Shampoo,Hair Care,12.99,6.0,9.0,8.0,72,0,6,1
+472,Conditioner,Hair Care,11.99,73.0,6.0,2.0,12,1,9,0
+473,Hair Gel,Styling,7.99,26.0,4.0,10.0,40,1,3,1
+474,Hair Mousse,Styling,9.99,177.0,2.0,8.0,16,1,3,0
+475,Conditioner,Hair Care,11.99,158.0,3.0,9.0,27,1,2,0
+476,Comb,Tools,4.99,246.0,3.0,3.0,9,0,2,0
+477,Hair Mousse,Styling,9.99,142.0,7.0,6.0,42,0,6,0
+478,Comb,Tools,4.99,239.0,3.0,7.0,21,0,5,0
+479,Hair Mousse,Styling,9.99,125.0,5.0,10.0,50,0,5,0
+480,Conditioner,Hair Care,11.99,133.0,9.0,8.0,72,1,11,0
+481,Hair Mousse,Styling,9.99,84.0,5.0,7.0,35,0,5,0
+482,Hair Spray,Styling,10.99,210.0,5.0,3.0,15,1,8,0
+483,Hair Spray,Styling,10.99,62.0,2.0,2.0,4,1,5,0
+484,Hair Mousse,Styling,9.99,138.0,4.0,10.0,40,1,4,0
+485,Hair Mousse,Styling,9.99,131.0,4.0,3.0,12,0,2,0
+486,Comb,Tools,4.99,16.0,3.0,5.0,15,1,6,0
+487,Comb,Tools,4.99,198.0,5.0,8.0,40,0,8,0
+488,Hair Mousse,Styling,9.99,9.0,5.0,6.0,30,0,7,1
+489,Hair Gel,Styling,7.99,,6.0,8.0,48,1,7,0
+490,Comb,Tools,4.99,184.0,0.0,2.0,0,0,3,0
+491,Comb,Tools,4.99,77.0,0.0,3.0,0,1,0,0
+492,Conditioner,Hair Care,11.99,136.0,7.0,10.0,70,0,7,0
+493,Comb,Tools,4.99,165.0,,7.0,42,0,4,0
+494,Hair Spray,Styling,10.99,140.0,6.0,7.0,42,1,5,0
+495,Conditioner,Hair Care,11.99,56.0,6.0,6.0,36,0,5,0
+496,Hair Spray,Styling,10.99,118.0,4.0,3.0,12,0,4,0
+497,Hair Mousse,Styling,9.99,32.0,4.0,5.0,20,1,2,0
+498,Hair Gel,Styling,7.99,84.0,4.0,4.0,16,1,6,0
+499,Hair Mousse,Styling,9.99,63.0,3.0,5.0,15,1,6,0
+500,Hair Mousse,Styling,9.99,224.0,2.0,6.0,12,0,3,0
+501,Conditioner,Hair Care,11.99,228.0,7.0,10.0,70,1,6,0
+502,Shampoo,Hair Care,12.99,217.0,7.0,8.0,56,0,9,0
+503,Hair Spray,Styling,10.99,120.0,4.0,4.0,16,1,4,0
+504,Hair Mousse,Styling,9.99,34.0,2.0,8.0,16,0,2,0
+505,Hair Spray,Styling,10.99,175.0,5.0,4.0,20,0,7,0
+506,Comb,Tools,4.99,223.0,6.0,9.0,54,0,6,0
+507,Hair Mousse,Styling,9.99,59.0,4.0,2.0,8,0,7,0
+508,Hair Gel,Styling,7.99,225.0,11.0,7.0,77,1,9,0
+509,Conditioner,Hair Care,11.99,96.0,8.0,8.0,64,0,8,0
+510,Hair Spray,Styling,10.99,103.0,2.0,9.0,18,0,3,0
+511,Shampoo,Hair Care,12.99,131.0,11.0,6.0,66,0,10,0
+512,Shampoo,Hair Care,12.99,169.0,8.0,3.0,24,1,9,0
+513,Hair Gel,Styling,7.99,5.0,9.0,5.0,45,0,5,1
+514,Shampoo,Hair Care,12.99,228.0,7.0,,42,1,6,0
+515,Comb,Tools,4.99,186.0,2.0,6.0,12,0,0,0
+516,Conditioner,Hair Care,11.99,56.0,8.0,4.0,32,1,10,0
+517,Hair Spray,Styling,10.99,151.0,2.0,3.0,6,1,1,0
+518,Hair Spray,Styling,10.99,175.0,4.0,3.0,12,1,3,0
+519,Hair Spray,Styling,10.99,128.0,5.0,3.0,15,1,3,0
+520,Shampoo,Hair Care,12.99,229.0,10.0,8.0,80,1,12,0
+521,Conditioner,Hair Care,11.99,240.0,5.0,9.0,45,1,6,0
+522,Comb,Tools,4.99,147.0,3.0,9.0,27,0,2,0
+523,Conditioner,Hair Care,11.99,1.0,7.0,2.0,14,0,1,1
+524,Hair Mousse,Styling,9.99,104.0,4.0,6.0,24,1,4,0
+525,Hair Gel,Styling,7.99,193.0,6.0,5.0,30,1,7,0
+526,Hair Mousse,Styling,9.99,147.0,3.0,4.0,12,0,6,0
+527,Conditioner,Hair Care,11.99,25.0,9.0,5.0,45,1,11,1
+528,Comb,Tools,4.99,180.0,4.0,2.0,8,0,2,0
+529,Hair Mousse,Styling,9.99,56.0,5.0,7.0,35,0,3,0
+530,Comb,Tools,4.99,133.0,1.0,2.0,2,1,0,0
+531,Hair Spray,Styling,10.99,73.0,10.0,5.0,50,0,8,0
+532,Comb,Tools,4.99,0.0,3.0,6.0,18,1,0,1
+533,Shampoo,Hair Care,12.99,188.0,7.0,3.0,21,1,5,0
+534,Hair Mousse,Styling,9.99,246.0,5.0,5.0,25,1,6,0
+535,Shampoo,Hair Care,12.99,143.0,6.0,3.0,18,1,8,0
+536,Hair Mousse,Styling,9.99,224.0,1.0,6.0,6,1,4,0
+537,Hair Mousse,Styling,9.99,246.0,4.0,9.0,36,1,7,0
+538,Hair Mousse,Styling,9.99,17.0,2.0,5.0,10,0,5,0
+539,Hair Spray,Styling,10.99,2.0,7.0,6.0,42,1,2,1
+540,Shampoo,Hair Care,12.99,141.0,10.0,7.0,70,1,9,0
+541,Conditioner,Hair Care,11.99,127.0,6.0,5.0,30,0,5,0
+542,Conditioner,Hair Care,11.99,214.0,6.0,3.0,18,0,4,0
+543,Hair Spray,Styling,10.99,245.0,4.0,2.0,8,1,5,0
+544,Hair Spray,Styling,10.99,222.0,4.0,10.0,40,1,4,0
+545,Hair Gel,Styling,7.99,122.0,7.0,10.0,70,1,5,0
+546,Shampoo,Hair Care,12.99,178.0,6.0,2.0,12,0,4,0
+547,Hair Mousse,Styling,9.99,47.0,4.0,10.0,40,0,4,0
+548,Conditioner,Hair Care,11.99,127.0,5.0,7.0,35,1,5,0
+549,Hair Spray,Styling,10.99,175.0,5.0,5.0,25,1,3,0
+550,Conditioner,Hair Care,11.99,37.0,8.0,9.0,72,0,6,1
+551,Comb,Tools,4.99,132.0,0.0,10.0,0,1,3,0
+552,Hair Spray,Styling,10.99,12.0,2.0,2.0,4,1,1,0
+553,Hair Mousse,Styling,9.99,66.0,6.0,7.0,42,1,6,0
+554,Comb,Tools,4.99,246.0,0.0,10.0,0,1,0,0
+555,Comb,Tools,4.99,114.0,1.0,3.0,3,1,2,0
+556,Comb,Tools,4.99,206.0,4.0,8.0,32,0,2,0
+557,Hair Mousse,Styling,9.99,181.0,4.0,6.0,24,1,6,0
+558,Hair Mousse,Styling,9.99,191.0,0.0,8.0,0,0,0,0
+559,Hair Mousse,Styling,9.99,240.0,2.0,3.0,6,0,1,0
+560,Hair Gel,Styling,7.99,140.0,9.0,10.0,90,0,7,0
+561,Hair Gel,Styling,7.99,79.0,7.0,5.0,35,1,6,0
+562,Conditioner,Hair Care,11.99,7.0,8.0,7.0,56,1,7,1
+563,Hair Gel,Styling,7.99,34.0,6.0,10.0,60,1,5,1
+564,Hair Spray,Styling,10.99,163.0,3.0,7.0,21,0,4,0
+565,Hair Mousse,Styling,9.99,39.0,3.0,6.0,18,0,1,0
+566,Hair Mousse,Styling,9.99,,2.0,9.0,18,1,3,0
+567,Conditioner,Hair Care,11.99,203.0,6.0,2.0,12,1,8,0
+568,Conditioner,Hair Care,11.99,41.0,6.0,8.0,48,1,5,1
+569,Hair Spray,Styling,10.99,206.0,2.0,6.0,12,1,2,0
+570,Hair Mousse,Styling,9.99,28.0,,6.0,18,1,6,0
+571,Hair Spray,Styling,10.99,5.0,2.0,4.0,8,1,0,1
+572,Conditioner,Hair Care,11.99,23.0,8.0,7.0,56,1,9,1
+573,Comb,Tools,4.99,202.0,4.0,2.0,8,0,4,0
+574,Hair Gel,Styling,7.99,18.0,4.0,6.0,24,0,5,1
+575,Hair Gel,Styling,7.99,63.0,5.0,2.0,10,1,4,0
+576,Conditioner,Hair Care,11.99,121.0,3.0,7.0,21,0,2,0
+577,Hair Gel,Styling,7.99,163.0,9.0,6.0,54,1,8,0
+578,Shampoo,Hair Care,12.99,60.0,6.0,4.0,24,0,6,0
+579,Hair Spray,Styling,10.99,200.0,3.0,9.0,27,0,6,0
+580,Shampoo,Hair Care,12.99,175.0,4.0,2.0,8,1,2,0
+581,Conditioner,Hair Care,11.99,124.0,3.0,5.0,15,1,3,0
+582,Comb,Tools,4.99,96.0,2.0,2.0,4,1,3,0
+583,Hair Spray,Styling,10.99,47.0,5.0,10.0,50,1,5,1
+584,Hair Spray,Styling,10.99,41.0,6.0,6.0,36,1,6,0
+585,Comb,Tools,4.99,47.0,3.0,2.0,6,1,5,0
+586,Comb,Tools,4.99,247.0,1.0,10.0,10,1,4,0
+587,Hair Gel,Styling,7.99,164.0,5.0,7.0,35,0,3,0
+588,Conditioner,Hair Care,11.99,,7.0,9.0,63,0,6,1
+589,Hair Gel,Styling,7.99,134.0,5.0,,30,1,3,0
+590,Conditioner,Hair Care,11.99,167.0,2.0,3.0,6,0,3,0
+591,Hair Mousse,Styling,9.99,203.0,5.0,2.0,10,1,7,0
+592,Shampoo,Hair Care,12.99,241.0,8.0,3.0,24,0,11,0
+593,Conditioner,Hair Care,11.99,145.0,9.0,4.0,36,1,11,0
+594,Comb,Tools,4.99,117.0,2.0,3.0,6,0,1,0
+595,Hair Spray,Styling,10.99,153.0,2.0,9.0,18,1,2,0
+596,Hair Gel,Styling,7.99,195.0,3.0,7.0,21,0,5,0
+597,Comb,Tools,4.99,65.0,,7.0,0,1,1,0
+598,Hair Mousse,Styling,9.99,152.0,6.0,6.0,36,1,4,0
+599,Comb,Tools,4.99,210.0,3.0,6.0,18,0,5,0
+600,Hair Mousse,Styling,9.99,93.0,6.0,6.0,36,0,6,0
+601,Shampoo,Hair Care,12.99,185.0,7.0,7.0,49,0,8,0
+602,Shampoo,Hair Care,12.99,152.0,7.0,8.0,56,0,5,0
+603,Hair Gel,Styling,7.99,106.0,5.0,3.0,15,0,4,0
+604,Hair Spray,Styling,10.99,10.0,3.0,7.0,21,0,5,1
+605,Hair Gel,Styling,7.99,192.0,8.0,10.0,80,0,6,0
+606,Hair Mousse,Styling,9.99,21.0,1.0,10.0,10,1,2,0
+607,Conditioner,Hair Care,11.99,195.0,7.0,4.0,28,0,8,0
+608,Hair Spray,Styling,10.99,188.0,3.0,6.0,18,1,4,0
+609,Hair Gel,Styling,7.99,108.0,5.0,,35,0,5,0
+610,Hair Mousse,Styling,9.99,43.0,7.0,9.0,63,0,9,1
+611,Comb,Tools,4.99,95.0,2.0,4.0,8,0,5,0
+612,Conditioner,Hair Care,11.99,222.0,7.0,7.0,49,0,10,0
+613,Comb,Tools,4.99,137.0,1.0,5.0,5,1,0,0
+614,Comb,Tools,4.99,178.0,2.0,10.0,20,1,0,0
+615,Hair Spray,Styling,10.99,69.0,3.0,2.0,6,0,4,0
+616,Comb,Tools,4.99,92.0,3.0,8.0,24,1,2,0
+617,Hair Gel,Styling,7.99,221.0,5.0,10.0,50,0,3,0
+618,Comb,Tools,4.99,5.0,7.0,6.0,42,1,5,1
+619,Hair Mousse,Styling,9.99,90.0,6.0,6.0,36,1,5,0
+620,Shampoo,Hair Care,12.99,241.0,6.0,4.0,24,1,6,0
+621,Comb,Tools,4.99,156.0,2.0,5.0,10,0,3,0
+622,Hair Spray,Styling,10.99,84.0,3.0,4.0,12,0,5,0
+623,Hair Spray,Styling,10.99,232.0,5.0,4.0,20,0,6,0
+624,Shampoo,Hair Care,12.99,142.0,4.0,4.0,16,0,4,0
+625,Hair Gel,Styling,7.99,246.0,5.0,8.0,40,1,5,0
+626,Comb,Tools,4.99,70.0,3.0,4.0,12,0,2,0
+627,Hair Spray,Styling,10.99,156.0,,5.0,30,0,8,0
+628,Hair Gel,Styling,7.99,34.0,3.0,7.0,21,1,2,0
+629,Shampoo,Hair Care,12.99,104.0,7.0,2.0,14,1,7,0
+630,Conditioner,Hair Care,11.99,16.0,9.0,9.0,81,1,11,1
+631,Hair Gel,Styling,7.99,103.0,10.0,2.0,20,1,12,0
+632,Hair Spray,Styling,10.99,152.0,2.0,2.0,4,0,4,0
+633,Conditioner,Hair Care,11.99,132.0,6.0,10.0,60,0,7,0
+634,Shampoo,Hair Care,12.99,48.0,7.0,6.0,42,1,7,0
+635,Comb,Tools,4.99,132.0,4.0,4.0,16,1,5,0
+636,Hair Spray,Styling,10.99,240.0,6.0,8.0,48,1,7,0
+637,Comb,Tools,4.99,229.0,1.0,5.0,5,0,2,0
+638,Conditioner,Hair Care,11.99,183.0,6.0,9.0,54,1,9,0
+639,Hair Spray,Styling,10.99,,4.0,4.0,16,1,5,0
+640,Comb,Tools,4.99,220.0,5.0,4.0,20,0,8,0
+641,Hair Gel,Styling,7.99,73.0,,4.0,36,0,7,0
+642,Shampoo,Hair Care,12.99,117.0,5.0,2.0,10,1,7,0
+643,Hair Gel,Styling,7.99,113.0,6.0,3.0,18,0,8,0
+644,Hair Spray,Styling,10.99,,5.0,4.0,20,1,3,0
+645,Hair Spray,Styling,10.99,76.0,4.0,7.0,28,0,2,0
+646,Hair Mousse,Styling,9.99,156.0,3.0,10.0,30,1,2,0
+647,Hair Mousse,Styling,9.99,82.0,2.0,7.0,14,0,3,0
+648,Hair Gel,Styling,7.99,34.0,8.0,7.0,56,1,10,1
+649,Shampoo,Hair Care,12.99,146.0,10.0,10.0,100,1,8,0
+650,Comb,Tools,4.99,73.0,0.0,6.0,0,1,2,0
+651,Comb,Tools,4.99,161.0,4.0,9.0,36,0,5,0
+652,Conditioner,Hair Care,11.99,0.0,8.0,3.0,24,0,0,1
+653,Hair Mousse,Styling,9.99,,6.0,10.0,60,0,9,0
+654,Shampoo,Hair Care,12.99,78.0,7.0,2.0,14,1,5,0
+655,Shampoo,Hair Care,12.99,213.0,10.0,4.0,40,1,9,0
+656,Hair Gel,Styling,7.99,204.0,7.0,4.0,28,1,10,0
+657,Hair Gel,Styling,7.99,237.0,6.0,2.0,12,1,8,0
+658,Shampoo,Hair Care,12.99,53.0,6.0,7.0,42,0,4,0
+659,Comb,Tools,4.99,136.0,2.0,4.0,8,1,4,0
+660,Hair Mousse,Styling,9.99,180.0,6.0,6.0,36,0,7,0
+661,Hair Mousse,Styling,9.99,55.0,2.0,10.0,20,0,2,0
+662,Shampoo,Hair Care,12.99,113.0,4.0,10.0,40,0,3,0
+663,Hair Mousse,Styling,9.99,198.0,4.0,7.0,28,0,3,0
+664,Conditioner,Hair Care,11.99,52.0,6.0,10.0,60,0,4,1
+665,Shampoo,Hair Care,12.99,85.0,5.0,9.0,45,0,3,0
+666,Hair Spray,Styling,10.99,194.0,3.0,7.0,21,0,2,0
+667,Comb,Tools,4.99,30.0,,6.0,36,0,5,1
+668,Hair Spray,Styling,10.99,26.0,5.0,7.0,35,0,5,1
+669,Conditioner,Hair Care,11.99,18.0,8.0,,48,1,10,1
+670,Comb,Tools,4.99,12.0,3.0,8.0,24,0,4,1
+671,Comb,Tools,4.99,179.0,3.0,9.0,27,1,5,0
+672,Comb,Tools,4.99,207.0,0.0,9.0,0,0,2,0
+673,Shampoo,Hair Care,12.99,116.0,6.0,6.0,36,1,9,0
+674,Hair Spray,Styling,10.99,66.0,6.0,7.0,42,1,6,0
+675,Hair Gel,Styling,7.99,118.0,4.0,4.0,16,1,4,0
+676,Comb,Tools,4.99,203.0,4.0,3.0,12,1,4,0
+677,Hair Spray,Styling,10.99,40.0,6.0,9.0,54,0,7,1
+678,Hair Gel,Styling,7.99,145.0,6.0,5.0,30,0,5,0
+679,Shampoo,Hair Care,12.99,151.0,5.0,9.0,45,0,5,0
+680,Shampoo,Hair Care,12.99,153.0,10.0,8.0,80,1,10,0
+681,Conditioner,Hair Care,11.99,227.0,9.0,2.0,18,0,8,0
+682,Hair Gel,Styling,7.99,50.0,7.0,6.0,42,1,9,0
+683,Hair Mousse,Styling,9.99,22.0,8.0,2.0,16,1,10,0
+684,Hair Spray,Styling,10.99,247.0,7.0,7.0,49,1,5,0
+685,Hair Gel,Styling,7.99,160.0,7.0,7.0,49,1,10,0
+686,Conditioner,Hair Care,11.99,121.0,8.0,7.0,56,0,9,0
+687,Shampoo,Hair Care,12.99,18.0,9.0,2.0,18,1,8,0
+688,Conditioner,Hair Care,11.99,164.0,8.0,8.0,64,0,10,0
+689,Hair Gel,Styling,7.99,90.0,2.0,5.0,10,1,1,0
+690,Conditioner,Hair Care,11.99,,4.0,10.0,40,1,6,0
+691,Hair Mousse,Styling,9.99,28.0,4.0,9.0,36,0,7,1
+692,Hair Mousse,Styling,9.99,119.0,2.0,3.0,6,1,1,0
+693,Comb,Tools,4.99,162.0,2.0,10.0,20,1,4,0
+694,Shampoo,Hair Care,12.99,120.0,3.0,7.0,21,1,4,0
+695,Shampoo,Hair Care,12.99,177.0,9.0,6.0,54,1,12,0
+696,Shampoo,Hair Care,12.99,168.0,11.0,2.0,22,1,11,0
+697,Hair Mousse,Styling,9.99,64.0,4.0,4.0,16,1,6,0
+698,Hair Spray,Styling,10.99,44.0,7.0,9.0,63,0,7,1
+699,Hair Spray,Styling,10.99,220.0,3.0,2.0,6,0,3,0
+700,Hair Gel,Styling,7.99,192.0,9.0,5.0,45,1,12,0
+701,Hair Mousse,Styling,9.99,13.0,4.0,6.0,24,0,2,1
+702,Comb,Tools,4.99,242.0,3.0,8.0,24,1,6,0
+703,Shampoo,Hair Care,12.99,73.0,5.0,9.0,45,1,6,0
+704,Hair Spray,Styling,10.99,163.0,2.0,6.0,12,1,2,0
+705,Hair Gel,Styling,7.99,118.0,9.0,5.0,45,0,12,0
+706,Hair Mousse,Styling,9.99,140.0,5.0,3.0,15,1,3,0
+707,Conditioner,Hair Care,11.99,,7.0,6.0,42,0,7,0
+708,Hair Spray,Styling,10.99,168.0,6.0,3.0,18,0,9,0
+709,Comb,Tools,4.99,144.0,2.0,4.0,8,0,0,0
+710,Comb,Tools,4.99,116.0,4.0,8.0,32,1,7,0
+711,Shampoo,Hair Care,12.99,97.0,7.0,8.0,56,0,7,0
+712,Shampoo,Hair Care,12.99,125.0,9.0,8.0,72,1,8,0
+713,Hair Spray,Styling,10.99,164.0,4.0,3.0,12,1,5,0
+714,Hair Mousse,Styling,9.99,198.0,0.0,4.0,0,0,3,0
+715,Comb,Tools,4.99,84.0,4.0,8.0,32,0,6,0
+716,Hair Gel,Styling,7.99,,7.0,3.0,21,0,9,0
+717,Hair Gel,Styling,7.99,31.0,3.0,10.0,30,1,3,0
+718,Comb,Tools,4.99,23.0,0.0,7.0,0,1,0,0
+719,Hair Spray,Styling,10.99,10.0,7.0,8.0,56,0,10,1
+720,Comb,Tools,4.99,91.0,0.0,9.0,0,0,3,0
+721,Hair Spray,Styling,10.99,61.0,5.0,9.0,45,0,6,0
+722,Hair Gel,Styling,7.99,247.0,6.0,2.0,12,0,6,0
+723,Hair Spray,Styling,10.99,117.0,4.0,10.0,40,0,3,0
+724,Comb,Tools,4.99,,0.0,2.0,0,0,0,0
+725,Shampoo,Hair Care,12.99,116.0,8.0,4.0,32,0,10,0
+726,Hair Spray,Styling,10.99,56.0,6.0,7.0,42,1,9,0
+727,Conditioner,Hair Care,11.99,82.0,7.0,5.0,35,0,5,0
+728,Hair Gel,Styling,7.99,43.0,5.0,9.0,45,0,4,1
+729,Hair Gel,Styling,7.99,199.0,,4.0,12,1,1,0
+730,Comb,Tools,4.99,166.0,1.0,9.0,9,0,4,0
+731,Hair Gel,Styling,7.99,61.0,5.0,4.0,20,0,7,0
+732,Shampoo,Hair Care,12.99,160.0,8.0,8.0,64,0,6,0
+733,Hair Spray,Styling,10.99,92.0,3.0,10.0,30,0,5,0
+734,Shampoo,Hair Care,12.99,49.0,8.0,9.0,72,0,9,1
+735,Hair Mousse,Styling,9.99,72.0,5.0,5.0,25,1,6,0
+736,Shampoo,Hair Care,12.99,26.0,7.0,4.0,28,0,6,1
+737,Comb,Tools,4.99,113.0,0.0,7.0,0,0,1,0
+738,Shampoo,Hair Care,12.99,83.0,8.0,8.0,64,1,7,0
+739,Shampoo,Hair Care,12.99,227.0,9.0,8.0,72,0,8,0
+740,Conditioner,Hair Care,11.99,117.0,6.0,6.0,36,1,5,0
+741,Conditioner,Hair Care,11.99,28.0,4.0,9.0,36,1,5,1
+742,Hair Spray,Styling,10.99,40.0,5.0,4.0,20,0,7,0
+743,Conditioner,Hair Care,11.99,,4.0,9.0,36,1,5,0
+744,Conditioner,Hair Care,11.99,83.0,5.0,4.0,20,0,7,0
+745,Comb,Tools,4.99,196.0,3.0,10.0,30,1,1,0
+746,Shampoo,Hair Care,12.99,115.0,7.0,2.0,14,1,10,0
+747,Comb,Tools,4.99,23.0,3.0,2.0,6,1,4,0
+748,Hair Spray,Styling,10.99,6.0,7.0,4.0,28,1,6,1
+749,Comb,Tools,4.99,162.0,2.0,2.0,4,0,5,0
+750,Hair Mousse,Styling,9.99,109.0,5.0,10.0,50,0,7,0
+751,Comb,Tools,4.99,238.0,0.0,2.0,0,1,2,0
+752,Hair Spray,Styling,10.99,10.0,4.0,10.0,40,0,7,1
+753,Hair Mousse,Styling,9.99,61.0,5.0,10.0,50,1,3,0
+754,Comb,Tools,4.99,53.0,3.0,7.0,21,1,3,0
+755,Hair Mousse,Styling,9.99,88.0,1.0,9.0,9,0,2,0
+756,Hair Mousse,Styling,9.99,115.0,2.0,3.0,6,1,1,0
+757,Shampoo,Hair Care,12.99,27.0,5.0,4.0,20,0,5,0
+758,Hair Spray,Styling,10.99,243.0,3.0,10.0,30,1,2,0
+759,Hair Mousse,Styling,9.99,48.0,3.0,3.0,9,0,1,0
+760,Hair Spray,Styling,10.99,87.0,3.0,9.0,27,1,5,0
+761,Hair Mousse,Styling,9.99,43.0,2.0,6.0,12,1,1,0
+762,Conditioner,Hair Care,11.99,90.0,5.0,4.0,20,1,8,0
+763,Comb,Tools,4.99,203.0,7.0,4.0,28,0,6,0
+764,Hair Gel,Styling,7.99,66.0,5.0,2.0,10,1,8,0
+765,Conditioner,Hair Care,11.99,136.0,7.0,6.0,42,0,5,0
+766,Hair Gel,Styling,7.99,237.0,5.0,10.0,50,1,7,0
+767,Hair Spray,Styling,10.99,170.0,5.0,4.0,20,1,7,0
+768,Shampoo,Hair Care,12.99,35.0,7.0,2.0,14,0,8,0
+769,Comb,Tools,4.99,49.0,2.0,10.0,20,1,1,0
+770,Comb,Tools,4.99,171.0,8.0,8.0,64,1,7,0
+771,Comb,Tools,4.99,92.0,1.0,8.0,8,1,0,0
+772,Hair Mousse,Styling,9.99,78.0,9.0,3.0,27,1,8,0
+773,Conditioner,Hair Care,11.99,206.0,6.0,8.0,48,1,9,0
+774,Conditioner,Hair Care,11.99,77.0,3.0,7.0,21,1,1,0
+775,Hair Gel,Styling,7.99,44.0,6.0,10.0,60,0,7,1
+776,Hair Gel,Styling,7.99,10.0,6.0,6.0,36,1,7,1
+777,Hair Mousse,Styling,9.99,244.0,3.0,9.0,27,1,1,0
+778,Conditioner,Hair Care,11.99,7.0,8.0,3.0,24,1,7,1
+779,Comb,Tools,4.99,175.0,4.0,,36,0,7,0
+780,Hair Mousse,Styling,9.99,41.0,4.0,9.0,36,0,7,0
+781,Comb,Tools,4.99,233.0,2.0,7.0,14,1,0,0
+782,Conditioner,Hair Care,11.99,196.0,4.0,4.0,16,1,6,0
+783,Hair Mousse,Styling,9.99,69.0,,7.0,14,1,0,0
+784,Hair Mousse,Styling,9.99,199.0,3.0,4.0,12,0,1,0
+785,Hair Spray,Styling,10.99,157.0,5.0,10.0,50,0,7,0
+786,Conditioner,Hair Care,11.99,236.0,8.0,7.0,56,1,7,0
+787,Hair Mousse,Styling,9.99,44.0,5.0,6.0,30,0,3,0
+788,Conditioner,Hair Care,11.99,78.0,7.0,3.0,21,0,8,0
+789,Shampoo,Hair Care,12.99,50.0,8.0,3.0,24,0,6,0
+790,Hair Mousse,Styling,9.99,170.0,5.0,3.0,15,0,7,0
+791,Shampoo,Hair Care,12.99,23.0,8.0,4.0,32,1,11,1
+792,Hair Spray,Styling,10.99,199.0,4.0,3.0,12,0,2,0
+793,Conditioner,Hair Care,11.99,230.0,5.0,10.0,50,0,3,0
+794,Hair Gel,Styling,7.99,93.0,5.0,3.0,15,1,4,0
+795,Hair Gel,Styling,7.99,28.0,4.0,7.0,28,1,2,0
+796,Comb,Tools,4.99,73.0,2.0,7.0,14,0,3,0
+797,Comb,Tools,4.99,249.0,2.0,9.0,18,1,1,0
+798,Shampoo,Hair Care,12.99,229.0,9.0,7.0,63,0,8,0
+799,Hair Gel,Styling,7.99,133.0,4.0,3.0,12,0,2,0
+800,Comb,Tools,4.99,236.0,3.0,7.0,21,1,2,0
+801,Conditioner,Hair Care,11.99,214.0,6.0,8.0,48,1,9,0
+802,Hair Mousse,Styling,9.99,193.0,5.0,8.0,40,1,5,0
+803,Hair Spray,Styling,10.99,71.0,2.0,4.0,8,0,3,0
+804,Conditioner,Hair Care,11.99,7.0,7.0,3.0,21,0,7,1
+805,Conditioner,Hair Care,11.99,77.0,7.0,3.0,21,1,5,0
+806,Hair Gel,Styling,7.99,129.0,5.0,10.0,50,0,7,0
+807,Shampoo,Hair Care,12.99,98.0,9.0,9.0,81,1,9,0
+808,Comb,Tools,4.99,220.0,3.0,4.0,12,1,4,0
+809,Shampoo,Hair Care,12.99,145.0,3.0,9.0,27,1,6,0
+810,Hair Gel,Styling,7.99,67.0,0.0,7.0,0,1,0,0
+811,Hair Mousse,Styling,9.99,89.0,5.0,2.0,10,1,8,0
+812,Hair Gel,Styling,7.99,89.0,7.0,5.0,35,1,10,0
+813,Hair Mousse,Styling,9.99,29.0,5.0,7.0,35,0,4,1
+814,Hair Gel,Styling,7.99,145.0,3.0,2.0,6,1,6,0
+815,Hair Gel,Styling,7.99,82.0,5.0,3.0,15,0,6,0
+816,Comb,Tools,4.99,86.0,3.0,8.0,24,1,2,0
+817,Hair Spray,Styling,10.99,54.0,6.0,6.0,36,0,6,0
+818,Hair Spray,Styling,10.99,190.0,8.0,3.0,24,1,10,0
+819,Hair Gel,Styling,7.99,53.0,5.0,7.0,35,1,3,0
+820,Hair Mousse,Styling,9.99,51.0,3.0,10.0,30,0,4,0
+821,Conditioner,Hair Care,11.99,147.0,7.0,9.0,63,1,6,0
+822,Hair Gel,Styling,7.99,239.0,3.0,10.0,30,1,2,0
+823,Hair Mousse,Styling,9.99,216.0,3.0,8.0,24,1,4,0
+824,Hair Gel,Styling,7.99,68.0,7.0,6.0,42,0,10,0
+825,Conditioner,Hair Care,11.99,204.0,4.0,6.0,24,1,5,0
+826,Shampoo,Hair Care,12.99,51.0,8.0,6.0,48,0,8,0
+827,Shampoo,Hair Care,12.99,14.0,8.0,3.0,24,1,8,1
+828,Hair Mousse,Styling,9.99,171.0,4.0,4.0,16,0,3,0
+829,Comb,Tools,4.99,212.0,2.0,10.0,20,1,2,0
+830,Hair Mousse,Styling,9.99,84.0,6.0,5.0,30,0,7,0
+831,Hair Gel,Styling,7.99,104.0,3.0,6.0,18,0,5,0
+832,Hair Mousse,Styling,9.99,139.0,2.0,6.0,12,1,1,0
+833,Comb,Tools,4.99,247.0,4.0,2.0,8,0,7,0
+834,Hair Spray,Styling,10.99,98.0,3.0,7.0,21,0,6,0
+835,Shampoo,Hair Care,12.99,232.0,12.0,8.0,96,1,12,0
+836,Conditioner,Hair Care,11.99,220.0,10.0,7.0,70,1,13,0
+837,Hair Gel,Styling,7.99,120.0,3.0,8.0,24,1,3,0
+838,Comb,Tools,4.99,66.0,,10.0,10,1,4,0
+839,Comb,Tools,4.99,,2.0,9.0,18,0,5,0
+840,Hair Spray,Styling,10.99,21.0,6.0,4.0,24,1,8,1
+841,Comb,Tools,4.99,34.0,3.0,6.0,18,1,2,0
+842,Conditioner,Hair Care,11.99,100.0,10.0,5.0,50,0,8,0
+843,Shampoo,Hair Care,12.99,249.0,4.0,9.0,36,1,3,0
+844,Hair Gel,Styling,7.99,,5.0,7.0,35,0,4,0
+845,Hair Gel,Styling,7.99,211.0,6.0,9.0,54,0,4,0
+846,Hair Mousse,Styling,9.99,73.0,4.0,8.0,32,0,3,0
+847,Hair Gel,Styling,7.99,46.0,4.0,8.0,32,0,3,0
+848,Conditioner,Hair Care,11.99,94.0,4.0,3.0,12,1,2,0
+849,Comb,Tools,4.99,54.0,1.0,8.0,8,1,4,0
+850,Shampoo,Hair Care,12.99,,7.0,7.0,49,0,9,1
+851,Hair Gel,Styling,7.99,171.0,7.0,7.0,49,0,6,0
+852,Hair Mousse,Styling,9.99,224.0,4.0,10.0,40,0,5,0
+853,Hair Gel,Styling,7.99,223.0,6.0,6.0,36,1,9,0
+854,Hair Spray,Styling,10.99,212.0,5.0,7.0,35,0,6,0
+855,Conditioner,Hair Care,11.99,142.0,5.0,9.0,45,0,3,0
+856,Hair Mousse,Styling,9.99,41.0,4.0,9.0,36,1,2,0
+857,Hair Gel,Styling,7.99,28.0,3.0,4.0,12,1,1,0
+858,Conditioner,Hair Care,11.99,191.0,5.0,5.0,25,0,7,0
+859,Shampoo,Hair Care,12.99,63.0,,9.0,63,0,10,0
+860,Comb,Tools,4.99,,0.0,3.0,0,0,0,0
+861,Hair Gel,Styling,7.99,116.0,7.0,6.0,42,0,9,0
+862,Hair Gel,Styling,7.99,83.0,13.0,4.0,52,0,12,0
+863,Comb,Tools,4.99,18.0,0.0,10.0,0,1,2,0
+864,Hair Gel,Styling,7.99,22.0,7.0,8.0,56,1,8,1
+865,Hair Mousse,Styling,9.99,125.0,5.0,8.0,40,1,8,0
+866,Shampoo,Hair Care,12.99,213.0,7.0,9.0,63,1,8,0
+867,Hair Gel,Styling,7.99,207.0,6.0,7.0,42,0,8,0
+868,Hair Mousse,Styling,9.99,249.0,3.0,4.0,12,0,4,0
+869,Hair Gel,Styling,7.99,76.0,6.0,4.0,24,1,5,0
+870,Shampoo,Hair Care,12.99,141.0,8.0,3.0,24,1,10,0
+871,Hair Mousse,Styling,9.99,90.0,,6.0,30,0,7,0
+872,Hair Gel,Styling,7.99,45.0,6.0,2.0,12,1,4,0
+873,Hair Gel,Styling,7.99,193.0,2.0,9.0,18,1,4,0
+874,Conditioner,Hair Care,11.99,47.0,,6.0,72,0,15,1
+875,Shampoo,Hair Care,12.99,43.0,10.0,9.0,90,1,11,1
+876,Hair Gel,Styling,7.99,77.0,2.0,7.0,14,1,5,0
+877,Conditioner,Hair Care,11.99,28.0,3.0,2.0,6,0,6,0
+878,Comb,Tools,4.99,61.0,0.0,10.0,0,0,0,0
+879,Shampoo,Hair Care,12.99,29.0,9.0,4.0,36,1,8,1
+880,Hair Spray,Styling,10.99,,5.0,8.0,40,1,3,0
+881,Hair Gel,Styling,7.99,,8.0,9.0,72,1,11,0
+882,Comb,Tools,4.99,156.0,6.0,9.0,54,0,5,0
+883,Shampoo,Hair Care,12.99,68.0,6.0,8.0,48,0,7,0
+884,Comb,Tools,4.99,111.0,4.0,5.0,20,1,5,0
+885,Comb,Tools,4.99,86.0,3.0,9.0,27,1,2,0
+886,Comb,Tools,4.99,167.0,2.0,4.0,8,0,4,0
+887,Conditioner,Hair Care,11.99,44.0,3.0,5.0,15,1,2,0
+888,Hair Mousse,Styling,9.99,60.0,5.0,2.0,10,1,5,0
+889,Hair Spray,Styling,10.99,8.0,5.0,3.0,15,1,5,1
+890,Hair Gel,Styling,7.99,66.0,9.0,2.0,18,1,11,0
+891,Hair Spray,Styling,10.99,171.0,4.0,3.0,12,0,7,0
+892,Shampoo,Hair Care,12.99,249.0,10.0,3.0,30,0,12,0
+893,Conditioner,Hair Care,11.99,233.0,8.0,7.0,56,1,7,0
+894,Shampoo,Hair Care,12.99,39.0,6.0,4.0,24,0,4,0
+895,Conditioner,Hair Care,11.99,213.0,5.0,9.0,45,1,5,0
+896,Hair Gel,Styling,7.99,92.0,4.0,10.0,40,0,5,0
+897,Hair Gel,Styling,7.99,243.0,4.0,10.0,40,1,7,0
+898,Comb,Tools,4.99,206.0,2.0,7.0,14,1,2,0
+899,Shampoo,Hair Care,12.99,169.0,7.0,4.0,28,0,9,0
+900,Hair Spray,Styling,10.99,249.0,,10.0,40,1,4,0
+901,Hair Spray,Styling,10.99,156.0,6.0,4.0,24,1,9,0
+902,Hair Spray,Styling,10.99,166.0,3.0,8.0,24,1,2,0
+903,Comb,Tools,4.99,189.0,3.0,4.0,12,1,5,0
+904,Hair Mousse,Styling,9.99,193.0,4.0,10.0,40,1,6,0
+905,Hair Spray,Styling,10.99,28.0,4.0,2.0,8,1,4,0
+906,Comb,Tools,4.99,240.0,4.0,2.0,8,1,5,0
+907,Hair Spray,Styling,10.99,182.0,6.0,10.0,60,0,8,0
+908,Comb,Tools,4.99,146.0,1.0,10.0,10,0,4,0
+909,Hair Mousse,Styling,9.99,116.0,2.0,3.0,6,1,1,0
+910,Conditioner,Hair Care,11.99,121.0,7.0,10.0,70,1,8,0
+911,Hair Gel,Styling,7.99,176.0,6.0,9.0,54,1,9,0
+912,Comb,Tools,4.99,117.0,5.0,10.0,50,0,3,0
+913,Hair Spray,Styling,10.99,94.0,7.0,3.0,21,1,9,0
+914,Hair Spray,Styling,10.99,39.0,6.0,7.0,42,1,6,1
+915,Hair Spray,Styling,10.99,107.0,6.0,2.0,12,1,6,0
+916,Shampoo,Hair Care,12.99,140.0,5.0,8.0,40,1,6,0
+917,Hair Gel,Styling,7.99,213.0,9.0,4.0,36,1,8,0
+918,Comb,Tools,4.99,83.0,5.0,8.0,40,0,6,0
+919,Comb,Tools,4.99,227.0,4.0,9.0,36,1,7,0
+920,Hair Spray,Styling,10.99,161.0,5.0,10.0,50,0,8,0
+921,Hair Spray,Styling,10.99,147.0,1.0,,2,0,3,0
+922,Comb,Tools,4.99,239.0,0.0,6.0,0,0,0,0
+923,Shampoo,Hair Care,12.99,206.0,6.0,10.0,60,1,8,0
+924,Shampoo,Hair Care,12.99,87.0,6.0,10.0,60,1,6,0
+925,Conditioner,Hair Care,11.99,73.0,7.0,4.0,28,1,6,0
+926,Comb,Tools,4.99,43.0,7.0,4.0,28,0,5,0
+927,Hair Mousse,Styling,9.99,66.0,6.0,8.0,48,0,4,0
+928,Hair Gel,Styling,7.99,130.0,6.0,3.0,18,0,6,0
+929,Shampoo,Hair Care,12.99,104.0,6.0,5.0,30,1,4,0
+930,Hair Spray,Styling,10.99,166.0,5.0,8.0,40,0,6,0
+931,Conditioner,Hair Care,11.99,95.0,5.0,10.0,50,0,4,0
+932,Hair Gel,Styling,7.99,,8.0,6.0,48,0,10,1
+933,Hair Spray,Styling,10.99,64.0,5.0,8.0,40,0,5,0
+934,Comb,Tools,4.99,136.0,1.0,8.0,8,0,4,0
+935,Hair Gel,Styling,7.99,53.0,5.0,10.0,50,1,5,0
+936,Hair Mousse,Styling,9.99,,4.0,5.0,20,1,5,0
+937,Shampoo,Hair Care,12.99,155.0,6.0,9.0,54,0,4,0
+938,Comb,Tools,4.99,125.0,3.0,3.0,9,0,5,0
+939,Shampoo,Hair Care,12.99,90.0,5.0,8.0,40,1,7,0
+940,Shampoo,Hair Care,12.99,31.0,3.0,9.0,27,0,1,0
+941,Comb,Tools,4.99,91.0,4.0,5.0,20,1,2,0
+942,Hair Mousse,Styling,9.99,9.0,4.0,5.0,20,0,2,1
+943,Hair Mousse,Styling,9.99,145.0,9.0,10.0,90,0,10,0
+944,Comb,Tools,4.99,154.0,2.0,4.0,8,0,5,0
+945,Hair Spray,Styling,10.99,186.0,4.0,6.0,24,0,3,0
+946,Hair Mousse,Styling,9.99,174.0,2.0,8.0,16,0,5,0
+947,Hair Gel,Styling,7.99,70.0,5.0,3.0,15,1,8,0
+948,Comb,Tools,4.99,,7.0,10.0,70,1,8,1
+949,Hair Spray,Styling,10.99,206.0,6.0,2.0,12,0,9,0
+950,Conditioner,Hair Care,11.99,50.0,,3.0,21,1,5,0
+951,Hair Mousse,Styling,9.99,215.0,6.0,6.0,36,0,5,0
+952,Hair Mousse,Styling,9.99,133.0,6.0,9.0,54,1,4,0
+953,Shampoo,Hair Care,12.99,96.0,3.0,7.0,21,0,6,0
+954,Shampoo,Hair Care,12.99,77.0,6.0,3.0,18,0,9,0
+955,Shampoo,Hair Care,12.99,158.0,6.0,8.0,48,0,5,0
+956,Hair Spray,Styling,10.99,158.0,7.0,,14,1,8,0
+957,Comb,Tools,4.99,17.0,4.0,5.0,20,0,6,1
+958,Comb,Tools,4.99,158.0,1.0,2.0,2,0,0,0
+959,Hair Mousse,Styling,9.99,79.0,5.0,10.0,50,0,4,0
+960,Shampoo,Hair Care,12.99,132.0,5.0,2.0,10,0,4,0
+961,Conditioner,Hair Care,11.99,201.0,5.0,3.0,15,0,5,0
+962,Hair Spray,Styling,10.99,177.0,3.0,7.0,21,1,5,0
+963,Shampoo,Hair Care,12.99,126.0,10.0,5.0,50,0,8,0
+964,Hair Gel,Styling,7.99,188.0,6.0,8.0,48,1,5,0
+965,Shampoo,Hair Care,12.99,91.0,4.0,2.0,8,0,6,0
+966,Hair Mousse,Styling,9.99,11.0,6.0,6.0,36,0,5,1
+967,Hair Spray,Styling,10.99,62.0,4.0,4.0,16,0,3,0
+968,Comb,Tools,4.99,35.0,0.0,3.0,0,0,0,0
+969,Comb,Tools,4.99,43.0,5.0,10.0,50,1,7,1
+970,Conditioner,Hair Care,11.99,203.0,7.0,7.0,49,1,7,0
+971,Hair Spray,Styling,10.99,150.0,7.0,5.0,35,1,9,0
+972,Hair Mousse,Styling,9.99,223.0,6.0,9.0,54,0,5,0
+973,Conditioner,Hair Care,11.99,130.0,8.0,8.0,64,1,11,0
+974,Hair Mousse,Styling,9.99,134.0,3.0,9.0,27,1,4,0
+975,Comb,Tools,4.99,9.0,0.0,5.0,0,0,0,0
+976,Hair Gel,Styling,7.99,227.0,5.0,7.0,35,0,5,0
+977,Hair Mousse,Styling,9.99,58.0,5.0,2.0,10,1,6,0
+978,Hair Gel,Styling,7.99,81.0,5.0,9.0,45,1,4,0
+979,Hair Spray,Styling,10.99,131.0,5.0,10.0,50,0,8,0
+980,Shampoo,Hair Care,12.99,92.0,9.0,5.0,45,1,12,0
+981,Hair Mousse,Styling,9.99,,5.0,4.0,20,1,8,0
+982,Hair Gel,Styling,7.99,242.0,3.0,2.0,6,0,4,0
+983,Conditioner,Hair Care,11.99,121.0,8.0,5.0,40,1,10,0
+984,Hair Mousse,Styling,9.99,216.0,6.0,8.0,48,1,5,0
+985,Hair Spray,Styling,10.99,223.0,8.0,4.0,32,0,8,0
+986,Conditioner,Hair Care,11.99,107.0,4.0,10.0,40,1,4,0
+987,Conditioner,Hair Care,11.99,39.0,8.0,7.0,56,1,10,1
+988,Hair Spray,Styling,10.99,98.0,5.0,9.0,45,1,8,0
+989,Shampoo,Hair Care,12.99,211.0,8.0,9.0,72,0,6,0
+990,Conditioner,Hair Care,11.99,59.0,6.0,9.0,54,1,4,0
+991,Hair Gel,Styling,7.99,100.0,8.0,4.0,32,0,6,0
+992,Conditioner,Hair Care,11.99,33.0,8.0,9.0,72,1,7,1
+993,Hair Mousse,Styling,9.99,51.0,3.0,2.0,6,1,2,0
+994,Hair Spray,Styling,10.99,84.0,8.0,9.0,72,0,9,0
+995,Hair Gel,Styling,7.99,88.0,3.0,6.0,18,0,4,0
+996,Hair Gel,Styling,7.99,117.0,3.0,3.0,9,0,4,0
+997,Comb,Tools,4.99,137.0,4.0,6.0,24,0,7,0
+998,Hair Gel,Styling,7.99,105.0,8.0,7.0,56,0,6,0
+999,Conditioner,Hair Care,11.99,64.0,6.0,5.0,30,0,8,0
+1000,Comb,Tools,4.99,,0.0,5.0,0,0,1,0
+1001,Hair Mousse,Styling,9.99,171.0,7.0,9.0,63,1,8,0
+1002,Hair Gel,Styling,7.99,35.0,4.0,4.0,16,0,3,0
+1003,Comb,Tools,4.99,100.0,3.0,4.0,12,0,1,0
+1004,Conditioner,Hair Care,11.99,182.0,9.0,5.0,45,0,10,0
+1005,Comb,Tools,4.99,168.0,3.0,3.0,9,1,4,0
+1006,Hair Gel,Styling,7.99,,,,30,0,5,0
+1007,Conditioner,Hair Care,11.99,174.0,8.0,3.0,24,0,7,0
+1008,Conditioner,Hair Care,11.99,11.0,6.0,7.0,42,0,6,1
+1009,Hair Gel,Styling,7.99,30.0,6.0,5.0,30,0,5,0
+1010,Hair Mousse,Styling,9.99,3.0,3.0,3.0,9,1,3,1
+1011,Conditioner,Hair Care,11.99,105.0,8.0,6.0,48,1,10,0
+1012,Hair Spray,Styling,10.99,43.0,4.0,7.0,28,1,7,0
+1013,Hair Mousse,Styling,9.99,44.0,,7.0,35,1,8,0
+1014,Hair Gel,Styling,7.99,97.0,2.0,10.0,20,0,4,0
+1015,Hair Mousse,Styling,9.99,60.0,4.0,8.0,32,0,3,0
+1016,Conditioner,Hair Care,11.99,96.0,7.0,9.0,63,1,10,0
+1017,Shampoo,Hair Care,12.99,133.0,8.0,8.0,64,1,11,0
+1018,Hair Mousse,Styling,9.99,62.0,5.0,5.0,25,0,8,0
+1019,Hair Gel,Styling,7.99,161.0,6.0,2.0,12,1,4,0
+1020,Conditioner,Hair Care,11.99,240.0,7.0,10.0,70,0,6,0
+1021,Conditioner,Hair Care,11.99,184.0,7.0,5.0,35,1,6,0
+1022,Hair Gel,Styling,7.99,247.0,4.0,9.0,36,1,2,0
+1023,Hair Spray,Styling,10.99,,3.0,8.0,24,1,2,0
+1024,Hair Mousse,Styling,9.99,152.0,2.0,4.0,8,1,2,0
+1025,Hair Spray,Styling,10.99,123.0,4.0,3.0,12,0,4,0
+1026,Shampoo,Hair Care,12.99,3.0,10.0,7.0,70,1,3,1
+1027,Hair Mousse,Styling,9.99,98.0,2.0,9.0,18,0,2,0
+1028,Hair Gel,Styling,7.99,238.0,4.0,8.0,32,1,4,0
+1029,Comb,Tools,4.99,14.0,2.0,8.0,16,0,3,1
+1030,Comb,Tools,4.99,180.0,1.0,4.0,4,1,1,0
+1031,Hair Spray,Styling,10.99,243.0,2.0,4.0,8,0,0,0
+1032,Hair Gel,Styling,7.99,180.0,2.0,10.0,20,1,1,0
+1033,Hair Spray,Styling,10.99,247.0,2.0,10.0,20,1,5,0
+1034,Comb,Tools,4.99,222.0,5.0,7.0,35,1,4,0
+1035,Hair Mousse,Styling,9.99,1.0,6.0,4.0,24,0,1,1
+1036,Hair Gel,Styling,7.99,167.0,5.0,4.0,20,0,5,0
+1037,Shampoo,Hair Care,12.99,115.0,10.0,5.0,50,0,9,0
+1038,Hair Mousse,Styling,9.99,230.0,6.0,3.0,18,0,9,0
+1039,Shampoo,Hair Care,12.99,87.0,6.0,2.0,12,0,8,0
+1040,Shampoo,Hair Care,12.99,68.0,,2.0,16,0,6,0
+1041,Hair Mousse,Styling,9.99,238.0,4.0,9.0,36,1,5,0
+1042,Hair Mousse,Styling,9.99,80.0,6.0,8.0,48,0,7,0
+1043,Shampoo,Hair Care,12.99,,3.0,8.0,24,0,6,0
+1044,Comb,Tools,4.99,192.0,,9.0,27,1,5,0
+1045,Hair Mousse,Styling,9.99,4.0,3.0,7.0,21,1,1,1
+1046,Comb,Tools,4.99,156.0,3.0,9.0,27,0,6,0
+1047,Conditioner,Hair Care,11.99,222.0,5.0,10.0,50,0,7,0
+1048,Comb,Tools,4.99,140.0,5.0,9.0,45,1,3,0
+1049,Comb,Tools,4.99,179.0,,3.0,6,1,0,0
+1050,Hair Mousse,Styling,9.99,231.0,3.0,6.0,18,1,6,0
+1051,Hair Spray,Styling,10.99,162.0,6.0,9.0,54,1,4,0
+1052,Hair Spray,Styling,10.99,16.0,3.0,8.0,24,1,6,1
+1053,Shampoo,Hair Care,12.99,28.0,6.0,3.0,18,0,6,0
+1054,Hair Mousse,Styling,9.99,244.0,2.0,6.0,12,0,0,0
+1055,Hair Mousse,Styling,9.99,204.0,,4.0,28,0,9,0
+1056,Hair Mousse,Styling,9.99,37.0,5.0,5.0,25,1,6,0
+1057,Comb,Tools,4.99,8.0,1.0,7.0,7,0,1,0
+1058,Comb,Tools,4.99,212.0,3.0,8.0,24,1,1,0
+1059,Conditioner,Hair Care,11.99,179.0,8.0,2.0,16,1,7,0
+1060,Conditioner,Hair Care,11.99,5.0,5.0,9.0,45,1,5,1
+1061,Comb,Tools,4.99,236.0,2.0,5.0,10,1,5,0
+1062,Shampoo,Hair Care,12.99,217.0,9.0,4.0,36,0,11,0
+1063,Conditioner,Hair Care,11.99,55.0,6.0,5.0,30,0,9,0
+1064,Conditioner,Hair Care,11.99,96.0,9.0,4.0,36,0,7,0
+1065,Shampoo,Hair Care,12.99,250.0,7.0,10.0,70,1,10,0
+1066,Hair Gel,Styling,7.99,62.0,7.0,9.0,63,0,7,1
+1067,Comb,Tools,4.99,168.0,3.0,3.0,9,1,4,0
+1068,Shampoo,Hair Care,12.99,29.0,10.0,10.0,100,0,9,1
+1069,Comb,Tools,4.99,190.0,4.0,3.0,12,0,6,0
+1070,Hair Mousse,Styling,9.99,146.0,,10.0,60,1,5,0
+1071,Hair Spray,Styling,10.99,200.0,6.0,10.0,60,0,7,0
+1072,Comb,Tools,4.99,,3.0,3.0,9,0,2,0
+1073,Shampoo,Hair Care,12.99,32.0,6.0,5.0,30,0,9,0
+1074,Shampoo,Hair Care,12.99,250.0,9.0,10.0,90,1,8,0
+1075,Shampoo,Hair Care,12.99,242.0,9.0,10.0,90,1,9,0
+1076,Hair Mousse,Styling,9.99,155.0,3.0,3.0,9,0,6,0
+1077,Conditioner,Hair Care,11.99,245.0,6.0,4.0,24,0,8,0
+1078,Hair Gel,Styling,7.99,19.0,4.0,4.0,16,1,5,0
+1079,Comb,Tools,4.99,36.0,2.0,10.0,20,0,1,0
+1080,Comb,Tools,4.99,49.0,2.0,10.0,20,0,4,0
+1081,Hair Gel,Styling,7.99,97.0,3.0,2.0,6,0,5,0
+1082,Hair Spray,Styling,10.99,104.0,7.0,7.0,49,1,7,0
+1083,Shampoo,Hair Care,12.99,96.0,9.0,5.0,45,0,10,0
+1084,Hair Mousse,Styling,9.99,150.0,6.0,10.0,60,1,6,0
+1085,Conditioner,Hair Care,11.99,81.0,4.0,8.0,32,1,3,0
+1086,Hair Spray,Styling,10.99,152.0,6.0,4.0,24,0,6,0
+1087,Conditioner,Hair Care,11.99,96.0,5.0,6.0,30,1,3,0
+1088,Comb,Tools,4.99,117.0,5.0,9.0,45,1,7,0
+1089,Conditioner,Hair Care,11.99,78.0,12.0,3.0,36,1,12,0
+1090,Shampoo,Hair Care,12.99,186.0,8.0,2.0,16,1,6,0
+1091,Hair Gel,Styling,7.99,173.0,6.0,10.0,60,0,9,0
+1092,Hair Spray,Styling,10.99,178.0,5.0,5.0,25,0,8,0
+1093,Conditioner,Hair Care,11.99,189.0,7.0,10.0,70,0,10,0
+1094,Hair Spray,Styling,10.99,231.0,5.0,4.0,20,1,7,0
+1095,Hair Mousse,Styling,9.99,248.0,5.0,3.0,15,0,5,0
+1096,Hair Mousse,Styling,9.99,76.0,3.0,2.0,6,1,6,0
+1097,Comb,Tools,4.99,131.0,,2.0,6,1,4,0
+1098,Hair Mousse,Styling,9.99,,6.0,4.0,24,1,7,0
+1099,Hair Spray,Styling,10.99,131.0,,4.0,24,0,7,0
+1100,Hair Mousse,Styling,9.99,57.0,3.0,7.0,21,0,4,0
+1101,Comb,Tools,4.99,214.0,3.0,9.0,27,0,2,0
+1102,Comb,Tools,4.99,50.0,4.0,4.0,16,1,5,0
+1103,Conditioner,Hair Care,11.99,242.0,8.0,9.0,72,1,11,0
+1104,Comb,Tools,4.99,182.0,5.0,8.0,40,1,7,0
+1105,Conditioner,Hair Care,11.99,39.0,9.0,7.0,63,0,11,1
+1106,Hair Mousse,Styling,9.99,109.0,8.0,8.0,64,1,9,0
+1107,Hair Spray,Styling,10.99,39.0,4.0,10.0,40,0,3,1
+1108,Comb,Tools,4.99,63.0,1.0,9.0,9,0,4,0
+1109,Hair Spray,Styling,10.99,161.0,3.0,4.0,12,0,2,0
+1110,Conditioner,Hair Care,11.99,109.0,8.0,2.0,16,1,9,0
+1111,Conditioner,Hair Care,11.99,86.0,7.0,8.0,56,0,8,0
+1112,Hair Mousse,Styling,9.99,93.0,4.0,,32,1,3,0
+1113,Comb,Tools,4.99,190.0,4.0,7.0,28,1,3,0
+1114,Conditioner,Hair Care,11.99,64.0,8.0,6.0,48,0,6,0
+1115,Conditioner,Hair Care,11.99,84.0,6.0,7.0,42,1,9,0
+1116,Conditioner,Hair Care,11.99,166.0,6.0,3.0,18,0,4,0
+1117,Comb,Tools,4.99,209.0,5.0,5.0,25,1,4,0
+1118,Hair Mousse,Styling,9.99,,4.0,5.0,20,0,6,0
+1119,Hair Mousse,Styling,9.99,228.0,0.0,10.0,0,1,0,0
+1120,Shampoo,Hair Care,12.99,123.0,3.0,10.0,30,0,1,0
+1121,Shampoo,Hair Care,12.99,244.0,10.0,2.0,20,0,13,0
+1122,Hair Spray,Styling,10.99,248.0,6.0,10.0,60,1,7,0
+1123,Conditioner,Hair Care,11.99,146.0,7.0,5.0,35,0,9,0
+1124,Comb,Tools,4.99,184.0,1.0,5.0,5,1,1,0
+1125,Conditioner,Hair Care,11.99,74.0,6.0,2.0,12,0,9,0
+1126,Shampoo,Hair Care,12.99,,13.0,5.0,65,0,15,0
+1127,Hair Mousse,Styling,9.99,83.0,4.0,3.0,12,1,7,0
+1128,Hair Mousse,Styling,9.99,14.0,4.0,7.0,28,1,3,1
+1129,Hair Spray,Styling,10.99,27.0,4.0,8.0,32,1,7,1
+1130,Hair Gel,Styling,7.99,56.0,5.0,8.0,40,1,4,0
+1131,Hair Gel,Styling,7.99,23.0,7.0,9.0,63,1,6,1
+1132,Hair Gel,Styling,7.99,241.0,5.0,2.0,10,0,5,0
+1133,Conditioner,Hair Care,11.99,17.0,4.0,4.0,16,1,2,0
+1134,Shampoo,Hair Care,12.99,185.0,,2.0,8,0,6,0
+1135,Comb,Tools,4.99,239.0,2.0,2.0,4,0,1,0
+1136,Hair Spray,Styling,10.99,3.0,5.0,3.0,15,1,3,1
+1137,Hair Spray,Styling,10.99,228.0,4.0,9.0,36,1,3,0
+1138,Comb,Tools,4.99,68.0,2.0,2.0,4,1,0,0
+1139,Shampoo,Hair Care,12.99,233.0,7.0,5.0,35,0,5,0
+1140,Conditioner,Hair Care,11.99,235.0,8.0,3.0,24,0,9,0
+1141,Hair Mousse,Styling,9.99,91.0,3.0,3.0,9,1,5,0
+1142,Shampoo,Hair Care,12.99,154.0,9.0,7.0,63,0,11,0
+1143,Hair Mousse,Styling,9.99,159.0,6.0,6.0,36,0,6,0
+1144,Hair Mousse,Styling,9.99,207.0,7.0,2.0,14,0,6,0
+1145,Hair Gel,Styling,7.99,208.0,4.0,3.0,12,1,2,0
+1146,Conditioner,Hair Care,11.99,46.0,7.0,9.0,63,1,8,1
+1147,Hair Mousse,Styling,9.99,35.0,3.0,5.0,15,1,4,0
+1148,Hair Spray,Styling,10.99,210.0,5.0,,40,0,7,0
+1149,Shampoo,Hair Care,12.99,92.0,8.0,10.0,80,0,9,0
+1150,Conditioner,Hair Care,11.99,75.0,3.0,10.0,30,0,4,0
+1151,Shampoo,Hair Care,12.99,246.0,8.0,4.0,32,0,9,0
+1152,Shampoo,Hair Care,12.99,169.0,6.0,4.0,24,0,4,0
+1153,Hair Spray,Styling,10.99,212.0,3.0,8.0,24,0,2,0
+1154,Hair Mousse,Styling,9.99,120.0,3.0,2.0,6,0,3,0
+1155,Conditioner,Hair Care,11.99,128.0,7.0,4.0,28,1,5,0
+1156,Hair Spray,Styling,10.99,182.0,7.0,10.0,70,0,7,0
+1157,Hair Spray,Styling,10.99,96.0,1.0,4.0,4,0,4,0
+1158,Comb,Tools,4.99,249.0,0.0,9.0,0,1,1,0
+1159,Shampoo,Hair Care,12.99,205.0,6.0,7.0,42,1,9,0
+1160,Hair Spray,Styling,10.99,199.0,5.0,6.0,30,0,4,0
+1161,Hair Mousse,Styling,9.99,48.0,4.0,10.0,40,0,3,0
+1162,Shampoo,Hair Care,12.99,144.0,,2.0,20,0,10,0
+1163,Hair Mousse,Styling,9.99,245.0,4.0,8.0,32,0,6,0
+1164,Conditioner,Hair Care,11.99,,6.0,10.0,60,0,4,0
+1165,Shampoo,Hair Care,12.99,74.0,6.0,4.0,24,1,5,0
+1166,Conditioner,Hair Care,11.99,226.0,7.0,4.0,28,0,10,0
+1167,Hair Spray,Styling,10.99,166.0,7.0,10.0,70,1,7,0
+1168,Hair Gel,Styling,7.99,10.0,8.0,8.0,64,0,7,1
+1169,Hair Spray,Styling,10.99,160.0,2.0,9.0,18,0,0,0
+1170,Shampoo,Hair Care,12.99,127.0,9.0,6.0,54,0,8,0
+1171,Conditioner,Hair Care,11.99,181.0,7.0,9.0,63,1,7,0
+1172,Conditioner,Hair Care,11.99,240.0,8.0,2.0,16,1,8,0
+1173,Conditioner,Hair Care,11.99,112.0,8.0,7.0,56,1,10,0
+1174,Hair Mousse,Styling,9.99,224.0,7.0,2.0,14,0,10,0
+1175,Shampoo,Hair Care,12.99,74.0,5.0,8.0,40,1,4,0
+1176,Comb,Tools,4.99,23.0,1.0,10.0,10,0,2,0
+1177,Hair Gel,Styling,7.99,196.0,7.0,8.0,56,1,6,0
+1178,Hair Gel,Styling,7.99,54.0,5.0,6.0,30,0,6,0
+1179,Conditioner,Hair Care,11.99,81.0,4.0,2.0,8,1,6,0
+1180,Hair Gel,Styling,7.99,54.0,9.0,8.0,72,1,9,1
+1181,Hair Gel,Styling,7.99,20.0,7.0,6.0,42,1,10,1
+1182,Hair Mousse,Styling,9.99,47.0,5.0,8.0,40,1,5,0
+1183,Hair Gel,Styling,7.99,137.0,5.0,4.0,20,1,8,0
+1184,Shampoo,Hair Care,12.99,143.0,8.0,3.0,24,0,11,0
+1185,Comb,Tools,4.99,211.0,0.0,7.0,0,0,0,0
+1186,Hair Mousse,Styling,9.99,29.0,5.0,6.0,30,0,7,1
+1187,Comb,Tools,4.99,115.0,0.0,3.0,0,0,0,0
+1188,Conditioner,Hair Care,11.99,153.0,5.0,5.0,25,0,8,0
+1189,Hair Mousse,Styling,9.99,128.0,6.0,3.0,18,1,9,0
+1190,Hair Mousse,Styling,9.99,212.0,2.0,7.0,14,0,0,0
+1191,Conditioner,Hair Care,11.99,138.0,6.0,8.0,48,1,7,0
+1192,Hair Mousse,Styling,9.99,179.0,,3.0,3,0,0,0
+1193,Shampoo,Hair Care,12.99,127.0,4.0,10.0,40,1,2,0
+1194,Hair Gel,Styling,7.99,54.0,6.0,8.0,48,0,4,0
+1195,Hair Gel,Styling,7.99,105.0,8.0,8.0,64,1,6,0
+1196,Comb,Tools,4.99,,1.0,8.0,8,0,4,0
+1197,Shampoo,Hair Care,12.99,39.0,12.0,7.0,84,1,14,1
+1198,Conditioner,Hair Care,11.99,142.0,8.0,8.0,64,1,6,0
+1199,Conditioner,Hair Care,11.99,103.0,6.0,7.0,42,0,8,0
+1200,Hair Spray,Styling,10.99,30.0,2.0,6.0,12,0,4,0
+1201,Hair Gel,Styling,7.99,2.0,,4.0,12,0,1,1
+1202,Hair Gel,Styling,7.99,162.0,4.0,5.0,20,0,7,0
+1203,Hair Gel,Styling,7.99,197.0,4.0,6.0,24,0,7,0
+1204,Comb,Tools,4.99,148.0,3.0,3.0,9,0,1,0
+1205,Hair Gel,Styling,7.99,216.0,5.0,7.0,35,1,4,0
+1206,Hair Gel,Styling,7.99,245.0,5.0,8.0,40,1,6,0
+1207,Hair Mousse,Styling,9.99,2.0,4.0,4.0,16,0,2,1
+1208,Hair Spray,Styling,10.99,153.0,3.0,6.0,18,0,1,0
+1209,Conditioner,Hair Care,11.99,,6.0,7.0,42,0,4,0
+1210,Comb,Tools,4.99,240.0,4.0,5.0,20,1,2,0
+1211,Hair Gel,Styling,7.99,111.0,7.0,10.0,70,0,8,0
+1212,Comb,Tools,4.99,71.0,3.0,6.0,18,0,2,0
+1213,Hair Gel,Styling,7.99,152.0,5.0,6.0,30,0,5,0
+1214,Hair Mousse,Styling,9.99,229.0,4.0,4.0,16,1,2,0
+1215,Comb,Tools,4.99,,2.0,10.0,20,1,2,0
+1216,Conditioner,Hair Care,11.99,91.0,7.0,7.0,49,0,7,0
+1217,Shampoo,Hair Care,12.99,183.0,9.0,7.0,63,1,8,0
+1218,Shampoo,Hair Care,12.99,98.0,7.0,5.0,35,1,5,0
+1219,Comb,Tools,4.99,19.0,4.0,8.0,32,1,7,1
+1220,Hair Gel,Styling,7.99,127.0,7.0,3.0,21,1,5,0
+1221,Hair Spray,Styling,10.99,5.0,5.0,6.0,30,0,3,1
+1222,Hair Gel,Styling,7.99,9.0,9.0,2.0,18,0,9,1
+1223,Comb,Tools,4.99,77.0,0.0,6.0,0,1,0,0
+1224,Hair Spray,Styling,10.99,12.0,2.0,9.0,18,0,3,1
+1225,Conditioner,Hair Care,11.99,12.0,8.0,2.0,16,0,7,1
+1226,Conditioner,Hair Care,11.99,43.0,9.0,7.0,63,0,11,1
+1227,Shampoo,Hair Care,12.99,28.0,9.0,2.0,18,0,9,0
+1228,Hair Gel,Styling,7.99,69.0,4.0,9.0,36,0,2,0
+1229,Hair Gel,Styling,7.99,163.0,1.0,9.0,9,0,4,0
+1230,Hair Gel,Styling,7.99,249.0,5.0,9.0,45,0,4,0
+1231,Hair Spray,Styling,10.99,213.0,8.0,5.0,40,0,11,0
+1232,Conditioner,Hair Care,11.99,3.0,5.0,8.0,40,1,3,1
+1233,Hair Spray,Styling,10.99,131.0,3.0,7.0,21,1,3,0
+1234,Conditioner,Hair Care,11.99,56.0,8.0,9.0,72,0,10,1
+1235,Conditioner,Hair Care,11.99,175.0,6.0,6.0,36,0,8,0
+1236,Conditioner,Hair Care,11.99,4.0,8.0,2.0,16,1,4,1
+1237,Hair Mousse,Styling,9.99,110.0,4.0,5.0,20,1,3,0
+1238,Hair Mousse,Styling,9.99,94.0,7.0,8.0,56,1,6,0
+1239,Hair Spray,Styling,10.99,126.0,6.0,10.0,60,0,7,0
+1240,Conditioner,Hair Care,11.99,29.0,7.0,6.0,42,0,6,1
+1241,Comb,Tools,4.99,183.0,3.0,8.0,24,1,4,0
+1242,Hair Mousse,Styling,9.99,126.0,5.0,,35,1,8,0
+1243,Conditioner,Hair Care,11.99,128.0,10.0,9.0,90,1,13,0
+1244,Comb,Tools,4.99,17.0,3.0,,27,0,2,1
+1245,Hair Mousse,Styling,9.99,225.0,6.0,3.0,18,0,5,0
+1246,Hair Gel,Styling,7.99,223.0,6.0,2.0,12,1,8,0
+1247,Conditioner,Hair Care,11.99,198.0,7.0,3.0,21,1,5,0
+1248,Hair Mousse,Styling,9.99,139.0,4.0,7.0,28,0,5,0
+1249,Hair Spray,Styling,10.99,198.0,7.0,,63,1,5,0
+1250,Hair Gel,Styling,7.99,219.0,7.0,7.0,49,0,8,0
+1251,Hair Mousse,Styling,9.99,52.0,11.0,3.0,33,1,10,0
+1252,Comb,Tools,4.99,139.0,4.0,10.0,40,1,3,0
+1253,Hair Spray,Styling,10.99,,3.0,6.0,18,0,3,0
+1254,Hair Spray,Styling,10.99,31.0,2.0,7.0,14,0,2,0
+1255,Hair Gel,Styling,7.99,174.0,6.0,4.0,24,1,8,0
+1256,Hair Mousse,Styling,9.99,16.0,5.0,2.0,10,1,4,0
+1257,Shampoo,Hair Care,12.99,,7.0,7.0,49,0,10,0
+1258,Hair Spray,Styling,10.99,170.0,7.0,3.0,21,1,10,0
+1259,Shampoo,Hair Care,12.99,74.0,7.0,5.0,35,1,5,0
+1260,Hair Gel,Styling,7.99,108.0,2.0,6.0,12,1,2,0
+1261,Hair Spray,Styling,10.99,35.0,7.0,5.0,35,0,7,0
+1262,Hair Mousse,Styling,9.99,145.0,6.0,4.0,24,1,7,0
+1263,Hair Spray,Styling,10.99,239.0,4.0,7.0,28,1,5,0
+1264,Shampoo,Hair Care,12.99,233.0,3.0,8.0,24,0,1,0
+1265,Hair Spray,Styling,10.99,95.0,3.0,4.0,12,1,5,0
+1266,Comb,Tools,4.99,1.0,0.0,10.0,0,0,1,0
+1267,Shampoo,Hair Care,12.99,85.0,8.0,3.0,24,1,8,0
+1268,Hair Spray,Styling,10.99,172.0,1.0,5.0,5,0,3,0
+1269,Comb,Tools,4.99,163.0,2.0,4.0,8,1,2,0
+1270,Hair Spray,Styling,10.99,176.0,5.0,4.0,20,0,7,0
+1271,Shampoo,Hair Care,12.99,213.0,8.0,10.0,80,1,9,0
+1272,Conditioner,Hair Care,11.99,209.0,7.0,6.0,42,1,9,0
+1273,Comb,Tools,4.99,5.0,6.0,4.0,24,0,5,1
+1274,Hair Gel,Styling,7.99,122.0,5.0,9.0,45,1,5,0
+1275,Hair Gel,Styling,7.99,208.0,8.0,8.0,64,0,7,0
+1276,Hair Spray,Styling,10.99,77.0,7.0,9.0,63,1,5,0
+1277,Hair Mousse,Styling,9.99,2.0,5.0,4.0,20,0,2,1
+1278,Shampoo,Hair Care,12.99,44.0,6.0,7.0,42,0,7,0
+1279,Hair Gel,Styling,7.99,17.0,4.0,9.0,36,1,5,1
+1280,Hair Spray,Styling,10.99,198.0,4.0,7.0,28,1,6,0
+1281,Shampoo,Hair Care,12.99,218.0,6.0,4.0,24,0,5,0
+1282,Hair Mousse,Styling,9.99,194.0,5.0,5.0,25,0,3,0
+1283,Shampoo,Hair Care,12.99,15.0,11.0,6.0,66,0,9,1
+1284,Hair Spray,Styling,10.99,161.0,7.0,7.0,49,1,5,0
+1285,Conditioner,Hair Care,11.99,50.0,3.0,6.0,18,1,4,0
+1286,Hair Gel,Styling,7.99,208.0,2.0,3.0,6,0,4,0
+1287,Conditioner,Hair Care,11.99,228.0,6.0,2.0,12,1,6,0
+1288,Comb,Tools,4.99,186.0,6.0,10.0,60,0,7,0
+1289,Hair Mousse,Styling,9.99,91.0,4.0,10.0,40,0,3,0
+1290,Hair Spray,Styling,10.99,20.0,6.0,3.0,18,1,4,0
+1291,Conditioner,Hair Care,11.99,210.0,8.0,6.0,48,1,8,0
+1292,Hair Mousse,Styling,9.99,19.0,3.0,10.0,30,1,5,1
+1293,Shampoo,Hair Care,12.99,,7.0,9.0,63,0,7,0
+1294,Shampoo,Hair Care,12.99,35.0,9.0,7.0,63,0,12,1
+1295,Hair Spray,Styling,10.99,179.0,8.0,2.0,16,0,8,0
+1296,Shampoo,Hair Care,12.99,227.0,3.0,6.0,18,0,6,0
+1297,Hair Mousse,Styling,9.99,,3.0,9.0,27,0,3,0
+1298,Conditioner,Hair Care,11.99,136.0,5.0,2.0,10,1,7,0
+1299,Hair Gel,Styling,7.99,179.0,4.0,8.0,32,0,6,0
+1300,Hair Mousse,Styling,9.99,90.0,,2.0,10,0,4,0
+1301,Hair Spray,Styling,10.99,145.0,7.0,2.0,14,0,5,0
+1302,Conditioner,Hair Care,11.99,72.0,8.0,5.0,40,0,8,0
+1303,Shampoo,Hair Care,12.99,19.0,8.0,6.0,48,0,10,1
+1304,Conditioner,Hair Care,11.99,113.0,5.0,10.0,50,0,5,0
+1305,Hair Spray,Styling,10.99,26.0,0.0,2.0,0,1,0,0
+1306,Conditioner,Hair Care,11.99,233.0,10.0,5.0,50,0,10,0
+1307,Shampoo,Hair Care,12.99,250.0,12.0,5.0,60,1,15,0
+1308,Hair Gel,Styling,7.99,214.0,7.0,8.0,56,0,7,0
+1309,Shampoo,Hair Care,12.99,,8.0,8.0,64,1,9,0
+1310,Hair Gel,Styling,7.99,136.0,7.0,10.0,70,0,7,0
+1311,Hair Mousse,Styling,9.99,207.0,5.0,5.0,25,1,3,0
+1312,Comb,Tools,4.99,237.0,2.0,3.0,6,1,4,0
+1313,Hair Spray,Styling,10.99,118.0,4.0,8.0,32,1,6,0
+1314,Conditioner,Hair Care,11.99,33.0,8.0,6.0,48,0,6,1
+1315,Shampoo,Hair Care,12.99,157.0,7.0,6.0,42,1,7,0
+1316,Hair Spray,Styling,10.99,3.0,,,42,0,3,1
+1317,Shampoo,Hair Care,12.99,247.0,9.0,7.0,63,0,10,0
+1318,Hair Spray,Styling,10.99,141.0,4.0,4.0,16,1,4,0
+1319,Conditioner,Hair Care,11.99,37.0,7.0,2.0,14,0,6,0
+1320,Hair Gel,Styling,7.99,148.0,,5.0,20,1,2,0
+1321,Hair Mousse,Styling,9.99,138.0,7.0,2.0,14,0,9,0
+1322,Hair Spray,Styling,10.99,19.0,5.0,7.0,35,1,8,1
+1323,Shampoo,Hair Care,12.99,83.0,9.0,7.0,63,1,9,0
+1324,Hair Mousse,Styling,9.99,159.0,6.0,6.0,36,0,5,0
+1325,Comb,Tools,4.99,199.0,3.0,10.0,30,1,5,0
+1326,Comb,Tools,4.99,185.0,4.0,3.0,12,0,2,0
+1327,Comb,Tools,4.99,107.0,5.0,10.0,50,0,8,0
+1328,Hair Gel,Styling,7.99,168.0,3.0,6.0,18,1,2,0
+1329,Hair Mousse,Styling,9.99,59.0,4.0,9.0,36,0,4,0
+1330,Hair Gel,Styling,7.99,92.0,8.0,3.0,24,1,8,0
+1331,Hair Spray,Styling,10.99,211.0,6.0,4.0,24,0,8,0
+1332,Conditioner,Hair Care,11.99,155.0,6.0,7.0,42,0,4,0
+1333,Hair Gel,Styling,7.99,,7.0,5.0,35,1,6,0
+1334,Hair Spray,Styling,10.99,,7.0,4.0,28,1,5,0
+1335,Hair Spray,Styling,10.99,221.0,3.0,10.0,30,1,4,0
+1336,Comb,Tools,4.99,75.0,6.0,7.0,42,0,8,0
+1337,Hair Mousse,Styling,9.99,243.0,7.0,9.0,63,1,8,0
+1338,Comb,Tools,4.99,34.0,2.0,10.0,20,0,0,0
+1339,Comb,Tools,4.99,116.0,0.0,8.0,0,1,0,0
+1340,Shampoo,Hair Care,12.99,59.0,7.0,10.0,70,1,9,1
+1341,Conditioner,Hair Care,11.99,10.0,8.0,5.0,40,1,9,1
+1342,Hair Mousse,Styling,9.99,42.0,6.0,9.0,54,0,5,1
+1343,Shampoo,Hair Care,12.99,236.0,9.0,5.0,45,1,12,0
+1344,Conditioner,Hair Care,11.99,,6.0,,60,0,7,1
+1345,Conditioner,Hair Care,11.99,72.0,6.0,8.0,48,1,9,0
+1346,Shampoo,Hair Care,12.99,183.0,6.0,9.0,54,1,7,0
+1347,Comb,Tools,4.99,171.0,0.0,3.0,0,0,0,0
+1348,Conditioner,Hair Care,11.99,129.0,5.0,10.0,50,0,8,0
+1349,Hair Gel,Styling,7.99,25.0,7.0,10.0,70,0,7,1
+1350,Shampoo,Hair Care,12.99,242.0,7.0,4.0,28,1,9,0
+1351,Hair Gel,Styling,7.99,38.0,5.0,9.0,45,1,4,1
+1352,Hair Spray,Styling,10.99,219.0,4.0,8.0,32,1,2,0
+1353,Hair Gel,Styling,7.99,176.0,4.0,6.0,24,1,6,0
+1354,Hair Spray,Styling,10.99,168.0,8.0,5.0,40,1,8,0
+1355,Hair Spray,Styling,10.99,123.0,3.0,6.0,18,0,1,0
+1356,Hair Mousse,Styling,9.99,107.0,6.0,8.0,48,0,4,0
+1357,Comb,Tools,4.99,101.0,2.0,,8,1,3,0
+1358,Hair Mousse,Styling,9.99,129.0,5.0,8.0,40,1,3,0
+1359,Hair Gel,Styling,7.99,108.0,9.0,8.0,72,0,9,0
+1360,Shampoo,Hair Care,12.99,78.0,6.0,4.0,24,0,8,0
+1361,Hair Spray,Styling,10.99,84.0,,4.0,20,0,7,0
+1362,Comb,Tools,4.99,85.0,5.0,10.0,50,0,3,0
+1363,Conditioner,Hair Care,11.99,214.0,5.0,10.0,50,0,6,0
+1364,Hair Gel,Styling,7.99,55.0,4.0,2.0,8,0,2,0
+1365,Hair Gel,Styling,7.99,,5.0,4.0,20,1,5,1
+1366,Shampoo,Hair Care,12.99,69.0,7.0,8.0,56,1,10,0
+1367,Shampoo,Hair Care,12.99,,4.0,3.0,12,1,6,0
+1368,Conditioner,Hair Care,11.99,24.0,6.0,5.0,30,1,8,1
+1369,Hair Mousse,Styling,9.99,70.0,1.0,9.0,9,0,0,0
+1370,Hair Mousse,Styling,9.99,109.0,9.0,10.0,90,1,9,0
+1371,Hair Gel,Styling,7.99,4.0,8.0,9.0,72,1,4,1
+1372,Hair Gel,Styling,7.99,57.0,5.0,5.0,25,1,6,0
+1373,Conditioner,Hair Care,11.99,207.0,6.0,3.0,18,0,4,0
+1374,Shampoo,Hair Care,12.99,36.0,4.0,10.0,40,0,7,1
+1375,Comb,Tools,4.99,86.0,5.0,4.0,20,1,3,0
+1376,Hair Mousse,Styling,9.99,176.0,5.0,9.0,45,1,7,0
+1377,Comb,Tools,4.99,123.0,5.0,10.0,50,0,7,0
+1378,Conditioner,Hair Care,11.99,193.0,9.0,3.0,27,0,8,0
+1379,Hair Gel,Styling,7.99,126.0,6.0,4.0,24,1,9,0
+1380,Shampoo,Hair Care,12.99,75.0,12.0,6.0,72,1,14,0
+1381,Conditioner,Hair Care,11.99,74.0,11.0,10.0,110,0,14,1
+1382,Hair Spray,Styling,10.99,64.0,3.0,7.0,21,0,6,0
+1383,Hair Mousse,Styling,9.99,106.0,5.0,4.0,20,1,4,0
+1384,Conditioner,Hair Care,11.99,51.0,6.0,7.0,42,0,4,0
+1385,Comb,Tools,4.99,143.0,0.0,5.0,0,0,0,0
+1386,Hair Gel,Styling,7.99,149.0,5.0,8.0,40,0,5,0
+1387,Hair Mousse,Styling,9.99,45.0,3.0,6.0,18,0,5,0
+1388,Hair Gel,Styling,7.99,84.0,,6.0,12,1,5,0
+1389,Conditioner,Hair Care,11.99,23.0,,4.0,20,0,4,0
+1390,Shampoo,Hair Care,12.99,35.0,5.0,9.0,45,1,5,1
+1391,Hair Gel,Styling,7.99,198.0,5.0,8.0,40,1,8,0
+1392,Shampoo,Hair Care,12.99,226.0,6.0,4.0,24,1,9,0
+1393,Hair Gel,Styling,7.99,177.0,5.0,6.0,30,0,8,0
+1394,Shampoo,Hair Care,12.99,221.0,6.0,7.0,42,1,9,0
+1395,Conditioner,Hair Care,11.99,97.0,8.0,7.0,56,0,7,0
+1396,Hair Spray,Styling,10.99,79.0,2.0,6.0,12,0,4,0
+1397,Hair Gel,Styling,7.99,101.0,9.0,2.0,18,1,12,0
+1398,Shampoo,Hair Care,12.99,220.0,7.0,9.0,63,0,8,0
+1399,Shampoo,Hair Care,12.99,9.0,5.0,7.0,35,0,3,1
+1400,Shampoo,Hair Care,12.99,107.0,8.0,9.0,72,0,11,0
+1401,Conditioner,Hair Care,11.99,167.0,6.0,2.0,12,1,6,0
+1402,Comb,Tools,4.99,241.0,2.0,8.0,16,0,3,0
+1403,Comb,Tools,4.99,,3.0,3.0,9,1,2,0
+1404,Hair Gel,Styling,7.99,44.0,3.0,2.0,6,1,3,0
+1405,Comb,Tools,4.99,22.0,0.0,9.0,0,0,0,0
+1406,Hair Mousse,Styling,9.99,151.0,4.0,4.0,16,0,2,0
+1407,Conditioner,Hair Care,11.99,78.0,6.0,5.0,30,0,9,0
+1408,Hair Mousse,Styling,9.99,35.0,3.0,5.0,15,0,3,0
+1409,Hair Mousse,Styling,9.99,23.0,4.0,9.0,36,1,4,1
+1410,Comb,Tools,4.99,175.0,3.0,8.0,24,0,2,0
+1411,Comb,Tools,4.99,203.0,2.0,6.0,12,1,1,0
+1412,Hair Mousse,Styling,9.99,,3.0,5.0,15,1,4,0
+1413,Conditioner,Hair Care,11.99,121.0,6.0,4.0,24,1,7,0
+1414,Shampoo,Hair Care,12.99,82.0,7.0,2.0,14,1,6,0
+1415,Conditioner,Hair Care,11.99,233.0,4.0,,28,0,4,0
+1416,Hair Spray,Styling,10.99,116.0,2.0,8.0,16,0,3,0
+1417,Comb,Tools,4.99,102.0,1.0,6.0,6,0,0,0
+1418,Hair Gel,Styling,7.99,109.0,6.0,8.0,48,0,8,0
+1419,Hair Spray,Styling,10.99,247.0,0.0,10.0,0,0,0,0
+1420,Shampoo,Hair Care,12.99,79.0,,7.0,56,1,9,0
+1421,Conditioner,Hair Care,11.99,77.0,5.0,6.0,30,0,3,0
+1422,Conditioner,Hair Care,11.99,39.0,5.0,7.0,35,1,3,0
+1423,Hair Gel,Styling,7.99,178.0,2.0,5.0,10,1,3,0
+1424,Shampoo,Hair Care,12.99,99.0,10.0,4.0,40,1,11,0
+1425,Hair Gel,Styling,7.99,152.0,8.0,8.0,64,0,10,0
+1426,Shampoo,Hair Care,12.99,56.0,8.0,5.0,40,1,8,0
+1427,Hair Gel,Styling,7.99,234.0,5.0,3.0,15,0,8,0
+1428,Hair Gel,Styling,7.99,23.0,4.0,8.0,32,1,3,1
+1429,Hair Mousse,Styling,9.99,245.0,7.0,8.0,56,0,6,0
+1430,Shampoo,Hair Care,12.99,88.0,7.0,8.0,56,0,5,0
+1431,Hair Gel,Styling,7.99,2.0,5.0,9.0,45,1,2,1
+1432,Comb,Tools,4.99,162.0,5.0,9.0,45,1,7,0
+1433,Hair Mousse,Styling,9.99,28.0,7.0,,28,1,8,0
+1434,Comb,Tools,4.99,151.0,2.0,9.0,18,0,3,0
+1435,Hair Gel,Styling,7.99,93.0,8.0,2.0,16,1,10,0
+1436,Shampoo,Hair Care,12.99,138.0,7.0,8.0,56,1,5,0
+1437,Hair Mousse,Styling,9.99,187.0,6.0,2.0,12,1,8,0
+1438,Comb,Tools,4.99,37.0,1.0,6.0,6,1,1,0
+1439,Comb,Tools,4.99,,1.0,10.0,10,1,3,0
+1440,Hair Spray,Styling,10.99,250.0,4.0,3.0,12,0,5,0
+1441,Hair Gel,Styling,7.99,5.0,2.0,4.0,8,1,5,1
+1442,Hair Gel,Styling,7.99,247.0,6.0,6.0,36,0,6,0
+1443,Conditioner,Hair Care,11.99,194.0,7.0,8.0,56,0,7,0
+1444,Conditioner,Hair Care,11.99,173.0,6.0,5.0,30,1,4,0
+1445,Comb,Tools,4.99,,3.0,3.0,9,0,2,0
+1446,Hair Mousse,Styling,9.99,186.0,4.0,8.0,32,1,7,0
+1447,Hair Mousse,Styling,9.99,87.0,1.0,7.0,7,1,1,0
+1448,Hair Spray,Styling,10.99,178.0,5.0,8.0,40,0,3,0
+1449,Conditioner,Hair Care,11.99,191.0,8.0,10.0,80,1,8,0
+1450,Shampoo,Hair Care,12.99,39.0,7.0,7.0,49,1,9,1
+1451,Hair Mousse,Styling,9.99,142.0,4.0,9.0,36,1,3,0
+1452,Shampoo,Hair Care,12.99,24.0,6.0,3.0,18,1,8,0
+1453,Comb,Tools,4.99,250.0,3.0,8.0,24,1,5,0
+1454,Hair Mousse,Styling,9.99,81.0,5.0,7.0,35,1,7,0
+1455,Hair Mousse,Styling,9.99,211.0,,9.0,18,0,1,0
+1456,Hair Gel,Styling,7.99,167.0,8.0,8.0,64,1,10,0
+1457,Hair Spray,Styling,10.99,57.0,8.0,4.0,32,0,10,0
+1458,Hair Mousse,Styling,9.99,156.0,,9.0,45,0,8,0
+1459,Comb,Tools,4.99,99.0,5.0,10.0,50,0,7,0
+1460,Conditioner,Hair Care,11.99,44.0,3.0,5.0,15,0,3,0
+1461,Hair Gel,Styling,7.99,117.0,6.0,5.0,30,1,9,0
+1462,Hair Spray,Styling,10.99,164.0,7.0,,49,0,6,0
+1463,Shampoo,Hair Care,12.99,174.0,9.0,8.0,72,1,11,0
+1464,Hair Mousse,Styling,9.99,226.0,4.0,10.0,40,0,7,0
+1465,Hair Gel,Styling,7.99,212.0,5.0,2.0,10,1,5,0
+1466,Hair Gel,Styling,7.99,201.0,6.0,6.0,36,0,8,0
+1467,Conditioner,Hair Care,11.99,233.0,7.0,5.0,35,0,8,0
+1468,Hair Gel,Styling,7.99,230.0,5.0,6.0,30,1,5,0
+1469,Hair Mousse,Styling,9.99,145.0,1.0,6.0,6,0,3,0
+1470,Conditioner,Hair Care,11.99,225.0,5.0,6.0,30,0,5,0
+1471,Comb,Tools,4.99,75.0,4.0,4.0,16,0,7,0
+1472,Comb,Tools,4.99,58.0,4.0,6.0,24,0,3,0
+1473,Hair Spray,Styling,10.99,103.0,5.0,9.0,45,0,7,0
+1474,Hair Spray,Styling,10.99,80.0,3.0,9.0,27,0,6,0
+1475,Hair Gel,Styling,7.99,3.0,5.0,3.0,15,0,3,1
+1476,Comb,Tools,4.99,202.0,3.0,9.0,27,0,4,0
+1477,Hair Spray,Styling,10.99,229.0,5.0,5.0,25,0,8,0
+1478,Hair Mousse,Styling,9.99,129.0,7.0,10.0,70,0,10,0
+1479,Conditioner,Hair Care,11.99,62.0,8.0,6.0,48,0,11,0
+1480,Comb,Tools,4.99,183.0,2.0,6.0,12,1,4,0
+1481,Shampoo,Hair Care,12.99,231.0,8.0,4.0,32,1,10,0
+1482,Hair Spray,Styling,10.99,122.0,2.0,2.0,4,0,2,0
+1483,Conditioner,Hair Care,11.99,25.0,7.0,,70,0,9,1
+1484,Hair Gel,Styling,7.99,220.0,8.0,9.0,72,0,11,0
+1485,Shampoo,Hair Care,12.99,64.0,6.0,8.0,48,1,8,0
+1486,Hair Spray,Styling,10.99,72.0,6.0,10.0,60,1,5,0
+1487,Hair Gel,Styling,7.99,28.0,5.0,4.0,20,0,6,0
+1488,Conditioner,Hair Care,11.99,45.0,8.0,6.0,48,1,6,1
+1489,Conditioner,Hair Care,11.99,199.0,7.0,3.0,21,0,6,0
+1490,Hair Gel,Styling,7.99,26.0,4.0,5.0,20,0,6,0
+1491,Conditioner,Hair Care,11.99,218.0,2.0,4.0,8,0,4,0
+1492,Hair Spray,Styling,10.99,201.0,2.0,5.0,10,1,2,0
+1493,Hair Mousse,Styling,9.99,85.0,6.0,7.0,42,1,9,0
+1494,Hair Gel,Styling,7.99,1.0,6.0,,48,0,1,1
+1495,Comb,Tools,4.99,51.0,0.0,5.0,0,1,3,0
+1496,Hair Gel,Styling,7.99,83.0,2.0,5.0,10,1,4,0
+1497,Hair Mousse,Styling,9.99,185.0,3.0,9.0,27,1,6,0
+1498,Hair Gel,Styling,7.99,176.0,9.0,5.0,45,1,9,0
+1499,Hair Spray,Styling,10.99,94.0,4.0,9.0,36,0,4,0
+1500,Comb,Tools,4.99,105.0,4.0,6.0,24,0,6,0
+1501,Hair Spray,Styling,10.99,195.0,1.0,6.0,6,1,3,0
+1502,Comb,Tools,4.99,182.0,2.0,7.0,14,0,3,0
+1503,Hair Mousse,Styling,9.99,50.0,0.0,6.0,0,0,0,0
+1504,Hair Gel,Styling,7.99,204.0,8.0,10.0,80,0,8,0
+1505,Hair Mousse,Styling,9.99,202.0,5.0,10.0,50,1,6,0
+1506,Hair Spray,Styling,10.99,23.0,8.0,10.0,80,0,7,1
+1507,Conditioner,Hair Care,11.99,192.0,6.0,3.0,18,1,9,0
+1508,Comb,Tools,4.99,38.0,2.0,7.0,14,1,3,0
+1509,Hair Spray,Styling,10.99,212.0,4.0,8.0,32,0,2,0
+1510,Conditioner,Hair Care,11.99,149.0,6.0,9.0,54,0,9,0
+1511,Comb,Tools,4.99,222.0,1.0,,4,0,0,0
+1512,Hair Spray,Styling,10.99,241.0,6.0,10.0,60,0,6,0
+1513,Conditioner,Hair Care,11.99,51.0,4.0,6.0,24,1,3,0
+1514,Hair Mousse,Styling,9.99,,7.0,9.0,63,1,5,1
+1515,Conditioner,Hair Care,11.99,97.0,10.0,2.0,20,1,11,0
+1516,Shampoo,Hair Care,12.99,23.0,10.0,10.0,100,0,8,1
+1517,Hair Spray,Styling,10.99,91.0,4.0,7.0,28,0,5,0
+1518,Hair Gel,Styling,7.99,65.0,1.0,2.0,2,1,0,0
+1519,Hair Mousse,Styling,9.99,92.0,4.0,6.0,24,1,2,0
+1520,Comb,Tools,4.99,21.0,0.0,9.0,0,1,0,0
+1521,Conditioner,Hair Care,11.99,45.0,4.0,2.0,8,0,3,0
+1522,Hair Spray,Styling,10.99,205.0,5.0,6.0,30,1,5,0
+1523,Hair Spray,Styling,10.99,247.0,8.0,4.0,32,0,11,0
+1524,Shampoo,Hair Care,12.99,,,,56,1,8,0
+1525,Hair Gel,Styling,7.99,8.0,7.0,4.0,28,0,8,1
+1526,Conditioner,Hair Care,11.99,40.0,8.0,5.0,40,1,6,0
+1527,Hair Gel,Styling,7.99,219.0,7.0,,70,0,8,0
+1528,Hair Gel,Styling,7.99,120.0,7.0,7.0,49,1,10,0
+1529,Hair Gel,Styling,7.99,191.0,5.0,5.0,25,0,4,0
+1530,Comb,Tools,4.99,21.0,2.0,6.0,12,0,4,0
+1531,Hair Mousse,Styling,9.99,84.0,1.0,9.0,9,1,4,0
+1532,Comb,Tools,4.99,37.0,0.0,2.0,0,1,3,0
+1533,Shampoo,Hair Care,12.99,36.0,,2.0,10,0,4,0
+1534,Hair Mousse,Styling,9.99,48.0,2.0,8.0,16,0,3,0
+1535,Comb,Tools,4.99,71.0,0.0,10.0,0,1,0,0
+1536,Hair Gel,Styling,7.99,197.0,3.0,7.0,21,1,5,0
+1537,Hair Spray,Styling,10.99,32.0,4.0,3.0,12,1,3,0
+1538,Conditioner,Hair Care,11.99,223.0,5.0,10.0,50,0,3,0
+1539,Conditioner,Hair Care,11.99,36.0,8.0,5.0,40,0,6,1
+1540,Conditioner,Hair Care,11.99,144.0,8.0,10.0,80,0,8,0
+1541,Conditioner,Hair Care,11.99,25.0,5.0,4.0,20,0,8,0
+1542,Hair Spray,Styling,10.99,108.0,6.0,8.0,48,1,6,0
+1543,Hair Gel,Styling,7.99,,4.0,4.0,16,1,7,0
+1544,Hair Mousse,Styling,9.99,53.0,7.0,3.0,21,1,5,0
+1545,Conditioner,Hair Care,11.99,100.0,5.0,4.0,20,1,8,0
+1546,Shampoo,Hair Care,12.99,57.0,9.0,8.0,72,0,7,1
+1547,Hair Mousse,Styling,9.99,2.0,4.0,3.0,12,1,2,1
+1548,Conditioner,Hair Care,11.99,169.0,3.0,10.0,30,1,6,0
+1549,Comb,Tools,4.99,87.0,4.0,6.0,24,1,2,0
+1550,Hair Gel,Styling,7.99,149.0,7.0,9.0,63,0,7,0
+1551,Hair Spray,Styling,10.99,221.0,7.0,7.0,49,1,6,0
+1552,Comb,Tools,4.99,26.0,4.0,6.0,24,1,4,0
+1553,Shampoo,Hair Care,12.99,3.0,6.0,3.0,18,1,3,1
+1554,Comb,Tools,4.99,68.0,5.0,9.0,45,1,7,0
+1555,Shampoo,Hair Care,12.99,154.0,10.0,3.0,30,0,12,0
+1556,Hair Mousse,Styling,9.99,148.0,2.0,8.0,16,0,3,0
+1557,Hair Spray,Styling,10.99,221.0,1.0,10.0,10,1,0,0
+1558,Comb,Tools,4.99,232.0,5.0,2.0,10,1,8,0
+1559,Comb,Tools,4.99,116.0,3.0,6.0,18,1,3,0
+1560,Shampoo,Hair Care,12.99,83.0,2.0,6.0,12,0,1,0
+1561,Comb,Tools,4.99,102.0,4.0,7.0,28,1,3,0
+1562,Comb,Tools,4.99,206.0,3.0,6.0,18,0,1,0
+1563,Conditioner,Hair Care,11.99,193.0,5.0,8.0,40,1,4,0
+1564,Hair Gel,Styling,7.99,229.0,5.0,4.0,20,0,5,0
+1565,Comb,Tools,4.99,164.0,3.0,10.0,30,0,3,0
+1566,Shampoo,Hair Care,12.99,182.0,4.0,8.0,32,0,4,0
+1567,Hair Gel,Styling,7.99,26.0,3.0,6.0,18,0,5,0
+1568,Conditioner,Hair Care,11.99,140.0,10.0,2.0,20,0,11,0
+1569,Conditioner,Hair Care,11.99,112.0,12.0,5.0,60,0,11,0
+1570,Hair Gel,Styling,7.99,214.0,3.0,5.0,15,0,4,0
+1571,Hair Gel,Styling,7.99,191.0,6.0,6.0,36,1,9,0
+1572,Conditioner,Hair Care,11.99,81.0,6.0,4.0,24,0,6,0
+1573,Hair Spray,Styling,10.99,181.0,4.0,9.0,36,1,6,0
+1574,Hair Mousse,Styling,9.99,183.0,3.0,5.0,15,1,4,0
+1575,Hair Gel,Styling,7.99,,0.0,8.0,0,0,0,0
+1576,Hair Mousse,Styling,9.99,122.0,5.0,7.0,35,1,3,0
+1577,Comb,Tools,4.99,153.0,2.0,9.0,18,0,3,0
+1578,Hair Spray,Styling,10.99,178.0,4.0,10.0,40,0,5,0
+1579,Shampoo,Hair Care,12.99,248.0,6.0,2.0,12,1,9,0
+1580,Shampoo,Hair Care,12.99,135.0,,5.0,30,0,5,0
+1581,Comb,Tools,4.99,30.0,3.0,7.0,21,0,1,0
+1582,Hair Gel,Styling,7.99,206.0,3.0,4.0,12,0,3,0
+1583,Hair Mousse,Styling,9.99,127.0,6.0,3.0,18,1,5,0
+1584,Comb,Tools,4.99,20.0,1.0,10.0,10,0,1,0
+1585,Comb,Tools,4.99,95.0,5.0,,15,0,4,0
+1586,Hair Gel,Styling,7.99,78.0,10.0,7.0,70,0,8,0
+1587,Conditioner,Hair Care,11.99,249.0,7.0,7.0,49,0,5,0
+1588,Comb,Tools,4.99,216.0,3.0,4.0,12,0,4,0
+1589,Shampoo,Hair Care,12.99,206.0,7.0,6.0,42,0,7,0
+1590,Shampoo,Hair Care,12.99,127.0,8.0,7.0,56,1,9,0
+1591,Shampoo,Hair Care,12.99,86.0,9.0,5.0,45,0,9,0
+1592,Hair Gel,Styling,7.99,10.0,3.0,9.0,27,0,6,1
+1593,Hair Spray,Styling,10.99,144.0,8.0,10.0,80,1,10,0
+1594,Conditioner,Hair Care,11.99,114.0,7.0,8.0,56,1,8,0
+1595,Hair Mousse,Styling,9.99,143.0,3.0,9.0,27,1,5,0
+1596,Comb,Tools,4.99,178.0,6.0,5.0,30,1,4,0
+1597,Conditioner,Hair Care,11.99,164.0,8.0,7.0,56,0,11,0
+1598,Conditioner,Hair Care,11.99,90.0,7.0,8.0,56,0,10,0
+1599,Conditioner,Hair Care,11.99,25.0,6.0,9.0,54,0,5,1
+1600,Conditioner,Hair Care,11.99,146.0,,8.0,48,0,5,0
+1601,Hair Mousse,Styling,9.99,45.0,4.0,8.0,32,1,3,0
+1602,Hair Spray,Styling,10.99,63.0,3.0,8.0,24,1,6,0
+1603,Hair Mousse,Styling,9.99,104.0,3.0,2.0,6,1,4,0
+1604,Hair Gel,Styling,7.99,64.0,3.0,8.0,24,1,1,0
+1605,Shampoo,Hair Care,12.99,29.0,6.0,4.0,24,0,7,0
+1606,Hair Mousse,Styling,9.99,244.0,3.0,8.0,24,1,3,0
+1607,Shampoo,Hair Care,12.99,101.0,3.0,5.0,15,1,1,0
+1608,Hair Gel,Styling,7.99,27.0,6.0,8.0,48,0,5,1
+1609,Hair Spray,Styling,10.99,94.0,5.0,9.0,45,0,8,0
+1610,Hair Spray,Styling,10.99,196.0,8.0,7.0,56,0,6,0
+1611,Conditioner,Hair Care,11.99,89.0,6.0,9.0,54,0,5,0
+1612,Shampoo,Hair Care,12.99,57.0,8.0,9.0,72,1,6,1
+1613,Hair Spray,Styling,10.99,41.0,6.0,4.0,24,1,8,0
+1614,Hair Spray,Styling,10.99,4.0,4.0,7.0,28,0,4,1
+1615,Hair Gel,Styling,7.99,0.0,5.0,2.0,10,0,0,1
+1616,Hair Spray,Styling,10.99,18.0,8.0,9.0,72,1,10,1
+1617,Comb,Tools,4.99,60.0,3.0,9.0,27,1,5,0
+1618,Conditioner,Hair Care,11.99,116.0,5.0,4.0,20,0,5,0
+1619,Conditioner,Hair Care,11.99,94.0,6.0,2.0,12,1,7,0
+1620,Hair Spray,Styling,10.99,218.0,5.0,7.0,35,1,4,0
+1621,Hair Gel,Styling,7.99,243.0,8.0,8.0,64,1,9,0
+1622,Hair Spray,Styling,10.99,52.0,5.0,5.0,25,1,8,0
+1623,Hair Gel,Styling,7.99,95.0,9.0,6.0,54,1,8,0
+1624,Hair Mousse,Styling,9.99,231.0,6.0,8.0,48,0,4,0
+1625,Hair Gel,Styling,7.99,239.0,,10.0,30,0,4,0
+1626,Hair Spray,Styling,10.99,170.0,7.0,4.0,28,1,10,0
+1627,Hair Mousse,Styling,9.99,119.0,10.0,5.0,50,0,13,0
+1628,Hair Spray,Styling,10.99,,4.0,3.0,12,0,2,0
+1629,Hair Mousse,Styling,9.99,218.0,0.0,3.0,0,1,0,0
+1630,Shampoo,Hair Care,12.99,92.0,6.0,9.0,54,1,7,0
+1631,Hair Spray,Styling,10.99,40.0,3.0,4.0,12,1,2,0
+1632,Hair Spray,Styling,10.99,141.0,2.0,6.0,12,0,5,0
+1633,Hair Gel,Styling,7.99,24.0,3.0,2.0,6,1,2,0
+1634,Hair Spray,Styling,10.99,176.0,,9.0,54,0,8,0
+1635,Comb,Tools,4.99,145.0,2.0,7.0,14,0,2,0
+1636,Hair Mousse,Styling,9.99,173.0,4.0,5.0,20,1,7,0
+1637,Hair Mousse,Styling,9.99,154.0,5.0,9.0,45,1,3,0
+1638,Hair Spray,Styling,10.99,71.0,9.0,2.0,18,1,10,0
+1639,Hair Mousse,Styling,9.99,,4.0,9.0,36,1,5,0
+1640,Hair Gel,Styling,7.99,168.0,,4.0,32,0,10,0
+1641,Hair Gel,Styling,7.99,97.0,7.0,8.0,56,1,5,0
+1642,Hair Gel,Styling,7.99,104.0,5.0,7.0,35,1,8,0
+1643,Hair Gel,Styling,7.99,235.0,4.0,,12,1,7,0
+1644,Conditioner,Hair Care,11.99,206.0,7.0,4.0,28,0,7,0
+1645,Shampoo,Hair Care,12.99,2.0,6.0,2.0,12,1,2,1
+1646,Comb,Tools,4.99,247.0,4.0,7.0,28,0,7,0
+1647,Comb,Tools,4.99,237.0,1.0,3.0,3,0,0,0
+1648,Comb,Tools,4.99,59.0,3.0,8.0,24,0,3,0
+1649,Hair Spray,Styling,10.99,180.0,8.0,4.0,32,1,9,0
+1650,Hair Gel,Styling,7.99,47.0,5.0,5.0,25,0,5,0
+1651,Shampoo,Hair Care,12.99,179.0,7.0,3.0,21,0,6,0
+1652,Hair Gel,Styling,7.99,162.0,6.0,8.0,48,1,8,0
+1653,Conditioner,Hair Care,11.99,135.0,5.0,2.0,10,1,8,0
+1654,Hair Gel,Styling,7.99,,6.0,8.0,48,1,4,0
+1655,Hair Spray,Styling,10.99,197.0,4.0,7.0,28,0,7,0
+1656,Hair Mousse,Styling,9.99,190.0,5.0,6.0,30,1,6,0
+1657,Conditioner,Hair Care,11.99,10.0,5.0,7.0,35,1,6,1
+1658,Hair Gel,Styling,7.99,118.0,,4.0,28,1,6,0
+1659,Hair Mousse,Styling,9.99,,3.0,4.0,12,1,4,0
+1660,Conditioner,Hair Care,11.99,38.0,5.0,3.0,15,1,3,0
+1661,Hair Gel,Styling,7.99,100.0,5.0,4.0,20,1,5,0
+1662,Hair Gel,Styling,7.99,111.0,7.0,2.0,14,0,7,0
+1663,Hair Mousse,Styling,9.99,36.0,4.0,,20,1,6,0
+1664,Hair Mousse,Styling,9.99,161.0,6.0,8.0,48,0,8,0
+1665,Hair Mousse,Styling,9.99,206.0,7.0,4.0,28,1,7,0
+1666,Conditioner,Hair Care,11.99,241.0,6.0,7.0,42,1,9,0
+1667,Hair Mousse,Styling,9.99,178.0,6.0,5.0,30,1,5,0
+1668,Comb,Tools,4.99,151.0,0.0,5.0,0,1,1,0
+1669,Hair Gel,Styling,7.99,192.0,3.0,4.0,12,1,5,0
+1670,Comb,Tools,4.99,68.0,4.0,5.0,20,0,4,0
+1671,Conditioner,Hair Care,11.99,162.0,7.0,2.0,14,1,7,0
+1672,Hair Mousse,Styling,9.99,244.0,2.0,10.0,20,0,1,0
+1673,Comb,Tools,4.99,15.0,8.0,5.0,40,1,10,1
+1674,Shampoo,Hair Care,12.99,76.0,7.0,2.0,14,1,5,0
+1675,Conditioner,Hair Care,11.99,114.0,8.0,8.0,64,0,10,0
+1676,Hair Mousse,Styling,9.99,116.0,4.0,,36,0,4,0
+1677,Shampoo,Hair Care,12.99,222.0,11.0,7.0,77,1,13,0
+1678,Hair Spray,Styling,10.99,6.0,3.0,8.0,24,1,2,1
+1679,Hair Mousse,Styling,9.99,144.0,2.0,2.0,4,0,4,0
+1680,Shampoo,Hair Care,12.99,35.0,9.0,5.0,45,1,7,1
+1681,Shampoo,Hair Care,12.99,126.0,9.0,8.0,72,0,11,0
+1682,Conditioner,Hair Care,11.99,140.0,8.0,9.0,72,0,7,0
+1683,Shampoo,Hair Care,12.99,165.0,4.0,10.0,40,0,2,0
+1684,Shampoo,Hair Care,12.99,56.0,8.0,4.0,32,1,10,0
+1685,Shampoo,Hair Care,12.99,130.0,3.0,6.0,18,0,4,0
+1686,Shampoo,Hair Care,12.99,51.0,6.0,9.0,54,1,4,1
+1687,Conditioner,Hair Care,11.99,101.0,6.0,5.0,30,0,5,0
+1688,Hair Spray,Styling,10.99,95.0,3.0,5.0,15,1,5,0
+1689,Shampoo,Hair Care,12.99,166.0,7.0,6.0,42,0,8,0
+1690,Hair Gel,Styling,7.99,52.0,6.0,3.0,18,0,9,0
+1691,Comb,Tools,4.99,172.0,3.0,5.0,15,1,5,0
+1692,Hair Spray,Styling,10.99,,6.0,10.0,60,1,4,0
+1693,Conditioner,Hair Care,11.99,127.0,5.0,8.0,40,1,8,0
+1694,Hair Gel,Styling,7.99,122.0,4.0,5.0,20,0,2,0
+1695,Shampoo,Hair Care,12.99,242.0,7.0,6.0,42,1,5,0
+1696,Shampoo,Hair Care,12.99,13.0,6.0,,48,1,9,1
+1697,Shampoo,Hair Care,12.99,230.0,10.0,3.0,30,0,10,0
+1698,Conditioner,Hair Care,11.99,,9.0,2.0,18,0,10,0
+1699,Hair Spray,Styling,10.99,,3.0,10.0,30,1,3,0
+1700,Comb,Tools,4.99,39.0,3.0,8.0,24,0,1,0
+1701,Shampoo,Hair Care,12.99,147.0,9.0,2.0,18,0,12,0
+1702,Comb,Tools,4.99,122.0,3.0,6.0,18,0,2,0
+1703,Shampoo,Hair Care,12.99,223.0,9.0,8.0,72,1,11,0
+1704,Hair Mousse,Styling,9.99,93.0,6.0,9.0,54,0,8,0
+1705,Hair Spray,Styling,10.99,37.0,6.0,7.0,42,1,9,1
+1706,Hair Mousse,Styling,9.99,196.0,4.0,9.0,36,1,7,0
+1707,Conditioner,Hair Care,11.99,85.0,10.0,7.0,70,1,13,0
+1708,Shampoo,Hair Care,12.99,87.0,4.0,4.0,16,1,6,0
+1709,Hair Spray,Styling,10.99,35.0,4.0,5.0,20,1,7,0
+1710,Hair Spray,Styling,10.99,139.0,5.0,2.0,10,0,5,0
+1711,Hair Gel,Styling,7.99,29.0,6.0,7.0,42,1,9,1
+1712,Hair Gel,Styling,7.99,56.0,3.0,3.0,9,1,2,0
+1713,Comb,Tools,4.99,0.0,1.0,10.0,10,1,0,1
+1714,Conditioner,Hair Care,11.99,193.0,3.0,,30,0,6,0
+1715,Hair Mousse,Styling,9.99,30.0,7.0,5.0,35,0,6,1
+1716,Hair Mousse,Styling,9.99,169.0,2.0,6.0,12,1,2,0
+1717,Hair Gel,Styling,7.99,162.0,7.0,2.0,14,1,10,0
+1718,Hair Mousse,Styling,9.99,179.0,1.0,10.0,10,1,0,0
+1719,Comb,Tools,4.99,125.0,3.0,2.0,6,0,4,0
+1720,Hair Mousse,Styling,9.99,139.0,6.0,3.0,18,1,7,0
+1721,Shampoo,Hair Care,12.99,82.0,8.0,,48,1,10,0
+1722,Conditioner,Hair Care,11.99,151.0,9.0,10.0,90,0,10,0
+1723,Hair Gel,Styling,7.99,205.0,3.0,10.0,30,0,6,0
+1724,Conditioner,Hair Care,11.99,230.0,3.0,2.0,6,1,3,0
+1725,Shampoo,Hair Care,12.99,,9.0,9.0,81,0,10,1
+1726,Conditioner,Hair Care,11.99,197.0,5.0,5.0,25,1,5,0
+1727,Shampoo,Hair Care,12.99,25.0,9.0,4.0,36,0,8,1
+1728,Hair Gel,Styling,7.99,127.0,3.0,2.0,6,1,6,0
+1729,Hair Mousse,Styling,9.99,111.0,7.0,10.0,70,1,10,0
+1730,Comb,Tools,4.99,,0.0,5.0,0,0,0,0
+1731,Conditioner,Hair Care,11.99,114.0,7.0,10.0,70,1,7,0
+1732,Hair Spray,Styling,10.99,105.0,5.0,,25,1,4,0
+1733,Shampoo,Hair Care,12.99,130.0,,2.0,16,1,6,0
+1734,Conditioner,Hair Care,11.99,81.0,10.0,5.0,50,1,9,0
+1735,Hair Spray,Styling,10.99,162.0,3.0,10.0,30,0,1,0
+1736,Shampoo,Hair Care,12.99,122.0,2.0,4.0,8,1,1,0
+1737,Hair Mousse,Styling,9.99,104.0,4.0,,8,0,5,0
+1738,Comb,Tools,4.99,185.0,4.0,5.0,20,0,7,0
+1739,Hair Gel,Styling,7.99,165.0,5.0,4.0,20,1,4,0
+1740,Hair Gel,Styling,7.99,16.0,3.0,4.0,12,0,6,0
+1741,Hair Mousse,Styling,9.99,77.0,3.0,10.0,30,1,5,0
+1742,Hair Gel,Styling,7.99,98.0,6.0,10.0,60,0,9,0
+1743,Hair Mousse,Styling,9.99,136.0,1.0,10.0,10,0,3,0
+1744,Hair Mousse,Styling,9.99,152.0,3.0,7.0,21,0,2,0
+1745,Hair Spray,Styling,10.99,173.0,4.0,8.0,32,1,4,0
+1746,Hair Spray,Styling,10.99,227.0,5.0,6.0,30,1,4,0
+1747,Hair Gel,Styling,7.99,148.0,2.0,10.0,20,0,1,0
+1748,Conditioner,Hair Care,11.99,153.0,7.0,4.0,28,1,10,0
+1749,Hair Spray,Styling,10.99,117.0,1.0,10.0,10,0,1,0
+1750,Hair Gel,Styling,7.99,208.0,4.0,3.0,12,1,3,0
+1751,Hair Spray,Styling,10.99,210.0,4.0,6.0,24,1,6,0
+1752,Hair Gel,Styling,7.99,152.0,7.0,7.0,49,0,5,0
+1753,Shampoo,Hair Care,12.99,10.0,9.0,3.0,27,0,9,1
+1754,Comb,Tools,4.99,175.0,2.0,2.0,4,0,0,0
+1755,Hair Gel,Styling,7.99,61.0,6.0,5.0,30,1,5,0
+1756,Shampoo,Hair Care,12.99,141.0,,4.0,20,0,6,0
+1757,Hair Spray,Styling,10.99,189.0,3.0,6.0,18,0,4,0
+1758,Hair Gel,Styling,7.99,,6.0,5.0,30,0,6,0
+1759,Hair Spray,Styling,10.99,217.0,6.0,8.0,48,0,7,0
+1760,Hair Gel,Styling,7.99,113.0,8.0,8.0,64,1,6,0
+1761,Hair Spray,Styling,10.99,87.0,8.0,7.0,56,1,6,0
+1762,Conditioner,Hair Care,11.99,95.0,7.0,8.0,56,1,6,0
+1763,Conditioner,Hair Care,11.99,183.0,7.0,,42,1,6,0
+1764,Hair Spray,Styling,10.99,62.0,,2.0,8,1,5,0
+1765,Hair Gel,Styling,7.99,232.0,5.0,8.0,40,1,3,0
+1766,Hair Mousse,Styling,9.99,122.0,5.0,10.0,50,0,7,0
+1767,Conditioner,Hair Care,11.99,23.0,8.0,4.0,32,0,6,1
+1768,Conditioner,Hair Care,11.99,75.0,8.0,4.0,32,1,7,0
+1769,Shampoo,Hair Care,12.99,158.0,9.0,2.0,18,0,11,0
+1770,Conditioner,Hair Care,11.99,60.0,12.0,3.0,36,0,10,0
+1771,Hair Gel,Styling,7.99,141.0,6.0,7.0,42,0,9,0
+1772,Shampoo,Hair Care,12.99,83.0,10.0,10.0,100,0,8,1
+1773,Conditioner,Hair Care,11.99,61.0,4.0,7.0,28,1,6,0
+1774,Comb,Tools,4.99,63.0,4.0,2.0,8,1,2,0
+1775,Hair Gel,Styling,7.99,173.0,8.0,8.0,64,1,10,0
+1776,Hair Spray,Styling,10.99,90.0,5.0,8.0,40,1,5,0
+1777,Shampoo,Hair Care,12.99,52.0,5.0,3.0,15,1,7,0
+1778,Hair Gel,Styling,7.99,96.0,5.0,9.0,45,0,4,0
+1779,Hair Gel,Styling,7.99,221.0,6.0,4.0,24,1,9,0
+1780,Hair Gel,Styling,7.99,64.0,3.0,9.0,27,0,3,0
+1781,Conditioner,Hair Care,11.99,229.0,7.0,3.0,21,1,7,0
+1782,Comb,Tools,4.99,,0.0,7.0,0,1,2,0
+1783,Shampoo,Hair Care,12.99,90.0,9.0,7.0,63,1,8,0
+1784,Conditioner,Hair Care,11.99,190.0,6.0,2.0,12,0,8,0
+1785,Hair Mousse,Styling,9.99,204.0,3.0,9.0,27,1,3,0
+1786,Shampoo,Hair Care,12.99,226.0,5.0,10.0,50,0,3,0
+1787,Hair Mousse,Styling,9.99,169.0,5.0,9.0,45,1,8,0
+1788,Hair Spray,Styling,10.99,98.0,4.0,2.0,8,0,4,0
+1789,Hair Gel,Styling,7.99,204.0,7.0,4.0,28,1,8,0
+1790,Conditioner,Hair Care,11.99,219.0,10.0,3.0,30,1,9,0
+1791,Shampoo,Hair Care,12.99,20.0,8.0,9.0,72,1,8,1
+1792,Hair Spray,Styling,10.99,140.0,7.0,7.0,49,1,10,0
+1793,Hair Spray,Styling,10.99,133.0,,6.0,12,0,4,0
+1794,Hair Mousse,Styling,9.99,240.0,2.0,8.0,16,1,0,0
+1795,Hair Spray,Styling,10.99,57.0,4.0,5.0,20,1,3,0
+1796,Hair Spray,Styling,10.99,92.0,3.0,7.0,21,0,3,0
+1797,Comb,Tools,4.99,16.0,4.0,7.0,28,1,2,1
+1798,Shampoo,Hair Care,12.99,85.0,8.0,5.0,40,1,9,0
+1799,Hair Gel,Styling,7.99,217.0,5.0,5.0,25,0,5,0
+1800,Hair Mousse,Styling,9.99,151.0,4.0,3.0,12,0,2,0
+1801,Comb,Tools,4.99,165.0,3.0,4.0,12,0,1,0
+1802,Hair Mousse,Styling,9.99,,3.0,7.0,21,0,6,0
+1803,Shampoo,Hair Care,12.99,149.0,4.0,3.0,12,0,2,0
+1804,Hair Gel,Styling,7.99,210.0,6.0,6.0,36,0,8,0
+1805,Hair Spray,Styling,10.99,218.0,4.0,6.0,24,0,3,0
+1806,Hair Gel,Styling,7.99,218.0,5.0,9.0,45,1,6,0
+1807,Hair Gel,Styling,7.99,107.0,7.0,5.0,35,1,7,0
+1808,Shampoo,Hair Care,12.99,20.0,11.0,4.0,44,1,9,1
+1809,Hair Mousse,Styling,9.99,176.0,6.0,7.0,42,0,8,0
+1810,Comb,Tools,4.99,171.0,5.0,6.0,30,0,8,0
+1811,Hair Gel,Styling,7.99,,5.0,7.0,35,0,3,0
+1812,Conditioner,Hair Care,11.99,208.0,4.0,8.0,32,1,7,0
+1813,Comb,Tools,4.99,,3.0,7.0,21,0,5,0
+1814,Hair Gel,Styling,7.99,23.0,0.0,4.0,0,0,0,0
+1815,Conditioner,Hair Care,11.99,184.0,7.0,4.0,28,0,8,0
+1816,Hair Spray,Styling,10.99,95.0,4.0,10.0,40,0,3,0
+1817,Comb,Tools,4.99,129.0,3.0,6.0,18,1,5,0
+1818,Hair Spray,Styling,10.99,50.0,0.0,2.0,0,1,1,0
+1819,Hair Mousse,Styling,9.99,4.0,6.0,8.0,48,0,4,1
+1820,Hair Spray,Styling,10.99,146.0,5.0,5.0,25,1,6,0
+1821,Conditioner,Hair Care,11.99,,8.0,6.0,48,1,9,0
+1822,Hair Gel,Styling,7.99,,4.0,3.0,12,1,4,0
+1823,Comb,Tools,4.99,201.0,4.0,6.0,24,0,6,0
+1824,Hair Spray,Styling,10.99,73.0,5.0,,40,1,7,0
+1825,Hair Gel,Styling,7.99,20.0,,7.0,14,0,5,0
+1826,Comb,Tools,4.99,187.0,2.0,6.0,12,0,3,0
+1827,Shampoo,Hair Care,12.99,195.0,10.0,6.0,60,0,10,0
+1828,Shampoo,Hair Care,12.99,244.0,8.0,6.0,48,0,7,0
+1829,Hair Spray,Styling,10.99,119.0,8.0,10.0,80,1,6,0
+1830,Shampoo,Hair Care,12.99,90.0,9.0,10.0,90,0,9,0
+1831,Shampoo,Hair Care,12.99,16.0,11.0,4.0,44,1,10,1
+1832,Hair Gel,Styling,7.99,236.0,6.0,7.0,42,1,7,0
+1833,Conditioner,Hair Care,11.99,42.0,5.0,5.0,25,1,7,0
+1834,Comb,Tools,4.99,58.0,5.0,9.0,45,1,7,0
+1835,Shampoo,Hair Care,12.99,9.0,,9.0,27,0,2,1
+1836,Hair Mousse,Styling,9.99,166.0,3.0,2.0,6,1,3,0
+1837,Hair Spray,Styling,10.99,196.0,7.0,3.0,21,0,9,0
+1838,Hair Mousse,Styling,9.99,30.0,4.0,7.0,28,1,3,0
+1839,Shampoo,Hair Care,12.99,14.0,7.0,6.0,42,0,10,1
+1840,Hair Mousse,Styling,9.99,87.0,8.0,10.0,80,0,8,0
+1841,Shampoo,Hair Care,12.99,72.0,3.0,7.0,21,0,2,0
+1842,Shampoo,Hair Care,12.99,92.0,12.0,7.0,84,0,12,0
+1843,Conditioner,Hair Care,11.99,12.0,10.0,6.0,60,0,10,1
+1844,Comb,Tools,4.99,139.0,2.0,6.0,12,1,0,0
+1845,Hair Gel,Styling,7.99,23.0,8.0,7.0,56,0,8,1
+1846,Shampoo,Hair Care,12.99,27.0,8.0,7.0,56,0,9,1
+1847,Conditioner,Hair Care,11.99,20.0,6.0,7.0,42,0,5,1
+1848,Comb,Tools,4.99,207.0,,4.0,16,0,3,0
+1849,Hair Mousse,Styling,9.99,147.0,5.0,5.0,25,0,6,0
+1850,Conditioner,Hair Care,11.99,211.0,5.0,8.0,40,1,7,0
+1851,Shampoo,Hair Care,12.99,,7.0,8.0,56,1,7,0
+1852,Comb,Tools,4.99,64.0,2.0,3.0,6,0,5,0
+1853,Comb,Tools,4.99,11.0,0.0,3.0,0,1,3,0
+1854,Hair Spray,Styling,10.99,0.0,3.0,2.0,6,0,0,1
+1855,Comb,Tools,4.99,201.0,0.0,3.0,0,1,0,0
+1856,Hair Mousse,Styling,9.99,113.0,2.0,4.0,8,1,1,0
+1857,Comb,Tools,4.99,62.0,0.0,9.0,0,1,1,0
+1858,Conditioner,Hair Care,11.99,15.0,7.0,9.0,63,1,9,1
+1859,Hair Mousse,Styling,9.99,71.0,1.0,4.0,4,0,2,0
+1860,Hair Gel,Styling,7.99,89.0,5.0,5.0,25,1,8,0
+1861,Hair Gel,Styling,7.99,56.0,7.0,9.0,63,0,6,1
+1862,Hair Spray,Styling,10.99,130.0,4.0,6.0,24,1,7,0
+1863,Comb,Tools,4.99,,2.0,6.0,12,1,5,0
+1864,Conditioner,Hair Care,11.99,230.0,6.0,,60,0,8,0
+1865,Shampoo,Hair Care,12.99,,11.0,10.0,110,1,12,1
+1866,Hair Mousse,Styling,9.99,184.0,5.0,6.0,30,0,7,0
+1867,Hair Spray,Styling,10.99,144.0,3.0,7.0,21,1,1,0
+1868,Shampoo,Hair Care,12.99,219.0,6.0,5.0,30,1,8,0
+1869,Comb,Tools,4.99,19.0,4.0,3.0,12,0,6,0
+1870,Hair Gel,Styling,7.99,136.0,6.0,10.0,60,0,7,0
+1871,Shampoo,Hair Care,12.99,65.0,7.0,2.0,14,1,9,0
+1872,Hair Gel,Styling,7.99,228.0,6.0,5.0,30,0,8,0
+1873,Comb,Tools,4.99,161.0,4.0,5.0,20,1,2,0
+1874,Comb,Tools,4.99,186.0,6.0,5.0,30,1,7,0
+1875,Hair Spray,Styling,10.99,71.0,5.0,2.0,10,1,6,0
+1876,Conditioner,Hair Care,11.99,6.0,6.0,2.0,12,1,6,1
+1877,Shampoo,Hair Care,12.99,187.0,2.0,4.0,8,0,1,0
+1878,Hair Gel,Styling,7.99,57.0,5.0,5.0,25,1,5,0
+1879,Conditioner,Hair Care,11.99,121.0,6.0,8.0,48,0,4,0
+1880,Hair Gel,Styling,7.99,27.0,7.0,3.0,21,1,6,0
+1881,Hair Mousse,Styling,9.99,182.0,5.0,10.0,50,1,8,0
+1882,Hair Spray,Styling,10.99,169.0,0.0,8.0,0,1,0,0
+1883,Comb,Tools,4.99,204.0,0.0,2.0,0,1,0,0
+1884,Shampoo,Hair Care,12.99,223.0,4.0,4.0,16,0,2,0
+1885,Hair Spray,Styling,10.99,122.0,3.0,8.0,24,0,6,0
+1886,Conditioner,Hair Care,11.99,61.0,8.0,10.0,80,0,6,1
+1887,Shampoo,Hair Care,12.99,66.0,6.0,6.0,36,0,6,0
+1888,Conditioner,Hair Care,11.99,35.0,7.0,3.0,21,0,9,0
+1889,Hair Spray,Styling,10.99,20.0,3.0,7.0,21,0,4,1
+1890,Shampoo,Hair Care,12.99,195.0,8.0,2.0,16,0,11,0
+1891,Comb,Tools,4.99,149.0,3.0,3.0,9,0,1,0
+1892,Hair Spray,Styling,10.99,165.0,2.0,2.0,4,0,5,0
+1893,Hair Spray,Styling,10.99,165.0,7.0,6.0,42,1,7,0
+1894,Comb,Tools,4.99,147.0,1.0,10.0,10,0,0,0
+1895,Shampoo,Hair Care,12.99,80.0,7.0,8.0,56,0,8,0
+1896,Shampoo,Hair Care,12.99,0.0,5.0,8.0,40,1,0,1
+1897,Conditioner,Hair Care,11.99,103.0,3.0,8.0,24,0,5,0
+1898,Conditioner,Hair Care,11.99,82.0,6.0,6.0,36,1,5,0
+1899,Hair Gel,Styling,7.99,13.0,6.0,8.0,48,0,5,1
+1900,Hair Spray,Styling,10.99,90.0,5.0,10.0,50,0,4,0
+1901,Shampoo,Hair Care,12.99,221.0,7.0,8.0,56,0,7,0
+1902,Hair Mousse,Styling,9.99,160.0,4.0,4.0,16,1,6,0
+1903,Hair Gel,Styling,7.99,183.0,0.0,5.0,0,0,2,0
+1904,Conditioner,Hair Care,11.99,178.0,4.0,4.0,16,1,6,0
+1905,Hair Gel,Styling,7.99,193.0,7.0,4.0,28,1,7,0
+1906,Shampoo,Hair Care,12.99,118.0,10.0,6.0,60,1,13,0
+1907,Hair Mousse,Styling,9.99,221.0,2.0,2.0,4,1,1,0
+1908,Hair Spray,Styling,10.99,174.0,5.0,2.0,10,0,8,0
+1909,Hair Mousse,Styling,9.99,131.0,6.0,10.0,60,0,8,0
+1910,Hair Spray,Styling,10.99,178.0,3.0,6.0,18,0,3,0
+1911,Comb,Tools,4.99,87.0,2.0,2.0,4,0,2,0
+1912,Conditioner,Hair Care,11.99,53.0,10.0,5.0,50,1,12,0
+1913,Comb,Tools,4.99,56.0,2.0,4.0,8,0,0,0
+1914,Comb,Tools,4.99,224.0,3.0,5.0,15,0,2,0
+1915,Hair Gel,Styling,7.99,164.0,3.0,7.0,21,0,2,0
+1916,Shampoo,Hair Care,12.99,235.0,8.0,9.0,72,1,8,0
+1917,Hair Spray,Styling,10.99,184.0,1.0,,10,0,0,0
+1918,Shampoo,Hair Care,12.99,150.0,10.0,,30,0,12,0
+1919,Comb,Tools,4.99,96.0,5.0,7.0,35,1,6,0
+1920,Shampoo,Hair Care,12.99,245.0,7.0,2.0,14,0,9,0
+1921,Shampoo,Hair Care,12.99,19.0,5.0,6.0,30,0,7,1
+1922,Hair Spray,Styling,10.99,73.0,,5.0,30,1,7,0
+1923,Hair Gel,Styling,7.99,49.0,7.0,4.0,28,0,10,0
+1924,Shampoo,Hair Care,12.99,61.0,6.0,8.0,48,0,4,0
+1925,Comb,Tools,4.99,75.0,3.0,4.0,12,1,5,0
+1926,Shampoo,Hair Care,12.99,199.0,8.0,8.0,64,1,9,0
+1927,Shampoo,Hair Care,12.99,29.0,6.0,4.0,24,0,7,0
+1928,Shampoo,Hair Care,12.99,133.0,9.0,8.0,72,0,11,0
+1929,Comb,Tools,4.99,116.0,1.0,3.0,3,0,1,0
+1930,Hair Mousse,Styling,9.99,91.0,7.0,10.0,70,1,6,0
+1931,Hair Gel,Styling,7.99,195.0,6.0,10.0,60,0,9,0
+1932,Hair Mousse,Styling,9.99,191.0,5.0,6.0,30,0,7,0
+1933,Hair Mousse,Styling,9.99,76.0,4.0,5.0,20,0,5,0
+1934,Hair Spray,Styling,10.99,185.0,5.0,7.0,35,0,6,0
+1935,Hair Spray,Styling,10.99,148.0,5.0,3.0,15,1,5,0
+1936,Hair Gel,Styling,7.99,65.0,4.0,8.0,32,1,6,0
+1937,Comb,Tools,4.99,154.0,2.0,9.0,18,1,0,0
+1938,Comb,Tools,4.99,243.0,1.0,3.0,3,0,1,0
+1939,Conditioner,Hair Care,11.99,244.0,6.0,4.0,24,0,5,0
+1940,Hair Mousse,Styling,9.99,199.0,8.0,8.0,64,0,10,0
+1941,Hair Gel,Styling,7.99,39.0,10.0,8.0,80,0,13,1
+1942,Comb,Tools,4.99,113.0,3.0,10.0,30,0,6,0
+1943,Hair Spray,Styling,10.99,232.0,6.0,7.0,42,0,9,0
+1944,Hair Spray,Styling,10.99,193.0,8.0,6.0,48,1,6,0
+1945,Conditioner,Hair Care,11.99,230.0,7.0,8.0,56,0,7,0
+1946,Hair Spray,Styling,10.99,195.0,3.0,8.0,24,1,6,0
+1947,Hair Mousse,Styling,9.99,104.0,7.0,3.0,21,0,6,0
+1948,Comb,Tools,4.99,225.0,3.0,10.0,30,1,3,0
+1949,Conditioner,Hair Care,11.99,198.0,8.0,6.0,48,0,9,0
+1950,Hair Spray,Styling,10.99,69.0,,2.0,8,1,3,0
+1951,Hair Spray,Styling,10.99,111.0,4.0,8.0,32,0,5,0
+1952,Hair Gel,Styling,7.99,128.0,6.0,,30,1,8,0
+1953,Shampoo,Hair Care,12.99,96.0,8.0,10.0,80,1,6,0
+1954,Comb,Tools,4.99,82.0,4.0,4.0,16,0,7,0
+1955,Comb,Tools,4.99,36.0,3.0,,6,1,6,0
+1956,Hair Gel,Styling,7.99,112.0,4.0,4.0,16,1,2,0
+1957,Hair Gel,Styling,7.99,171.0,6.0,4.0,24,0,8,0
+1958,Hair Gel,Styling,7.99,185.0,4.0,8.0,32,0,2,0
+1959,Hair Mousse,Styling,9.99,5.0,3.0,8.0,24,1,5,1
+1960,Conditioner,Hair Care,11.99,22.0,11.0,7.0,77,0,11,1
+1961,Hair Gel,Styling,7.99,139.0,4.0,3.0,12,0,5,0
+1962,Comb,Tools,4.99,26.0,4.0,8.0,32,0,2,1
+1963,Comb,Tools,4.99,81.0,3.0,4.0,12,1,4,0
+1964,Conditioner,Hair Care,11.99,55.0,3.0,10.0,30,1,3,0
+1965,Hair Spray,Styling,10.99,82.0,6.0,2.0,12,1,5,0
+1966,Hair Gel,Styling,7.99,70.0,5.0,9.0,45,1,4,0
+1967,Conditioner,Hair Care,11.99,231.0,7.0,9.0,63,1,10,0
+1968,Shampoo,Hair Care,12.99,213.0,8.0,9.0,72,0,10,0
+1969,Hair Gel,Styling,7.99,43.0,6.0,10.0,60,1,6,1
+1970,Hair Gel,Styling,7.99,221.0,7.0,10.0,70,0,6,0
+1971,Hair Mousse,Styling,9.99,104.0,1.0,2.0,2,0,1,0
+1972,Hair Gel,Styling,7.99,201.0,5.0,8.0,40,0,6,0
+1973,Hair Gel,Styling,7.99,60.0,,8.0,24,0,5,0
+1974,Hair Gel,Styling,7.99,138.0,7.0,4.0,28,0,6,0
+1975,Hair Gel,Styling,7.99,173.0,8.0,7.0,56,1,6,0
+1976,Hair Mousse,Styling,9.99,103.0,2.0,10.0,20,0,5,0
+1977,Hair Gel,Styling,7.99,248.0,4.0,9.0,36,0,6,0
+1978,Conditioner,Hair Care,11.99,110.0,5.0,10.0,50,0,3,0
+1979,Shampoo,Hair Care,12.99,243.0,6.0,5.0,30,1,9,0
+1980,Hair Spray,Styling,10.99,248.0,4.0,7.0,28,0,7,0
+1981,Hair Spray,Styling,10.99,129.0,6.0,9.0,54,1,4,0
+1982,Hair Spray,Styling,10.99,,2.0,10.0,20,0,5,0
+1983,Shampoo,Hair Care,12.99,246.0,8.0,3.0,24,1,11,0
+1984,Conditioner,Hair Care,11.99,219.0,3.0,10.0,30,0,4,0
+1985,Conditioner,Hair Care,11.99,126.0,,2.0,6,1,6,0
+1986,Comb,Tools,4.99,160.0,3.0,6.0,18,1,1,0
+1987,Hair Mousse,Styling,9.99,,3.0,9.0,27,0,5,0
+1988,Hair Spray,Styling,10.99,45.0,5.0,7.0,35,1,5,0
+1989,Hair Gel,Styling,7.99,50.0,4.0,4.0,16,1,4,0
+1990,Comb,Tools,4.99,136.0,2.0,8.0,16,0,1,0
+1991,Shampoo,Hair Care,12.99,87.0,4.0,8.0,32,1,3,0
+1992,Hair Spray,Styling,10.99,194.0,1.0,9.0,9,1,0,0
+1993,Hair Spray,Styling,10.99,56.0,10.0,5.0,50,1,10,0
+1994,Shampoo,Hair Care,12.99,143.0,7.0,2.0,14,1,10,0
+1995,Hair Spray,Styling,10.99,83.0,3.0,2.0,6,1,5,0
+1996,Hair Mousse,Styling,9.99,57.0,6.0,3.0,18,0,9,0
+1997,Hair Gel,Styling,7.99,42.0,6.0,2.0,12,1,5,0
+1998,Hair Mousse,Styling,9.99,53.0,4.0,6.0,24,0,5,0
+1999,Comb,Tools,4.99,44.0,3.0,7.0,21,0,5,0
+2000,Hair Spray,Styling,10.99,24.0,5.0,7.0,35,0,3,1
+2001,Comb,Tools,4.99,,5.0,3.0,15,0,5,0
+2002,Hair Spray,Styling,10.99,135.0,5.0,10.0,50,0,6,0
+2003,Shampoo,Hair Care,12.99,69.0,7.0,7.0,49,0,6,0
+2004,Hair Mousse,Styling,9.99,102.0,5.0,7.0,35,1,7,0
+2005,Hair Spray,Styling,10.99,129.0,5.0,8.0,40,1,6,0
+2006,Comb,Tools,4.99,86.0,0.0,6.0,0,1,2,0
+2007,Hair Mousse,Styling,9.99,201.0,4.0,6.0,24,0,3,0
+2008,Shampoo,Hair Care,12.99,207.0,5.0,2.0,10,0,4,0
+2009,Hair Mousse,Styling,9.99,163.0,0.0,5.0,0,0,2,0
+2010,Shampoo,Hair Care,12.99,204.0,7.0,5.0,35,1,5,0
+2011,Comb,Tools,4.99,108.0,4.0,10.0,40,0,7,0
+2012,Hair Spray,Styling,10.99,134.0,3.0,9.0,27,1,2,0
+2013,Hair Gel,Styling,7.99,114.0,4.0,,36,1,7,0
+2014,Hair Mousse,Styling,9.99,216.0,1.0,4.0,4,1,1,0
+2015,Conditioner,Hair Care,11.99,181.0,6.0,10.0,60,0,4,0
+2016,Conditioner,Hair Care,11.99,224.0,7.0,6.0,42,0,9,0
+2017,Hair Spray,Styling,10.99,62.0,4.0,8.0,32,1,4,0
+2018,Shampoo,Hair Care,12.99,136.0,9.0,10.0,90,0,12,0
+2019,Hair Mousse,Styling,9.99,122.0,6.0,9.0,54,1,6,0
+2020,Hair Gel,Styling,7.99,34.0,3.0,2.0,6,0,3,0
+2021,Comb,Tools,4.99,189.0,5.0,9.0,45,0,6,0
+2022,Conditioner,Hair Care,11.99,183.0,6.0,9.0,54,0,5,0
+2023,Comb,Tools,4.99,186.0,3.0,5.0,15,0,5,0
+2024,Conditioner,Hair Care,11.99,39.0,4.0,5.0,20,1,7,0
+2025,Hair Mousse,Styling,9.99,168.0,3.0,3.0,9,1,6,0
+2026,Conditioner,Hair Care,11.99,83.0,5.0,5.0,25,0,7,0
+2027,Shampoo,Hair Care,12.99,125.0,5.0,9.0,45,1,8,0
+2028,Shampoo,Hair Care,12.99,146.0,6.0,9.0,54,0,8,0
+2029,Hair Spray,Styling,10.99,112.0,8.0,2.0,16,0,7,0
+2030,Comb,Tools,4.99,230.0,0.0,9.0,0,0,3,0
+2031,Conditioner,Hair Care,11.99,148.0,,10.0,50,0,7,0
+2032,Shampoo,Hair Care,12.99,34.0,8.0,2.0,16,0,10,0
+2033,Hair Spray,Styling,10.99,125.0,3.0,9.0,27,1,5,0
+2034,Comb,Tools,4.99,224.0,1.0,4.0,4,1,0,0
+2035,Shampoo,Hair Care,12.99,51.0,9.0,2.0,18,1,9,0
+2036,Hair Spray,Styling,10.99,218.0,5.0,9.0,45,1,3,0
+2037,Comb,Tools,4.99,146.0,1.0,3.0,3,0,0,0
+2038,Hair Spray,Styling,10.99,191.0,4.0,6.0,24,1,3,0
+2039,Shampoo,Hair Care,12.99,156.0,8.0,5.0,40,1,6,0
+2040,Hair Gel,Styling,7.99,23.0,5.0,8.0,40,0,3,1
+2041,Comb,Tools,4.99,236.0,2.0,9.0,18,1,3,0
+2042,Comb,Tools,4.99,172.0,3.0,8.0,24,0,1,0
+2043,Shampoo,Hair Care,12.99,114.0,8.0,4.0,32,1,11,0
+2044,Conditioner,Hair Care,11.99,50.0,9.0,5.0,45,1,7,0
+2045,Hair Spray,Styling,10.99,3.0,3.0,4.0,12,1,3,1
+2046,Hair Mousse,Styling,9.99,45.0,6.0,10.0,60,1,9,1
+2047,Shampoo,Hair Care,12.99,147.0,8.0,,56,0,7,0
+2048,Hair Spray,Styling,10.99,49.0,4.0,7.0,28,1,7,0
+2049,Comb,Tools,4.99,0.0,1.0,5.0,5,1,0,1
+2050,Shampoo,Hair Care,12.99,198.0,12.0,3.0,36,1,11,0
+2051,Hair Spray,Styling,10.99,93.0,,8.0,64,0,8,0
+2052,Comb,Tools,4.99,199.0,3.0,9.0,27,1,1,0
+2053,Hair Spray,Styling,10.99,126.0,5.0,6.0,30,0,3,0
+2054,Shampoo,Hair Care,12.99,110.0,5.0,8.0,40,0,4,0
+2055,Shampoo,Hair Care,12.99,87.0,9.0,7.0,63,0,9,0
+2056,Conditioner,Hair Care,11.99,,6.0,5.0,30,0,4,0
+2057,Hair Gel,Styling,7.99,144.0,4.0,9.0,36,1,4,0
+2058,Hair Gel,Styling,7.99,151.0,2.0,7.0,14,1,2,0
+2059,Shampoo,Hair Care,12.99,,1.0,6.0,6,1,2,0
+2060,Shampoo,Hair Care,12.99,204.0,8.0,5.0,40,1,6,0
+2061,Shampoo,Hair Care,12.99,125.0,6.0,4.0,24,0,7,0
+2062,Comb,Tools,4.99,93.0,1.0,2.0,2,0,4,0
+2063,Conditioner,Hair Care,11.99,130.0,7.0,2.0,14,1,8,0
+2064,Hair Mousse,Styling,9.99,20.0,8.0,6.0,48,1,8,1
+2065,Shampoo,Hair Care,12.99,180.0,7.0,5.0,35,0,5,0
+2066,Hair Spray,Styling,10.99,173.0,3.0,8.0,24,1,5,0
+2067,Hair Mousse,Styling,9.99,50.0,6.0,5.0,30,1,8,0
+2068,Hair Mousse,Styling,9.99,214.0,3.0,4.0,12,1,1,0
+2069,Comb,Tools,4.99,218.0,3.0,9.0,27,0,1,0
+2070,Shampoo,Hair Care,12.99,79.0,10.0,2.0,20,0,8,0
+2071,Shampoo,Hair Care,12.99,233.0,7.0,6.0,42,0,5,0
+2072,Hair Spray,Styling,10.99,17.0,6.0,6.0,36,0,8,1
+2073,Hair Mousse,Styling,9.99,200.0,2.0,4.0,8,1,0,0
+2074,Hair Mousse,Styling,9.99,165.0,6.0,8.0,48,1,8,0
+2075,Hair Spray,Styling,10.99,112.0,1.0,3.0,3,1,2,0
+2076,Hair Gel,Styling,7.99,244.0,7.0,6.0,42,1,5,0
+2077,Conditioner,Hair Care,11.99,195.0,7.0,7.0,49,0,8,0
+2078,Hair Spray,Styling,10.99,152.0,4.0,3.0,12,1,6,0
+2079,Hair Mousse,Styling,9.99,,7.0,8.0,56,0,10,1
+2080,Hair Spray,Styling,10.99,216.0,5.0,2.0,10,0,4,0
+2081,Hair Spray,Styling,10.99,241.0,5.0,3.0,15,1,4,0
+2082,Hair Spray,Styling,10.99,129.0,7.0,,63,0,6,0
+2083,Hair Spray,Styling,10.99,128.0,2.0,6.0,12,0,5,0
+2084,Hair Gel,Styling,7.99,228.0,5.0,4.0,20,1,3,0
+2085,Comb,Tools,4.99,237.0,5.0,5.0,25,1,7,0
+2086,Hair Spray,Styling,10.99,44.0,5.0,10.0,50,1,3,1
+2087,Conditioner,Hair Care,11.99,215.0,7.0,5.0,35,0,8,0
+2088,Comb,Tools,4.99,21.0,5.0,9.0,45,1,8,1
+2089,Hair Spray,Styling,10.99,38.0,4.0,9.0,36,1,7,0
+2090,Hair Gel,Styling,7.99,170.0,4.0,7.0,28,0,3,0
+2091,Hair Gel,Styling,7.99,28.0,4.0,7.0,28,0,5,0
+2092,Hair Gel,Styling,7.99,72.0,4.0,10.0,40,0,6,0
+2093,Hair Gel,Styling,7.99,148.0,2.0,8.0,16,1,1,0
+2094,Comb,Tools,4.99,163.0,2.0,8.0,16,0,4,0
+2095,Hair Mousse,Styling,9.99,115.0,,10.0,70,0,7,0
+2096,Shampoo,Hair Care,12.99,98.0,11.0,7.0,77,0,13,0
+2097,Conditioner,Hair Care,11.99,0.0,11.0,10.0,110,0,0,1
+2098,Conditioner,Hair Care,11.99,157.0,9.0,6.0,54,1,10,0
+2099,Hair Spray,Styling,10.99,147.0,5.0,3.0,15,0,6,0
+2100,Conditioner,Hair Care,11.99,212.0,10.0,5.0,50,0,10,0
+2101,Shampoo,Hair Care,12.99,59.0,10.0,5.0,50,1,11,0
+2102,Shampoo,Hair Care,12.99,235.0,7.0,3.0,21,1,8,0
+2103,Hair Mousse,Styling,9.99,232.0,7.0,6.0,42,1,7,0
+2104,Hair Mousse,Styling,9.99,166.0,6.0,6.0,36,0,6,0
+2105,Hair Gel,Styling,7.99,193.0,6.0,9.0,54,0,9,0
+2106,Hair Spray,Styling,10.99,146.0,5.0,10.0,50,0,7,0
+2107,Shampoo,Hair Care,12.99,69.0,5.0,3.0,15,1,6,0
+2108,Conditioner,Hair Care,11.99,214.0,6.0,8.0,48,1,9,0
+2109,Hair Spray,Styling,10.99,158.0,6.0,5.0,30,1,9,0
+2110,Hair Spray,Styling,10.99,97.0,2.0,3.0,6,1,2,0
+2111,Shampoo,Hair Care,12.99,28.0,6.0,3.0,18,0,8,0
+2112,Comb,Tools,4.99,199.0,1.0,8.0,8,0,4,0
+2113,Comb,Tools,4.99,186.0,3.0,2.0,6,1,2,0
+2114,Comb,Tools,4.99,165.0,4.0,,24,1,4,0
+2115,Shampoo,Hair Care,12.99,152.0,9.0,6.0,54,1,8,0
+2116,Hair Mousse,Styling,9.99,235.0,3.0,6.0,18,1,6,0
+2117,Hair Gel,Styling,7.99,67.0,7.0,4.0,28,1,5,0
+2118,Hair Gel,Styling,7.99,87.0,5.0,9.0,45,1,5,0
+2119,Hair Spray,Styling,10.99,7.0,4.0,8.0,32,0,3,1
+2120,Hair Gel,Styling,7.99,200.0,7.0,8.0,56,1,7,0
+2121,Hair Spray,Styling,10.99,88.0,7.0,5.0,35,0,5,0
+2122,Conditioner,Hair Care,11.99,30.0,7.0,9.0,63,1,8,1
+2123,Hair Mousse,Styling,9.99,156.0,6.0,3.0,18,0,7,0
+2124,Shampoo,Hair Care,12.99,23.0,,10.0,40,1,4,1
+2125,Hair Spray,Styling,10.99,3.0,8.0,3.0,24,1,3,1
+2126,Conditioner,Hair Care,11.99,223.0,9.0,7.0,63,0,10,0
+2127,Comb,Tools,4.99,104.0,4.0,6.0,24,1,3,0
+2128,Shampoo,Hair Care,12.99,52.0,6.0,9.0,54,0,6,1
+2129,Hair Spray,Styling,10.99,12.0,4.0,9.0,36,1,6,1
+2130,Hair Mousse,Styling,9.99,242.0,3.0,3.0,9,0,6,0
+2131,Hair Mousse,Styling,9.99,12.0,4.0,2.0,8,1,7,0
+2132,Hair Gel,Styling,7.99,86.0,5.0,3.0,15,0,3,0
+2133,Hair Gel,Styling,7.99,73.0,1.0,10.0,10,1,3,0
+2134,Shampoo,Hair Care,12.99,115.0,4.0,5.0,20,1,3,0
+2135,Conditioner,Hair Care,11.99,7.0,8.0,5.0,40,1,7,1
+2136,Hair Mousse,Styling,9.99,182.0,7.0,3.0,21,1,9,0
+2137,Comb,Tools,4.99,162.0,3.0,5.0,15,1,1,0
+2138,Comb,Tools,4.99,139.0,,5.0,5,0,1,0
+2139,Comb,Tools,4.99,201.0,2.0,3.0,6,0,4,0
+2140,Hair Mousse,Styling,9.99,131.0,8.0,7.0,56,1,7,0
+2141,Hair Mousse,Styling,9.99,67.0,2.0,8.0,16,0,0,0
+2142,Hair Gel,Styling,7.99,154.0,4.0,10.0,40,0,2,0
+2143,Comb,Tools,4.99,171.0,1.0,7.0,7,0,0,0
+2144,Comb,Tools,4.99,65.0,5.0,8.0,40,0,7,0
+2145,Hair Mousse,Styling,9.99,80.0,2.0,9.0,18,0,4,0
+2146,Comb,Tools,4.99,35.0,2.0,3.0,6,1,5,0
+2147,Conditioner,Hair Care,11.99,212.0,8.0,10.0,80,0,11,0
+2148,Hair Spray,Styling,10.99,202.0,9.0,10.0,90,0,10,0
+2149,Hair Spray,Styling,10.99,53.0,8.0,4.0,32,0,10,0
+2150,Conditioner,Hair Care,11.99,31.0,,4.0,28,0,6,0
+2151,Hair Gel,Styling,7.99,,,8.0,48,0,7,0
+2152,Hair Spray,Styling,10.99,171.0,8.0,9.0,72,1,11,0
+2153,Conditioner,Hair Care,11.99,95.0,3.0,8.0,24,1,1,0
+2154,Hair Mousse,Styling,9.99,237.0,4.0,3.0,12,0,6,0
+2155,Hair Spray,Styling,10.99,164.0,6.0,4.0,24,1,5,0
+2156,Comb,Tools,4.99,202.0,,2.0,6,1,4,0
+2157,Hair Mousse,Styling,9.99,241.0,5.0,,35,1,8,0
+2158,Comb,Tools,4.99,11.0,,8.0,0,1,1,0
+2159,Hair Mousse,Styling,9.99,76.0,7.0,3.0,21,0,10,0
+2160,Hair Mousse,Styling,9.99,0.0,5.0,3.0,15,1,0,1
+2161,Shampoo,Hair Care,12.99,94.0,5.0,10.0,50,1,4,0
+2162,Hair Gel,Styling,7.99,136.0,5.0,8.0,40,1,4,0
+2163,Hair Spray,Styling,10.99,110.0,2.0,10.0,20,0,4,0
+2164,Hair Gel,Styling,7.99,200.0,4.0,7.0,28,1,6,0
+2165,Hair Gel,Styling,7.99,229.0,4.0,8.0,32,0,2,0
+2166,Comb,Tools,4.99,195.0,5.0,10.0,50,0,7,0
+2167,Shampoo,Hair Care,12.99,194.0,7.0,7.0,49,0,6,0
+2168,Shampoo,Hair Care,12.99,117.0,6.0,3.0,18,0,9,0
+2169,Shampoo,Hair Care,12.99,24.0,8.0,10.0,80,0,11,1
+2170,Conditioner,Hair Care,11.99,111.0,6.0,9.0,54,0,6,0
+2171,Hair Mousse,Styling,9.99,184.0,6.0,7.0,42,0,6,0
+2172,Hair Mousse,Styling,9.99,,5.0,8.0,40,0,7,0
+2173,Hair Mousse,Styling,9.99,127.0,4.0,2.0,8,0,7,0
+2174,Conditioner,Hair Care,11.99,236.0,6.0,6.0,36,1,4,0
+2175,Hair Gel,Styling,7.99,45.0,4.0,10.0,40,1,3,0
+2176,Shampoo,Hair Care,12.99,22.0,5.0,10.0,50,0,4,1
+2177,Conditioner,Hair Care,11.99,,7.0,3.0,21,1,8,0
+2178,Hair Spray,Styling,10.99,164.0,3.0,3.0,9,1,1,0
+2179,Shampoo,Hair Care,12.99,208.0,3.0,3.0,9,0,3,0
+2180,Hair Mousse,Styling,9.99,58.0,8.0,9.0,72,0,6,1
+2181,Hair Gel,Styling,7.99,,4.0,7.0,28,0,7,0
+2182,Comb,Tools,4.99,22.0,4.0,6.0,24,1,6,1
+2183,Hair Spray,Styling,10.99,133.0,3.0,9.0,27,0,4,0
+2184,Hair Mousse,Styling,9.99,71.0,8.0,8.0,64,0,11,0
+2185,Conditioner,Hair Care,11.99,250.0,6.0,9.0,54,1,5,0
+2186,Comb,Tools,4.99,198.0,4.0,2.0,8,1,3,0
+2187,Comb,Tools,4.99,46.0,3.0,3.0,9,1,4,0
+2188,Hair Mousse,Styling,9.99,112.0,4.0,5.0,20,0,4,0
+2189,Hair Spray,Styling,10.99,111.0,8.0,2.0,16,1,11,0
+2190,Comb,Tools,4.99,64.0,6.0,10.0,60,1,5,0
+2191,Comb,Tools,4.99,248.0,0.0,6.0,0,0,1,0
+2192,Hair Gel,Styling,7.99,237.0,5.0,7.0,35,1,6,0
+2193,Conditioner,Hair Care,11.99,144.0,7.0,4.0,28,0,10,0
+2194,Hair Mousse,Styling,9.99,27.0,7.0,6.0,42,0,10,1
+2195,Shampoo,Hair Care,12.99,243.0,8.0,3.0,24,1,6,0
+2196,Comb,Tools,4.99,4.0,5.0,9.0,45,1,4,1
+2197,Shampoo,Hair Care,12.99,103.0,10.0,7.0,70,1,9,0
+2198,Shampoo,Hair Care,12.99,174.0,8.0,3.0,24,0,11,0
+2199,Hair Spray,Styling,10.99,91.0,5.0,2.0,10,0,3,0
+2200,Shampoo,Hair Care,12.99,20.0,7.0,4.0,28,1,7,1
+2201,Hair Gel,Styling,7.99,72.0,7.0,2.0,14,0,8,0
+2202,Hair Gel,Styling,7.99,152.0,1.0,7.0,7,0,4,0
+2203,Shampoo,Hair Care,12.99,2.0,6.0,,48,0,2,1
+2204,Comb,Tools,4.99,229.0,2.0,7.0,14,0,1,0
+2205,Comb,Tools,4.99,248.0,2.0,6.0,12,0,0,0
+2206,Conditioner,Hair Care,11.99,167.0,5.0,4.0,20,1,7,0
+2207,Comb,Tools,4.99,145.0,5.0,7.0,35,0,4,0
+2208,Hair Gel,Styling,7.99,145.0,6.0,2.0,12,1,7,0
+2209,Shampoo,Hair Care,12.99,139.0,7.0,8.0,56,1,10,0
+2210,Conditioner,Hair Care,11.99,122.0,3.0,4.0,12,0,6,0
+2211,Hair Spray,Styling,10.99,,4.0,7.0,28,0,3,0
+2212,Conditioner,Hair Care,11.99,85.0,6.0,7.0,42,0,4,0
+2213,Conditioner,Hair Care,11.99,230.0,8.0,8.0,64,1,7,0
+2214,Shampoo,Hair Care,12.99,160.0,9.0,4.0,36,0,8,0
+2215,Comb,Tools,4.99,201.0,7.0,2.0,14,0,9,0
+2216,Shampoo,Hair Care,12.99,91.0,8.0,10.0,80,1,10,0
+2217,Shampoo,Hair Care,12.99,22.0,10.0,8.0,80,1,11,1
+2218,Hair Mousse,Styling,9.99,229.0,2.0,9.0,18,1,2,0
+2219,Conditioner,Hair Care,11.99,151.0,2.0,8.0,16,0,2,0
+2220,Hair Gel,Styling,7.99,171.0,6.0,2.0,12,0,9,0
+2221,Hair Mousse,Styling,9.99,,3.0,9.0,27,0,1,0
+2222,Hair Mousse,Styling,9.99,215.0,6.0,10.0,60,0,4,0
+2223,Comb,Tools,4.99,203.0,5.0,4.0,20,1,3,0
+2224,Hair Spray,Styling,10.99,232.0,4.0,7.0,28,0,6,0
+2225,Conditioner,Hair Care,11.99,137.0,7.0,7.0,49,0,7,0
+2226,Hair Gel,Styling,7.99,176.0,7.0,3.0,21,0,8,0
+2227,Conditioner,Hair Care,11.99,122.0,6.0,10.0,60,0,9,0
+2228,Conditioner,Hair Care,11.99,130.0,8.0,4.0,32,1,10,0
+2229,Comb,Tools,4.99,24.0,1.0,,10,0,0,0
+2230,Conditioner,Hair Care,11.99,141.0,7.0,4.0,28,0,10,0
+2231,Shampoo,Hair Care,12.99,71.0,9.0,6.0,54,1,10,0
+2232,Hair Spray,Styling,10.99,191.0,6.0,7.0,42,0,8,0
+2233,Comb,Tools,4.99,3.0,4.0,4.0,16,0,2,1
+2234,Conditioner,Hair Care,11.99,56.0,7.0,9.0,63,1,8,1
+2235,Conditioner,Hair Care,11.99,95.0,6.0,5.0,30,0,4,0
+2236,Hair Gel,Styling,7.99,64.0,5.0,2.0,10,0,5,0
+2237,Hair Gel,Styling,7.99,231.0,6.0,,18,0,8,0
+2238,Conditioner,Hair Care,11.99,153.0,9.0,3.0,27,1,10,0
+2239,Conditioner,Hair Care,11.99,149.0,,10.0,80,0,7,0
+2240,Comb,Tools,4.99,138.0,3.0,8.0,24,0,4,0
+2241,Shampoo,Hair Care,12.99,107.0,7.0,9.0,63,0,5,0
+2242,Hair Gel,Styling,7.99,215.0,7.0,2.0,14,0,8,0
+2243,Hair Spray,Styling,10.99,205.0,4.0,8.0,32,1,4,0
+2244,Hair Mousse,Styling,9.99,76.0,3.0,8.0,24,0,4,0
+2245,Conditioner,Hair Care,11.99,145.0,5.0,8.0,40,0,5,0
+2246,Conditioner,Hair Care,11.99,33.0,8.0,8.0,64,0,6,1
+2247,Hair Gel,Styling,7.99,170.0,4.0,4.0,16,1,7,0
+2248,Comb,Tools,4.99,38.0,4.0,10.0,40,0,7,1
+2249,Comb,Tools,4.99,158.0,4.0,3.0,12,1,7,0
+2250,Comb,Tools,4.99,21.0,1.0,8.0,8,0,1,0
+2251,Conditioner,Hair Care,11.99,184.0,4.0,6.0,24,0,5,0
+2252,Conditioner,Hair Care,11.99,57.0,7.0,2.0,14,0,10,0
+2253,Comb,Tools,4.99,135.0,7.0,9.0,63,0,8,0
+2254,Hair Gel,Styling,7.99,199.0,5.0,6.0,30,1,6,0
+2255,Comb,Tools,4.99,204.0,0.0,6.0,0,1,3,0
+2256,Hair Mousse,Styling,9.99,144.0,1.0,8.0,8,1,2,0
+2257,Hair Mousse,Styling,9.99,32.0,,3.0,15,1,4,0
+2258,Shampoo,Hair Care,12.99,146.0,6.0,6.0,36,0,8,0
+2259,Conditioner,Hair Care,11.99,82.0,10.0,7.0,70,1,12,0
+2260,Conditioner,Hair Care,11.99,3.0,1.0,4.0,4,1,0,1
+2261,Conditioner,Hair Care,11.99,98.0,8.0,3.0,24,0,8,0
+2262,Hair Spray,Styling,10.99,50.0,5.0,8.0,40,1,3,0
+2263,Shampoo,Hair Care,12.99,115.0,12.0,8.0,96,1,11,0
+2264,Shampoo,Hair Care,12.99,7.0,5.0,3.0,15,1,6,1
+2265,Hair Mousse,Styling,9.99,186.0,4.0,10.0,40,0,5,0
+2266,Conditioner,Hair Care,11.99,92.0,8.0,4.0,32,1,9,0
+2267,Comb,Tools,4.99,127.0,0.0,2.0,0,1,0,0
+2268,Comb,Tools,4.99,6.0,2.0,7.0,14,0,5,1
+2269,Hair Spray,Styling,10.99,110.0,3.0,,24,1,6,0
+2270,Hair Mousse,Styling,9.99,233.0,8.0,7.0,56,1,7,0
+2271,Hair Mousse,Styling,9.99,,6.0,10.0,60,0,9,0
+2272,Comb,Tools,4.99,45.0,2.0,4.0,8,1,2,0
+2273,Shampoo,Hair Care,12.99,154.0,7.0,6.0,42,0,6,0
+2274,Comb,Tools,4.99,177.0,8.0,2.0,16,0,7,0
+2275,Conditioner,Hair Care,11.99,132.0,10.0,8.0,80,0,9,0
+2276,Hair Gel,Styling,7.99,200.0,6.0,7.0,42,1,8,0
+2277,Conditioner,Hair Care,11.99,37.0,8.0,4.0,32,1,7,0
+2278,Hair Spray,Styling,10.99,155.0,5.0,9.0,45,0,8,0
+2279,Hair Gel,Styling,7.99,22.0,7.0,10.0,70,0,7,1
+2280,Hair Gel,Styling,7.99,11.0,4.0,9.0,36,0,2,1
+2281,Shampoo,Hair Care,12.99,125.0,7.0,3.0,21,1,6,0
+2282,Hair Spray,Styling,10.99,56.0,6.0,10.0,60,0,9,1
+2283,Comb,Tools,4.99,111.0,1.0,6.0,6,1,3,0
+2284,Hair Mousse,Styling,9.99,33.0,8.0,5.0,40,0,11,1
+2285,Shampoo,Hair Care,12.99,162.0,12.0,3.0,36,1,14,0
+2286,Comb,Tools,4.99,219.0,2.0,4.0,8,1,1,0
+2287,Hair Spray,Styling,10.99,86.0,3.0,5.0,15,0,3,0
+2288,Comb,Tools,4.99,122.0,3.0,3.0,9,0,5,0
+2289,Shampoo,Hair Care,12.99,211.0,6.0,5.0,30,1,4,0
+2290,Hair Mousse,Styling,9.99,197.0,6.0,4.0,24,0,4,0
+2291,Shampoo,Hair Care,12.99,130.0,9.0,6.0,54,1,12,0
+2292,Hair Mousse,Styling,9.99,98.0,7.0,9.0,63,1,5,0
+2293,Comb,Tools,4.99,168.0,4.0,3.0,12,0,4,0
+2294,Hair Spray,Styling,10.99,196.0,6.0,8.0,48,0,6,0
+2295,Hair Gel,Styling,7.99,151.0,5.0,5.0,25,1,7,0
+2296,Shampoo,Hair Care,12.99,122.0,9.0,,18,0,9,0
+2297,Hair Spray,Styling,10.99,221.0,1.0,9.0,9,0,0,0
+2298,Conditioner,Hair Care,11.99,146.0,7.0,8.0,56,1,8,0
+2299,Conditioner,Hair Care,11.99,18.0,10.0,4.0,40,1,11,1
+2300,Conditioner,Hair Care,11.99,33.0,5.0,2.0,10,1,6,0
+2301,Hair Gel,Styling,7.99,166.0,6.0,10.0,60,1,7,0
+2302,Comb,Tools,4.99,175.0,0.0,6.0,0,0,0,0
+2303,Hair Mousse,Styling,9.99,48.0,3.0,2.0,6,1,5,0
+2304,Shampoo,Hair Care,12.99,150.0,11.0,7.0,77,1,12,0
+2305,Hair Mousse,Styling,9.99,,6.0,2.0,12,0,9,0
+2306,Hair Gel,Styling,7.99,78.0,4.0,8.0,32,1,5,0
+2307,Hair Mousse,Styling,9.99,226.0,7.0,3.0,21,0,8,0
+2308,Shampoo,Hair Care,12.99,65.0,8.0,8.0,64,1,7,0
+2309,Hair Spray,Styling,10.99,189.0,4.0,8.0,32,1,4,0
+2310,Shampoo,Hair Care,12.99,225.0,6.0,4.0,24,1,8,0
+2311,Hair Spray,Styling,10.99,119.0,2.0,2.0,4,1,1,0
+2312,Hair Gel,Styling,7.99,172.0,6.0,3.0,18,1,6,0
+2313,Hair Spray,Styling,10.99,195.0,6.0,7.0,42,1,8,0
+2314,Conditioner,Hair Care,11.99,76.0,10.0,6.0,60,0,13,0
+2315,Hair Mousse,Styling,9.99,156.0,4.0,3.0,12,0,5,0
+2316,Hair Mousse,Styling,9.99,,3.0,6.0,18,1,4,0
+2317,Comb,Tools,4.99,,2.0,4.0,8,0,1,0
+2318,Hair Spray,Styling,10.99,185.0,0.0,10.0,0,1,3,0
+2319,Hair Spray,Styling,10.99,114.0,5.0,4.0,20,0,3,0
+2320,Hair Mousse,Styling,9.99,77.0,6.0,5.0,30,1,6,0
+2321,Conditioner,Hair Care,11.99,9.0,5.0,5.0,25,0,3,1
+2322,Hair Gel,Styling,7.99,237.0,8.0,5.0,40,0,10,0
+2323,Hair Mousse,Styling,9.99,27.0,6.0,4.0,24,0,4,0
+2324,Hair Mousse,Styling,9.99,135.0,4.0,7.0,28,1,6,0
+2325,Hair Spray,Styling,10.99,240.0,3.0,8.0,24,0,1,0
+2326,Hair Mousse,Styling,9.99,48.0,4.0,8.0,32,0,3,0
+2327,Shampoo,Hair Care,12.99,226.0,9.0,5.0,45,0,9,0
+2328,Comb,Tools,4.99,34.0,4.0,6.0,24,1,5,0
+2329,Shampoo,Hair Care,12.99,77.0,8.0,5.0,40,1,11,0
+2330,Comb,Tools,4.99,205.0,1.0,10.0,10,0,0,0
+2331,Hair Mousse,Styling,9.99,181.0,2.0,4.0,8,1,4,0
+2332,Comb,Tools,4.99,22.0,0.0,9.0,0,0,0,0
+2333,Conditioner,Hair Care,11.99,215.0,2.0,7.0,14,0,0,0
+2334,Shampoo,Hair Care,12.99,41.0,9.0,6.0,54,1,10,1
+2335,Conditioner,Hair Care,11.99,50.0,9.0,5.0,45,0,8,0
+2336,Conditioner,Hair Care,11.99,84.0,1.0,5.0,5,0,0,0
+2337,Hair Gel,Styling,7.99,112.0,9.0,3.0,27,0,12,0
+2338,Shampoo,Hair Care,12.99,112.0,8.0,9.0,72,1,10,0
+2339,Shampoo,Hair Care,12.99,44.0,7.0,6.0,42,1,10,0
+2340,Conditioner,Hair Care,11.99,,4.0,9.0,36,0,3,0
+2341,Conditioner,Hair Care,11.99,11.0,5.0,4.0,20,1,7,1
+2342,Comb,Tools,4.99,204.0,6.0,3.0,18,0,7,0
+2343,Shampoo,Hair Care,12.99,225.0,7.0,7.0,49,1,5,0
+2344,Hair Mousse,Styling,9.99,169.0,6.0,3.0,18,1,7,0
+2345,Hair Spray,Styling,10.99,239.0,3.0,4.0,12,0,3,0
+2346,Hair Gel,Styling,7.99,39.0,6.0,4.0,24,0,6,0
+2347,Hair Spray,Styling,10.99,200.0,2.0,7.0,14,1,3,0
+2348,Hair Spray,Styling,10.99,185.0,4.0,9.0,36,0,3,0
+2349,Conditioner,Hair Care,11.99,25.0,2.0,4.0,8,0,0,0
+2350,Hair Spray,Styling,10.99,10.0,5.0,10.0,50,0,6,1
+2351,Hair Gel,Styling,7.99,218.0,7.0,2.0,14,1,8,0
+2352,Hair Spray,Styling,10.99,38.0,3.0,6.0,18,1,6,0
+2353,Shampoo,Hair Care,12.99,126.0,10.0,3.0,30,0,9,0
+2354,Hair Mousse,Styling,9.99,63.0,5.0,4.0,20,1,3,0
+2355,Conditioner,Hair Care,11.99,96.0,9.0,7.0,63,1,12,0
+2356,Conditioner,Hair Care,11.99,232.0,8.0,10.0,80,0,7,0
+2357,Shampoo,Hair Care,12.99,78.0,11.0,10.0,110,1,13,1
+2358,Hair Mousse,Styling,9.99,118.0,6.0,7.0,42,1,8,0
+2359,Hair Mousse,Styling,9.99,48.0,5.0,9.0,45,1,6,0
+2360,Comb,Tools,4.99,168.0,4.0,7.0,28,0,5,0
+2361,Hair Mousse,Styling,9.99,203.0,,4.0,36,1,8,0
+2362,Hair Gel,Styling,7.99,89.0,4.0,4.0,16,1,2,0
+2363,Hair Mousse,Styling,9.99,29.0,4.0,3.0,12,1,4,0
+2364,Comb,Tools,4.99,179.0,1.0,5.0,5,0,2,0
+2365,Hair Mousse,Styling,9.99,170.0,4.0,4.0,16,1,2,0
+2366,Hair Spray,Styling,10.99,6.0,3.0,3.0,9,0,2,1
+2367,Shampoo,Hair Care,12.99,11.0,5.0,6.0,30,0,7,1
+2368,Shampoo,Hair Care,12.99,45.0,8.0,4.0,32,1,6,0
+2369,Shampoo,Hair Care,12.99,182.0,7.0,7.0,49,0,9,0
+2370,Hair Gel,Styling,7.99,76.0,6.0,3.0,18,1,8,0
+2371,Hair Mousse,Styling,9.99,,4.0,4.0,16,0,7,0
+2372,Hair Spray,Styling,10.99,234.0,6.0,10.0,60,0,7,0
+2373,Hair Gel,Styling,7.99,163.0,5.0,8.0,40,1,5,0
+2374,Hair Gel,Styling,7.99,185.0,7.0,4.0,28,0,5,0
+2375,Shampoo,Hair Care,12.99,49.0,9.0,4.0,36,1,7,0
+2376,Hair Mousse,Styling,9.99,136.0,6.0,6.0,36,1,9,0
+2377,Comb,Tools,4.99,221.0,8.0,3.0,24,1,6,0
+2378,Hair Gel,Styling,7.99,150.0,1.0,6.0,6,0,3,0
+2379,Comb,Tools,4.99,140.0,0.0,,0,0,0,0
+2380,Comb,Tools,4.99,190.0,3.0,2.0,6,0,3,0
+2381,Hair Gel,Styling,7.99,48.0,6.0,3.0,18,1,4,0
+2382,Conditioner,Hair Care,11.99,226.0,5.0,2.0,10,0,5,0
+2383,Comb,Tools,4.99,199.0,2.0,2.0,4,1,0,0
+2384,Hair Gel,Styling,7.99,193.0,4.0,5.0,20,0,3,0
+2385,Comb,Tools,4.99,202.0,3.0,5.0,15,1,2,0
+2386,Comb,Tools,4.99,29.0,6.0,8.0,48,1,5,1
+2387,Shampoo,Hair Care,12.99,0.0,4.0,3.0,12,0,0,1
+2388,Conditioner,Hair Care,11.99,183.0,6.0,10.0,60,0,8,0
+2389,Comb,Tools,4.99,219.0,2.0,3.0,6,1,4,0
+2390,Comb,Tools,4.99,5.0,0.0,9.0,0,0,1,0
+2391,Hair Mousse,Styling,9.99,211.0,7.0,4.0,28,0,5,0
+2392,Shampoo,Hair Care,12.99,159.0,9.0,8.0,72,1,7,0
+2393,Hair Spray,Styling,10.99,107.0,6.0,10.0,60,0,9,0
+2394,Conditioner,Hair Care,11.99,188.0,4.0,4.0,16,1,7,0
+2395,Hair Spray,Styling,10.99,98.0,0.0,4.0,0,1,2,0
+2396,Conditioner,Hair Care,11.99,78.0,5.0,4.0,20,1,5,0
+2397,Comb,Tools,4.99,2.0,1.0,9.0,9,1,2,1
+2398,Hair Gel,Styling,7.99,68.0,5.0,8.0,40,1,6,0
+2399,Hair Gel,Styling,7.99,5.0,5.0,10.0,50,1,3,1
+2400,Hair Mousse,Styling,9.99,175.0,3.0,8.0,24,0,3,0
+2401,Hair Spray,Styling,10.99,216.0,3.0,6.0,18,1,1,0
+2402,Comb,Tools,4.99,87.0,3.0,10.0,30,0,5,0
+2403,Shampoo,Hair Care,12.99,67.0,11.0,6.0,66,0,11,0
+2404,Hair Gel,Styling,7.99,224.0,11.0,3.0,33,0,9,0
+2405,Hair Gel,Styling,7.99,,6.0,10.0,60,0,8,0
+2406,Hair Mousse,Styling,9.99,91.0,1.0,2.0,2,0,3,0
+2407,Hair Mousse,Styling,9.99,170.0,4.0,10.0,40,0,6,0
+2408,Comb,Tools,4.99,27.0,1.0,5.0,5,0,0,0
+2409,Shampoo,Hair Care,12.99,12.0,7.0,2.0,14,0,6,1
+2410,Hair Gel,Styling,7.99,,2.0,7.0,14,0,5,0
+2411,Hair Mousse,Styling,9.99,24.0,2.0,10.0,20,0,2,0
+2412,Hair Mousse,Styling,9.99,110.0,4.0,9.0,36,0,7,0
+2413,Comb,Tools,4.99,205.0,3.0,2.0,6,0,1,0
+2414,Comb,Tools,4.99,31.0,4.0,6.0,24,1,4,0
+2415,Hair Gel,Styling,7.99,70.0,6.0,7.0,42,1,7,0
+2416,Shampoo,Hair Care,12.99,96.0,10.0,3.0,30,1,10,0
+2417,Hair Mousse,Styling,9.99,238.0,7.0,8.0,56,0,6,0
+2418,Hair Mousse,Styling,9.99,60.0,5.0,6.0,30,0,6,0
+2419,Hair Mousse,Styling,9.99,138.0,7.0,6.0,42,1,10,0
+2420,Conditioner,Hair Care,11.99,,9.0,10.0,90,1,8,1
+2421,Hair Mousse,Styling,9.99,85.0,1.0,7.0,7,0,0,0
+2422,Shampoo,Hair Care,12.99,0.0,7.0,4.0,28,0,0,1
+2423,Comb,Tools,4.99,36.0,1.0,9.0,9,0,2,0
+2424,Comb,Tools,4.99,63.0,1.0,7.0,7,1,3,0
+2425,Comb,Tools,4.99,215.0,1.0,7.0,7,1,0,0
+2426,Hair Gel,Styling,7.99,94.0,4.0,2.0,8,0,4,0
+2427,Hair Spray,Styling,10.99,23.0,3.0,6.0,18,1,4,0
+2428,Comb,Tools,4.99,54.0,2.0,9.0,18,1,4,0
+2429,Hair Mousse,Styling,9.99,148.0,5.0,6.0,30,1,8,0
+2430,Conditioner,Hair Care,11.99,9.0,5.0,10.0,50,0,3,1
+2431,Shampoo,Hair Care,12.99,176.0,10.0,5.0,50,0,9,0
+2432,Hair Spray,Styling,10.99,227.0,7.0,,21,0,7,0
+2433,Hair Spray,Styling,10.99,111.0,8.0,4.0,32,0,8,0
+2434,Hair Gel,Styling,7.99,83.0,6.0,7.0,42,0,9,0
+2435,Shampoo,Hair Care,12.99,131.0,6.0,3.0,18,1,6,0
+2436,Hair Gel,Styling,7.99,127.0,7.0,8.0,56,1,6,0
+2437,Conditioner,Hair Care,11.99,208.0,8.0,8.0,64,1,7,0
+2438,Hair Mousse,Styling,9.99,13.0,2.0,2.0,4,0,5,0
+2439,Hair Gel,Styling,7.99,58.0,4.0,2.0,8,0,6,0
+2440,Shampoo,Hair Care,12.99,180.0,10.0,10.0,100,1,10,0
+2441,Hair Spray,Styling,10.99,198.0,6.0,10.0,60,1,6,0
+2442,Hair Mousse,Styling,9.99,210.0,5.0,7.0,35,0,7,0
+2443,Shampoo,Hair Care,12.99,45.0,5.0,4.0,20,1,3,0
+2444,Comb,Tools,4.99,229.0,1.0,3.0,3,1,0,0
+2445,Hair Gel,Styling,7.99,230.0,3.0,3.0,9,0,4,0
+2446,Hair Mousse,Styling,9.99,236.0,4.0,6.0,24,1,3,0
+2447,Hair Gel,Styling,7.99,133.0,6.0,3.0,18,0,4,0
+2448,Hair Spray,Styling,10.99,87.0,5.0,3.0,15,0,3,0
+2449,Shampoo,Hair Care,12.99,70.0,,7.0,28,0,6,0
+2450,Comb,Tools,4.99,234.0,5.0,4.0,20,1,3,0
+2451,Hair Spray,Styling,10.99,220.0,2.0,8.0,16,0,3,0
+2452,Comb,Tools,4.99,80.0,,2.0,4,1,5,0
+2453,Hair Mousse,Styling,9.99,,2.0,4.0,8,1,5,0
+2454,Conditioner,Hair Care,11.99,201.0,6.0,10.0,60,1,5,0
+2455,Shampoo,Hair Care,12.99,62.0,7.0,8.0,56,0,5,0
+2456,Shampoo,Hair Care,12.99,219.0,6.0,6.0,36,0,6,0
+2457,Conditioner,Hair Care,11.99,102.0,6.0,3.0,18,1,6,0
+2458,Hair Gel,Styling,7.99,20.0,6.0,8.0,48,0,8,1
+2459,Comb,Tools,4.99,1.0,4.0,7.0,28,1,1,1
+2460,Hair Gel,Styling,7.99,23.0,2.0,9.0,18,0,5,0
+2461,Hair Gel,Styling,7.99,61.0,9.0,9.0,81,0,11,1
+2462,Hair Gel,Styling,7.99,74.0,6.0,2.0,12,0,9,0
+2463,Conditioner,Hair Care,11.99,116.0,12.0,2.0,24,1,11,0
+2464,Hair Mousse,Styling,9.99,234.0,5.0,3.0,15,1,6,0
+2465,Shampoo,Hair Care,12.99,8.0,9.0,3.0,27,1,8,1
+2466,Hair Mousse,Styling,9.99,,6.0,6.0,36,1,7,0
+2467,Conditioner,Hair Care,11.99,171.0,4.0,,40,0,6,0
+2468,Conditioner,Hair Care,11.99,124.0,5.0,10.0,50,1,3,0
+2469,Hair Spray,Styling,10.99,193.0,6.0,5.0,30,1,8,0
+2470,Hair Spray,Styling,10.99,204.0,7.0,6.0,42,0,10,0
+2471,Hair Mousse,Styling,9.99,240.0,5.0,10.0,50,1,6,0
+2472,Comb,Tools,4.99,60.0,4.0,10.0,40,1,7,0
+2473,Conditioner,Hair Care,11.99,5.0,4.0,8.0,32,0,5,1
+2474,Hair Mousse,Styling,9.99,198.0,4.0,5.0,20,0,4,0
+2475,Hair Spray,Styling,10.99,126.0,1.0,5.0,5,1,3,0
+2476,Conditioner,Hair Care,11.99,187.0,7.0,9.0,63,0,8,0
+2477,Hair Spray,Styling,10.99,3.0,7.0,3.0,21,0,3,1
+2478,Shampoo,Hair Care,12.99,47.0,6.0,7.0,42,0,6,0
+2479,Conditioner,Hair Care,11.99,220.0,6.0,5.0,30,0,4,0
+2480,Shampoo,Hair Care,12.99,68.0,8.0,2.0,16,1,11,0
+2481,Hair Spray,Styling,10.99,55.0,4.0,4.0,16,1,4,0
+2482,Shampoo,Hair Care,12.99,15.0,5.0,6.0,30,0,3,1
+2483,Shampoo,Hair Care,12.99,150.0,5.0,10.0,50,0,6,0
+2484,Hair Spray,Styling,10.99,104.0,5.0,,15,1,6,0
+2485,Comb,Tools,4.99,165.0,4.0,5.0,20,1,3,0
+2486,Shampoo,Hair Care,12.99,49.0,7.0,3.0,21,1,10,0
+2487,Hair Gel,Styling,7.99,114.0,8.0,4.0,32,0,6,0
+2488,Conditioner,Hair Care,11.99,100.0,8.0,4.0,32,1,6,0
+2489,Shampoo,Hair Care,12.99,,6.0,9.0,54,1,7,0
+2490,Hair Mousse,Styling,9.99,244.0,6.0,2.0,12,0,7,0
+2491,Shampoo,Hair Care,12.99,167.0,3.0,9.0,27,0,2,0
+2492,Hair Spray,Styling,10.99,10.0,4.0,,12,1,7,1
+2493,Hair Mousse,Styling,9.99,80.0,2.0,6.0,12,1,5,0
+2494,Conditioner,Hair Care,11.99,140.0,8.0,9.0,72,1,6,0
+2495,Conditioner,Hair Care,11.99,211.0,2.0,5.0,10,1,2,0
+2496,Hair Mousse,Styling,9.99,36.0,6.0,4.0,24,0,6,0
+2497,Conditioner,Hair Care,11.99,244.0,8.0,2.0,16,1,10,0
+2498,Hair Gel,Styling,7.99,226.0,7.0,5.0,35,0,10,0
+2499,Conditioner,Hair Care,11.99,236.0,9.0,4.0,36,1,10,0
