@@ -7,8 +7,6 @@ WORKDIR /app
 # Copy everything into container
 COPY . .
 
-ENV PYTHONPATH=/app
-
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 

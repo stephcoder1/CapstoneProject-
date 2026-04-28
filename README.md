@@ -61,15 +61,6 @@ CapstoneProject/
 └── README.md
 ```
 
-## 🧪 Example Output
-
-```
---- Generating Dataset ---
---- Training Model ---
---- Running Sample Prediction ---
-Restock Needed
-```
-
 ---
 
 ## 🤖 Model Details

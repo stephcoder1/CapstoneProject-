@@ -3,7 +3,7 @@ import sys
 from fastapi import FastAPI
 
 sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
-from predict import load_model, make_prediction
+from src.predict import load_model, make_prediction
 
 app = FastAPI()
 
