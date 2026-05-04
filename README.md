@@ -1,83 +1,117 @@
-# 📦 Inventory Demand Forecasting & Restocking System
+#  Inventory Stockout Prediction System
 
-# Inventory Management ML System
+##  Project Overview
 
-## 📌 Overview
+This project focuses on predicting inventory stockouts for a hair braiding business using machine learning. The goal is to identify when specific products are likely to run out so that the business can restock proactively and avoid losing customers.
 
-This project is a machine learning-based inventory management system that predicts when a product should be restocked. The goal is to simulate real-world inventory behavior and help businesses avoid running out of stock.
-
-Since real data was not available, a synthetic dataset was generated to mimic realistic inventory patterns such as demand, stock levels, and supplier delays.
+The system simulates real-world salon operations by modeling customer demand, product usage, and inventory behavior.
 
 ---
 
-## 🎯 Objectives
+## Problem Statement
 
-* Generate realistic inventory data
-* Train a machine learning model to predict restocking needs
-* Automate the workflow using a structured pipeline
-* Build a project that reflects real-world business logic
+Small businesses such as hair braiding salons often face challenges with inventory management. Running out of essential products can result in:
 
----
+- Lost revenue  
+- Poor customer experience  
+- Inefficient operations  
 
-## 🧠 How It Works
-
-The project follows a simple ML pipeline:
-
-1. **Data Generation**
-
-   * Creates synthetic inventory data with realistic relationships
-   * Includes features like stock level, demand, and lead time
-
-2. **Model Training**
-
-   * Uses a Random Forest classifier
-   * Learns patterns such as when stock is too low and needs restocking
-
-3. **Prediction**
-
-   * Tests the trained model on sample data
-   * Outputs whether restocking is needed
+This project aims to address this issue by predicting stockouts before they occur.
 
 ---
 
-## 📁 Project Structure
+## Solution
 
-```
-CapstoneProject/
-│
-├── data/
-│   └── inventory_data.csv
-│
-├── src/
-│   ├── data_generation.py
-│   ├── train_model.py
-│   └── predict.py
-│
-├── models/
-│   └── inventory_model.pkl
-│
-├── main.py
-├── requirements.txt
-└── README.md
-```
+A machine learning classification model was developed to predict whether a stockout will occur based on:
+
+- Inventory levels  
+- Customer demand  
+- Product type  
+- Time-based patterns  
+
+The model was deployed using FastAPI to enable real-time predictions through an API.
 
 ---
 
-## 🤖 Model Details
+##  Dataset Description
 
-* Model: Random Forest Classifier
-* Task: Binary Classification (Restock vs No Restock)
-* Key Features:
+The dataset contains approximately **2,500+ rows**, where:
 
-  * Stock Level
-  * Daily Demand
-  * Supplier Lead Time
-  * Units Sold
+> Each row represents one product on one specific day.
+
+### Key Features
+
+- item_name → product type (e.g., mousse, braiding hair)  
+- style_type → hairstyle being performed  
+- stock_level → available inventory  
+- quantity_sold → units used  
+- appointments_per_day → number of customers  
+- promotion, is_holiday → demand drivers  
 
 ---
 
-## 💡 Key Insights
+##  Feature Engineering
 
-* Lower stock levels increase restocking probability
-* Higher demand leads to faster inventory depletion
-* Lead time impacts when restocking should occur
+Feature engineering was applied to improve model performance by capturing meaningful patterns.
+
+Examples include:
+
+- Extracting day of week and month from the date  
+- Creating stock_pressure to represent inventory risk  
+- Building item_style to capture interactions between product and hairstyle  
+- Generating lag and rolling average features to reflect demand trends  
+
+---
+
+## Model Selection
+
+The model used is a:
+
+### Random Forest Classifier
+
+### Justification
+
+- Handles non-linear relationships effectively  
+- Works well with both numerical and categorical data  
+- Captures interactions between features  
+- Reduces risk of overfitting through ensemble learning  
+
+---
+
+### Key Insight
+
+Recall was prioritized because missing a stockout can lead to lost sales and negative customer impact.
+
+---
+
+## Evaluation Metrics
+
+- Precision → How often predicted stockouts are correct  
+- Recall → How many actual stockouts are detected  
+- F1-score → Balance between precision and recall  
+- Confusion Matrix → Breakdown of predictions  
+
+---
+
+##  Deployment
+
+The model was deployed using FastAPI, allowing users to send input data and receive stockout predictions in real time.
+
+---
+
+## Docker Support
+
+The application was containerized using Docker to ensure consistent deployment across environments.
+
+---
+
+##  Limitations
+
+- Dataset is synthetic and may not fully reflect real-world variability  
+- Stockouts are inferred rather than directly observed  
+- External factors such as weather or events are not included  
+
+## 👩🏾‍💻 Author
+
+Stephanie Adaku  
+Machine Learning Capstone Project

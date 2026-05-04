@@ -1,126 +1,86 @@
-# Inventory Management ML Project Plan
+#  Inventory Stockout Prediction Project Plan
 
-## 📌 Project Goal
+##  Project Objective
 
-Build a machine learning system that predicts when inventory should be restocked based on stock levels, demand, and supplier lead time.
-
----
-
-## 🧱 Phase 1: Project Setup
-
-**Goal:** Create a clean and organized project structure
-
-Tasks:
-
-* Create folders: `data/`, `src/`, `models/`
-* Create core files:
-
-  * `data_generation.py`
-  * `train_model.py`
-  * `predict.py`
-  * `main.py`
-* Set up `requirements.txt`
+To build a machine learning model that predicts inventory stockouts for a hair braiding business and deploy it as a usable API.
 
 ---
 
-## 📊 Phase 2: Data Generation
+##  Phase 1: Planning (Early April)
 
-**Goal:** Create a realistic synthetic dataset
-
-Tasks:
-
-* Define dataset columns (stock, demand, lead time, etc.)
-* Add logical relationships:
-
-  * Low stock → higher chance of restock
-  * High demand → faster stock depletion
-* Generate 500–1000 rows of data
-* Save dataset to `data/inventory_data.csv`
+- Defined project idea and scope  
+- Identified business problem (inventory stockouts)  
+- Outlined approach and tools  
+- Created initial project plan  
 
 ---
 
-## 🧠 Phase 3: Model Development
+## Phase 2: Data Creation
 
-**Goal:** Train a machine learning model
-
-Tasks:
-
-* Load dataset using pandas
-* Split data into features (X) and target (y)
-* Train a Random Forest classifier
-* Evaluate performance (precision, recall, F1-score)
-* Save model to `models/inventory_model.pkl`
-
----
-
-## 🔍 Phase 4: Prediction System
-
-**Goal:** Test the model
-
-Tasks:
-
-* Load saved model
-* Create sample input data
-* Generate prediction (restock or not)
-* Print results
+- Designed synthetic dataset  
+- Simulated real-world business behavior:
+  - Daily product usage  
+  - Customer demand patterns  
+  - Inventory constraints  
+- Incorporated realistic patterns:
+  - Weekend demand increases  
+  - Holiday spikes  
+  - Promotional effects  
 
 ---
 
-## 🔁 Phase 5: Pipeline Integration
+##  Phase 3: Feature Engineering
 
-**Goal:** Automate the workflow
-
-Tasks:
-
-* Connect all scripts in `main.py`
-* Ensure correct execution order:
-
-  1. Generate data
-  2. Train model
-  3. Run prediction
+- Extracted time-based features (day of week, month)  
+- Created lag and rolling average features  
+- Developed stock_pressure to measure inventory risk  
+- Built item_style to capture product-style relationships  
 
 ---
 
-## 🐳 Phase 6: Dockerization (Optional but Recommended)
+##  Phase 4: Model Development
 
-**Goal:** Make the project portable
-
-Tasks:
-
-* Create a `Dockerfile`
-* Define environment and dependencies
-* Build Docker image
-* Run project inside container
-
----
-
-## 🚀 Phase 7: Enhancements (Stretch Goals)
-
-**Goal:** Improve project quality and impact
-
-* Create an API using FastAPI
+- Selected classification approach  
+- Trained Random Forest model  
+- Tuned model parameters  
+- Evaluated performance using:
+  - Accuracy  
+  - Precision  
+  - Recall  
+  - Confusion matrix  
 
 ---
 
-## ✅ Final Deliverables
+## Phase 5: Debugging & Iteration
 
-* Working ML pipeline
-* Synthetic dataset
-* Trained model file
-* Clean project structure
-* README documentation
-
----
-
-## 📌 Success Criteria
-
-* Model runs without errors
-* Predictions are generated successfully
-* Code is organized and modular
-* Project is easy to run using `main.py`
+- Fixed preprocessing and encoding issues  
+- Handled missing values  
+- Improved feature selection  
+- Ensured model stability and performance  
 
 ---
 
-## 💡 Summary
+##  Phase 6: Deployment (Final Week)
 
-This project simulates a real-world inventory system and applies machine learning to predict restocking needs, demonstrating both technical and practical problem-solving skills.
+- Built FastAPI application  
+- Integrated model into API  
+- Created prediction endpoint  
+- Tested predictions using Swagger UI  
+- Containerized application using Docker  
+
+---
+
+##  Final Outcome
+
+- Fully trained machine learning model  
+- Working API for real-time predictions  
+- End-to-end system from data to deployment  
+
+---
+
+## Next Steps
+
+- Integrate real-world data  
+- Improve user interface  
+- Expand model features  
+- Deploy to cloud environment  

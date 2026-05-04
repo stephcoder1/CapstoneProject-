@@ -5,7 +5,6 @@ import numpy as np
 import joblib
 from datetime import datetime
 
-# Load saved model objects
 model = joblib.load("inventory_model.pkl")
 encoder = joblib.load("encoder.pkl")
 scaler = joblib.load("scaler.pkl")
@@ -30,7 +29,6 @@ numeric_cols = [
     "stock_pressure"
 ]
 
-# Only real user inputs
 class InventoryInput(BaseModel):
     date: str
     item_name: str
@@ -51,13 +49,13 @@ def home():
 
 @app.post("/predict")
 def predict_stockout(data: InventoryInput):
-    # Convert input to dictionary
+    
     input_data = data.dict()
 
-    # Convert date
+    
     date_obj = pd.to_datetime(input_data["date"])
 
-    # Automatically create engineered features
+    
     input_data["day_of_week"] = date_obj.dayofweek
     input_data["month"] = date_obj.month
     input_data["is_weekend"] = 1 if date_obj.dayofweek >= 5 else 0
@@ -74,10 +72,10 @@ def predict_stockout(data: InventoryInput):
         input_data["stock_level"] / (input_data["appointments_per_day"] + 1)
     )
 
-    # Create dataframe in correct column order
+    
     df = pd.DataFrame([input_data])
 
-    # Keep only columns the model expects
+    
     X_cat = encoder.transform(df[categorical_cols])
     X_num = scaler.transform(df[numeric_cols])
 
